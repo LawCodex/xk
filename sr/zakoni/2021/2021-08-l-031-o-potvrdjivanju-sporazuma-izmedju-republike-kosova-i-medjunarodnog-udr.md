@@ -448,23 +448,7 @@ Odeljak ll Programa 2. uz plvobitni Ugovor o tinansirattjtl ovim se menja u celo
 
 Tabela iz Odeljka III.A.2 Prograrna 2. uz prvobitni Ugovor o finarrsimnjtt ovim se menja i glasi:
 
-:l Itutcgorija Iznos dodeljenih finansijsliz Opcije za lsituacije (izlaZeno rr
-
-### EUR)
-
-I 7.100.0{)0
-
-(1) Roba, mdovi, konsultantske usluge, usluge koje nisu konsultantske, opelativni troikovi i obrrka prcnra Delu LA, Delu l.B(i)-(vii) i Delu 3 Projekta
-
-28.900.000
-
-(2) Gotovinski transferi i nalorade za dobavljada usluga iz Dela 2.
-
-Projekta
-
-### UKUI'AN IZNOS
-
-i0 Procenal troSlse finansiraj u (uktiuiuiu6i poreze)
+:l Itutcgorija Iznos dodeljenih finansijsliz Opcije za lse finansiraj u (uktiuiuiu6i poreze)
 
 10006 I 00 9/o Odeljak IU.B.3 Programa 2. uz prvob;tni Ugovor o fiaansiranju ovim se menla i glasi:
 

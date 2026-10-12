@@ -76,7 +76,9 @@ Duke konsidcruar €ndesine e nivelit € tano te beshkepurimit nE fushsl e mbro
 
 Dukc njohur h:ishki:frtrnimhl ck"jsluas te kdjur Per,nct Mcmotandumir € M€L:uptimit Pdr Bashlepunim n0 Mbroj{e dhe Siguri. te ninshkrlanrE Prill 2010 Jano gajtuar si nE vijim:
 
-Neni I Pitrliufizimr:t l. ..PieiEtsftt c fiorcEs" nenhrrpton pjesetnr& e ushltise se Rcp[blikEs "i' Maqedonisii se vcriut dhc pFsitareve G lrorces sc Sigurilie tE Repuuike se Kosovi:s'
+#### Neni I
+
+Pitrliufizimr:t l. ..PieiEtsftt c fiorcEs" nenhrrpton pjesetnr& e ushltise se Rcp[blikEs "i' Maqedonisii se vcriut dhc pFsitareve G lrorces sc Sigurilie tE Repuuike se Kosovi:s'
 
 \2. "liomponenti CIvil" nenkupt3..,Vrrtka,,ngnkuptonbashk€shorti/bashkeshonjaeojepje\glaritgnjgforceoscitnjekon'1"'nenti civil, ose fCmiu/fornjel e njit pje'sgtsri tii tillg' qe vat€t nga ai oce ajo Pih mb€shtetje'
 

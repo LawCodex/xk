@@ -84,7 +84,9 @@ ndnshkruar nga pal6t me 1S korrik 201g ne prishtind Palat kari6 rdnd dakord le h
 
 Pa6t ne ndryshimin e rartpSrmendur jane pajtuar q6 tc ndryshojna dispozitat e mEposhtme sig vijon:
 
-Neni I Nenparagraii a iparagrafit 3 te nenit u - edrrimer crhe objektivat, e Marreveshjes o*gjinare pErmeskdsai ndryshohet dhe zdvendesohet n6 terdsine e saj me sa vilon:
+#### Neni I
+
+Nenparagraii a iparagrafit 3 te nenit u - edrrimer crhe objektivat, e Marreveshjes o*gjinare pErmeskdsai ndryshohet dhe zdvendesohet n6 terdsine e saj me sa vilon:
 
 Paragrafi 1 i nenit ltr obrigimel e qeveris6 zvicerane, nga Marr,iveshja origjinare permes k6saj ndryshohet dhe zEvenddsohet flB t6rdsin6 e sai me sa vijoi:
 

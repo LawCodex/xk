@@ -7,7 +7,6 @@ language: sq
 date: 2011-04-01
 status: in_force
 text_version: original
-gazette: "Gazeta Zyrtare "
 source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=3680"
 retrieved: 2026-10-12
 ---

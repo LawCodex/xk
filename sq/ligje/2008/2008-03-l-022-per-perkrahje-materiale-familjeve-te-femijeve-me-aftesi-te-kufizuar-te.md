@@ -1,19 +1,39 @@
 ---
-title: "LIGJI NR. 03/L-022 PËR PËRKRAHJE MATERIALE FAMILJEVE TË FËMIJËVE ME AFTËSI TË KUFIZUAR TË PËRHERSHËM"
+title: "LIGJI NR. 03/L-022 PËR PËRKRAHJE MATERIALE FAMILJEVE TË FËMIJËVE ME AFTËSI TË KUFIZUAR TË PËRHERSHME (KONSOLIDUAR)"
 identifier: "03/L-022"
 type: act
 jurisdiction: xk
 language: sq
 date: 2008-09-10
+last_amended: 2025-10-23
 status: in_force
-text_version: original
+text_version: consolidated
 gazette: "Gazeta Zyrtare 37/2008"
-source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2582"
+source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=111761"
 retrieved: 2026-10-12
-note: "Original text as published; amended by 2 later act(s) listed on the source page."
+note: "Consolidated text published by the Official Gazette as non-official (\"Teksti i spastruar i ligjit nuk paraqet version zyrtar\")."
+base_act: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2582"
 ---
 
-# LIGJI NR. 03/L-022 PËR PËRKRAHJE MATERIALE FAMILJEVE TË FËMIJËVE ME AFTËSI TË KUFIZUAR TË PËRHERSHËM
+# LIGJI NR. 03/L-022 PËR PËRKRAHJE MATERIALE FAMILJEVE TË FËMIJËVE ME AFTËSI TË KUFIZUAR TË PËRHERSHME (KONSOLIDUAR)
+
+### LIGJI NR. 03/L-022 PËR PËRKRAHJE MATERIALE FAMILJEVE TË FËMIJËVE ME AFTËSI TË
+
+### KUFIZUAR TË PËRHERSHME
+
+(data e publikimit 10.09.2006)1 Teksti i integruar me ndryshimet dhe plotësimet e bëra në bazë të:
+
+### LIGJI NR. 08/L-283 PËR HARMONIZIMIN E LIGJEVE TË VEÇANTA ME LIGJIN NR. 05/L-087 PËR
+
+### KUNDËRVAJTJE
+
+(data e publikimit 26.12.2024)
+
+### LIGJI NR. 08/L-276 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJEVE TË VEÇANTA PËR KRIJIMIN E
+
+### BAZËS LIGJORE PËR NXJERRJEN E AKTEVE NËNLIGJORE NGA QEVERIA DHE MINISTRAT
+
+(data e publikimit 27.12.2024)
 
 ### LIGJI NR. 03/L-022
 
@@ -21,17 +41,13 @@ note: "Original text as published; amended by 2 later act(s) listed on the sourc
 
 ### PËRHERSHME
 
-Kuvendi i Republikës së Kosovës,
-
-Në mbështetje të kreut 5.1 (j) dhe 9.1.26 (a) të Kornizës Kushtetuese të Vetëqeverisjes së Përkohshme në Kosovë;
+Kuvendi i Republikës së Kosovës, Në mbështetje të kreut 5.1 (j) dhe 9.1.26 (a) të Kornizës Kushtetuese të Vetëqeverisjes së Përkohshme në Kosovë;
 
 Duke u nisur nga fakti se Kosova garanton të drejtat e përcaktuara me Konventën për të Drejtat e Fëmijëve;
 
 Duke u nisur nga fakti se në Kosovë ndalohet diskriminimi i fëmijëve në çfarëdo baze;
 
-Duke pasur parasysh rëndësinë, rolin dhe vështirësitë e familjes në mbrojtjen dhe kujdesin për fëmijët me aftësi të kufizuara të përhershme,
-
-Miraton këtë
+Duke pasur parasysh rëndësinë, rolin dhe vështirësitë e familjes në mbrojtjen dhe kujdesin për fëmijët me aftësi të kufizuara të përhershme, Miraton këtë
 
 ### LIGJ PËR PËRKRAHJE MATERIALE FAMILJEVE TË FËMIJËVE ME AFTËSI TË KUFIZUAR TË
 
@@ -47,27 +63,25 @@ Me këtë ligj rregullohet e drejta për përkrahje materiale familjeve të cil�
 
 #### Neni 2
 
-Përkufizimet
+Përkufizimet Shprehjet e përmendura në këtë ligj kanë këtë kuptim:
 
-Shprehjet e përmendura në këtë ligj kanë këtë kuptim:
+“Fëmijët me aftësi të kufizuar të përhershme fizike, mendore dhe shqisore” konsiderohen fëmijët nga lindja deri në moshën 18 vjeçare me vendbanim të përhershëm në Kosovë, të cilët janë plotësisht të paaftë të kryejnë aktivitetet e përditshme jetësore pa kujdesin e personit tjetër.
 
-“Fëmijët me aftësi të kufizuar të përhershme fizike, mendore dhe shqisore” konsiderohen fëmijët nga lindja deri në moshën 18 vjeçare me vendbanim të përhershëm në Kosovë, të cilët janë plotësisht të paaftë të kryejnë aktivitetet e përditshme jetësore pa kujdesin e personit tjetër.
+“Parashtruesi i kërkesës për ndihmë materiale dhe kujdes” nënkupton personin që paraqet kërkesën për përkrahje materiale.
 
-“Parashtruesi i kërkesës për ndihmë materiale dhe kujdes” nënkupton personin që paraqet kërkesën për përkrahje materiale.
+“Autoriteti përkatës” nënkupton Departamentin e Mirëqenies Sociale ose ndonjë organ tjetër të cilin MPMS-ja e autorizon për administrimin e përkujdesjes .
 
-“Autoriteti përkatës” nënkupton Departamentin e Mirëqenies Sociale ose ndonjë organ tjetër të cilin MPMS-ja e autorizon për administrimin e përkujdesjes .
+“Përkujdesje” nënkupton një benificion që administrohet nga MPMS-ja, dhe shërben për të ofruar mbështetje materiale personave që e ofrojnë këtë ndihmë dhe kujdes.
 
-“Përkujdesje”nënkupton një benificion që administrohet nga MPMS-ja, dhe shërben për të ofruar mbështetje materiale personave që e ofrojnë këtë ndihmë dhe kujdes.
+“Përkrahje materiale” është benificion në formë të shumës financiare mujore ose formë tjetër e shpërblimit në të holla që administrohet nga MPMS-ja, për familje me fëmijë me aftësi të kufizuar të përhershme.
 
-“Përkrahje materiale” është benificion në formë të shumës financiare mujore ose formë tjetër e shpërblimit në të holla që administrohet nga MPMS-ja, për familje me fëmijë me aftësi të kufizuar të përhershme.
-
-“Komisioni mjekësor” nënkupton një grup të përbërë prej ekspertëve mjekësor, të emëruar nga MPMSja për ta përcaktuar shkallën e gjendjes shëndetësore të fëmiut.
+“Komisioni mjekësor” nënkupton një grup të përbërë prej ekspertëve mjekësor, të emëruar nga MPMSja për ta përcaktuar shkallën e gjendjes shëndetësore të fëmiut.
 
 “Ekspert” nënkupton personin që ka kryer specializimin nga fusha e mjekësisë dhe është i licencuar si ekspert.
 
 “Shuma mujore” nënkupton shumën e saktë të mjeteve materiale që duhet t’i paguhet familjes me fëmijë me aftësi të kufizuar të përhershme.
 
-“Bashkësia familjare” përkufizohet si një grup individësh që jetojnë bashkë nën një kulm dhe që bashkërisht ndajnë shpenzimet e jetesës. Sipas këtij Ligji, bashkësia familjare mund të përfshijë personat që nuk janë anëtarë të familjes në kuptimin e ngushtë.
+“Bashkësia familjare” përkufizohet si një grup individësh që jetojnë bashkë nën një kulm dhe që bashkërisht ndajnë shpenzimet e jetesës. Sipas këtij Ligji, bashkësia familjare mund të përfshijë personat që nuk janë anëtarë të familjes në kuptimin e ngushtë.
 
 “Familja” është bashkësi e cila përbëhet nga paraqitësi i kërkesës dhe të gjithë anëtarët e tjerë të familjes që ndodhen në bashkësinë familjare: bashkëshorti ose partneri i cili jeton bashkë me të, prindërit dhe fëmijët duke përfshirë edhe fëmijët e adoptuar, fëmijët e vendosur në familje, ose fëmijët e njërit nga partnerët.
 
@@ -75,19 +89,23 @@ Shprehjet e përmendura në këtë ligj kanë këtë kuptim:
 
 “Ekspertiza” nënkupton procedurën e vërtetimit të llojit, shkallës së dëmtimit fizik, mendor, shqisore apo të kombinuar.
 
-“Aftësia e kufizuar e përhershme” nënkupton gjendjen shëndetësore të fëmijës i cili plotësisht dhe përherë nuk mund të lëvizë ose të kryejë aktivitetet e përditshme jetësore pa ndihmën e personit tjetër.
+“Aftësia e kufizuar e përhershme” nënkupton gjendjen shëndetësore të fëmijës i cili plotësisht dhe përherë nuk mund të lëvizë ose të kryejë aktivitetet e përditshme jetësore pa ndihmën e personit tjetër.
 
-“Fëmijë” nënkuptohet çdo person nën moshën 18 vjeçare me përjashtim kur mosha madhore arrihet më përpara, në përputhje me legjislacionin të cilit ai i nënshtrohet.
+“Fëmijë” nënkuptohet çdo person nën moshën 18 vjeçare me përjashtim kur mosha madhore arrihet më përpara, në përputhje me legjislacionin të cilit ai i nënshtrohet.
 
 “MPMS” nënkupton Ministria për Punë dhe Mirëqenie Sociale.
 
 #### Neni 3
+
+(shtohet një nën-paragraf i ri 3.3a. me Ligjin Nr.08/L-276 dt. 27.12.2024)
 
 3.1 Me qëllim të mbrojtjes së fëmijëve me aftësi të kufizuar të përhershme, Ministria e Punës dhe Mirëqenies Sociale përpilon strategjinë e vet për këtë kategori të fëmijëve.
 
 3.2 Ministria e Punës dhe Mirëqenies Sociale, siguron përkrahje materiale familjeve me fëmijë me aftësi të kufizuar të përhershme, në pajtim me mundësitë buxhetore të Kosovës.
 
 3.3 Ndihma materiale familjeve me fëmijë me aftësi të kufizuar të përhershme, do të ofrohet nga Ministria e Punës dhe Mirëqenies Sociale, përmes Departamentit të saj të Mirëqenies Sociale.
+
+3.3a. Ministri i ministrisë përkatëse për mirëqenie sociale me akt nënligjor përcakton procedurat e aplikimit për realizimin e të drejtës në ndihmë materiale për familjet me fëmijë me aftësi të kufizuara të përhershme.
 
 3.4 Ndihma materiale mundëson fëmijët me aftësi të kufizuar të përhershme të bëjnë një jetë më normale në kushtet që garantojnë dinjitetin e tyre dhe lehtësojnë jetën e tyre.
 
@@ -159,7 +177,7 @@ a) nëpunës i shërbimeve sociale;
 
 b) mjek specialist i pediatrisë;
 
-c) mjek specialist i oftalmologjisë - ORL;
+c) mjek specialist i oftalmologjisë -ORL;
 
 d) mjek specialist fiziatër – ortoped;
 
@@ -183,7 +201,7 @@ b) mjek specialist i pediatrisë,
 
 c) mjek specialist i oftalmologjisë -ORL
 
-d) mjek specialist fiziatër - ortoped,
+d) mjek specialist fiziatër -ortoped,
 
 e) mjek specialist i neurologjisë ose psikiatrisë.
 
@@ -239,7 +257,17 @@ Procedurat, përgjegjësitë dhe kompetencat e Komisionit të shkallës se dytë
 
 #### Neni 15
 
+(shtohet neni i ri 15.A me Ligjin nr. 08/L-283 dt. 26.12.2024)
+
 (1) Komisioni i cili kryen ekspertizën mban evidencën për punën e bërë administrative nga momenti i marrjes së konkluzës për kryerjen e ekspertizës, për dokumentet e marra, për seancat e mbajtura të Komisionit, për personat për të cilët është bërë ekspertiza.
+
+#### Neni 15A
+
+Sanksionet kundërvajtëse me gjobë
+
+\1. Me gjobë në shumë prej treqind (300) euro e deri në njëmijë (1.000) euro dënohet personi fizik nëse:
+
+1.1. realizon përkrahjen materiale për kujdes dhe ndihmë fëmijës me aftësi të kufizuar të përhershme nuk lajmëron të gjitha ndryshimet që ndikojnë në realizimin e kësaj të drejte sipas nenit 24 paragrafi 2. të ligjit bazik.
 
 #### Neni 16
 
@@ -295,9 +323,9 @@ b) fotokopje të letërnjoftimit;
 
 c) certifikatës së lindjes;
 
-d) raportit të Komisionit mjekësor për shëndetin e fëmijës me aftësi të kufizuar të përhershme,
+d) raportit të Komisionit mjekësor për shëndetin e fëmijës me aftësi të kufizuar të përhershme, e)
 
-e) shënimet për familjen apo personin i cili kujdeset për fëmijën me aftësi të kufizuara të përhershme.
+shënimet për familjen apo personin i cili kujdeset për fëmijën me aftësi të kufizuara të përhershme.
 
 f) informatat e vendbanimit të fëmijës me aftësi të kufizuara ‘’ .
 
@@ -359,10 +387,6 @@ Dispozitat kalimtare
 
 #### Neni 27
 
-Hyrja në fuqi
+Hyrja në fuqi Ligj hyn në fuqi pas miratimit nga Kuvendi i Republikës së Kosovës dhe shpalljes nga Përfaqësuesi Special i Sekretarit të Përgjithshëm të Organizatës së Kombeve të Bashkuara.
 
-Ligj hyn në fuqi pas miratimit nga Kuvendi i Republikës së Kosovës dhe shpalljes nga Përfaqësuesi Special i Sekretarit të Përgjithshëm të Organizatës së Kombeve të Bashkuara.
-
-### UNMIK/REG /2008/ 33
-
-14.06.2008
+### UNMIK/REG /2008/ 33 14.06.2008

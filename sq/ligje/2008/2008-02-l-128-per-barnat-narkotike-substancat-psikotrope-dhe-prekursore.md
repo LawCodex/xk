@@ -1268,40 +1268,4 @@ aminoethyl)benzenmethanol
 
 Piperonal
 
-(1,3-benzodioxole-5-carboxaldehyde) 2932.93 120-57-0 Pseudoephedrine ([S-(R*benzenemethanol)
-
-2939.42 90-82-4 Safrole (1,3-benzodioxole,5-(2-propenyl)-) 2932.94 94-59-7
-
-### KATEGORIA 2
-
-Anthranilic acid
-
-(2-aminobenzoic acid) 2922.43 118-92-3 Acetic anhydride (acetic oxide) 2915.24 108-24-7
-
-Phenylacetic acid (benzeneacetic acid) 2916.34 103-82-2
-
-Piperidine (piperidine) 2933.32 110-89-4
-
-Potassium permanganate
-
-(permanganic acid (HMnO4),potassium salt)
-
-2841.61 7722-64-7
-
-### KATEGORIA 3
-
-Acetone (2-propanone) 2922.43 67-64-1
-
-Ethyl ether
-
-(1,1’-oxybis[ethanel]) 2909.11 60-29-7 Hydrochloric acid
-
-(hydrochloric acid) 2806.10 7647-01-0 Sulphuric acid (sulfuric acid) 2807.00 7664-93-9
-
-Methyl ethyl ketone
-
-(2-butanone) 2914.12 78-93-3
-
-Toluene
-
-(benzene,methyl-) 2902.30 108-88-3 Kripërat e substancave të renditura në këtë tabelë kurdo qoftë që prania e këtyre kripërave është e mundur.
+(1,3-benzodioxole-5-carboxaldehyde) 2932.93 120-57-0 Pseudoephedrine ([S-(R*

@@ -102,7 +102,9 @@ DUKE PRANUAR qe pjesemarrja reciproke ne programet e kdrkimit dhe inovacionit t�
 
 DUKE PASUR PARASYSH q€ qdllimet e pErbashkdta, vlerat dhe lidhjet e forta tC PalEve nE fush€n e kErkimit dhe inovacionit, dhe duke njohur dEshiren e pdrbashk€t t€ Pal€ve p€r td zhvilluar, forcuar, stimuluar dhe zgjeruar m€ tej marr€dh6niet dhe bashk0punimin e tyre, andaj, KANE RENE DAKORD SI MiJ POSHTE:
 
-Neni I Fush€veprimi i asociacionit l. Kosova do te mare pjese si njd Vend i Asociuar dhe do t€ kontribuoj€ n€ t€ giitha pjeset e Programit Horizon Europe - Korniza e Programit per K0rkimin dhe Inovacionin (l'rogrami Horizon Europe) i referuar ne Nenin 4 t€ Rregullores (BE) 20211695 dhe i zbatuar p€rmes programit specifik i krijuar me Vendimin {BF,) 202117 64', n€ versionet e tyre m€ t€ azhumuara, dhe p6rmes njd kontributi financiar n€ [nstitutin Evropian td Inovacionit dhe TeknologjisE.
+#### Neni I
+
+Fush€veprimi i asociacionit l. Kosova do te mare pjese si njd Vend i Asociuar dhe do t€ kontribuoj€ n€ t€ giitha pjeset e Programit Horizon Europe - Korniza e Programit per K0rkimin dhe Inovacionin (l'rogrami Horizon Europe) i referuar ne Nenin 4 t€ Rregullores (BE) 20211695 dhe i zbatuar p€rmes programit specifik i krijuar me Vendimin {BF,) 202117 64', n€ versionet e tyre m€ t€ azhumuara, dhe p6rmes njd kontributi financiar n€ [nstitutin Evropian td Inovacionit dhe TeknologjisE.
 
 2 Rregullorja (BE) 2021lSl9 e Parlamentit Ewopian dhe e Keshillitr, dhe Vendimi (BE)
 
@@ -232,7 +234,9 @@ Shlienca e hapur Paldt do td promovojnd dhe inkurajojn€ reciprokisht praktikat
 
 Monitorimi, Vler6simi dhe Raportimi l. Pa paragiykuar pergiegidsit€ e Komisionit, Zyr€s Evropiane kunder Mashtrimit (OLAF) dhe Gjykates sd Auditor0ve t0 Bashkimit Evropian nii lidhje me monitorimin dhe vler€simin e Programit Horizon Europe, pjes€marrja e Kosov€s nE at6 Program do t€ monitorohet vazhdimisht mbi bazdn e partneritetit qe pdrfshin Komisionin dhe Kosov€n 2 Rregullat ne lidhje me menaxhimin e sh€ndosh€ financiar, p6rfshirc kontrollin financiar, rimekdrnbjen dhe masat e tjera kund€r mashtrimit nE lidhje me financimin nga Bashkimi Evropian sipas kdsaj Mantveshjeje jane te percaktuara nd Aneksin III.
 
-Neni I Komiteti i P6rbashk€t i KErkimit dhe Inovacionit BE-Kosov0 l. Eshte themeluar Komisioni i Perbashk€t i Kdrkimit dhe Inovacionit BE-KosovE (n€ tekstin e m€tejm€: "Komisioni i Perbashkct BE-Kosov€"). Detyrat e Komisionit te Perbashket BE-Kosov€ do td p€rfshijn€:
+#### Neni I
+
+Komiteti i P6rbashk€t i KErkimit dhe Inovacionit BE-Kosov0 l. Eshte themeluar Komisioni i Perbashk€t i Kdrkimit dhe Inovacionit BE-KosovE (n€ tekstin e m€tejm€: "Komisioni i Perbashkct BE-Kosov€"). Detyrat e Komisionit te Perbashket BE-Kosov€ do td p€rfshijn€:
 
 a) vlerdsimin dhe rishikimin e zbatimit te k6saj Marr€veshjeje, nd veqanti:
 
@@ -418,7 +422,11 @@ l. Grantet afatshkurtra tE mobilitetit Rregulluar nga MASHTI, Udhezimi Administr
 
 \3. Mbdshtetja financiare p6r publikimet shkencore Rregulluar nga MASHTI, Udhttzimi Administrativ Nr. 27 D0l6t7 Skema siguron financim pdr botimin e monografive shkencore deri nE 3,000 EUR. Aktualisht eshte i hapur p6r personat juridike dhe personat fizike aktiv€ nd Kosovd.
 
-\4. Mb6shtetja financiare pEr botimet nE revistat me faktor ndikimi Rregulluar nga MASHTI, Udhezimi Administrativ N r. 1/2O17tE Skema siguron financim per publikimin e punimeve te prodhuara nga hulumtimet e kryera n€ Kosov€ nd revista td indeksuara n€ Web of Science dhe Scopus. Ajo mbulon deri n€ 80oZ td kostos s0 botimit 15 https://masht.rks-gov.neluploadV20tT/01128-ua-masht-nr-28-per-grandeFafatshkurta-te-motriliteleve-rotated.pdf r6 https://masht.rks-gov.net/uploads/20I?/01/ua-per-aplikim-ne-projektet-e-vogla-sbkencore-rotated- l .pdf r7 https://masht.rks-gov. net/uptoads/2016/ l ?rotated- l -df l3 sht. nelu l7-ua- likirne-dhc- AnelMenaxhimi i sh€ndosh6 financiar Mbrojtja e interesave {inanciare dhe rikuperimi Neni I Rishikimet dhe auditimet l. Bashkimi Evropian ka te drejte td kryeje, r€ p€rputt{e me aktet e zbatueshme t6 nj6 ose m€ shumd institucioneve ose organeve t€ Unionit dhe siq parashikohet ne marreves$et dhe/ose kontratat perkaGse, rishikime teknike, shkencore, financiare ose lloje td tjera dhe auditimet n€ mjediset e gdo personi fizik qe banon ose ndonjd person juridik i themeluar n€ Kosovd dhe q6 merr fonde nga Bashkimi Ewopian, si dhe gdo pal6 e tretE e p€rfshir€ n0 zbatimin e fondeve td Bashkimit banues ose te themeluar nd Kosov€. Rishikime dhe auditime t€ tilla mund te kryhen nga agient0t e institucioneve dhe organeve tE Bashkimit Evropian, ne veganti t€ Komisionit Ewopian dhe Gjykattis Evropiane td Auditor6ve, ose nga persona te tjere te mandatuar nga Komisioni Evropian.
+\4. Mb6shtetja financiare pEr botimet nE revistat me faktor ndikimi Rregulluar nga MASHTI, Udhezimi Administrativ N r. 1/2O17tE Skema siguron financim per publikimin e punimeve te prodhuara nga hulumtimet e kryera n€ Kosov€ nd revista td indeksuara n€ Web of Science dhe Scopus. Ajo mbulon deri n€ 80oZ td kostos s0 botimit 15 https://masht.rks-gov.neluploadV20tT/01128-ua-masht-nr-28-per-grandeFafatshkurta-te-motriliteleve-rotated.pdf r6 https://masht.rks-gov.net/uploads/20I?/01/ua-per-aplikim-ne-projektet-e-vogla-sbkencore-rotated- l .pdf r7 https://masht.rks-gov. net/uptoads/2016/ l ?rotated- l -df l3 sht. nelu l7-ua- likirne-dhc- AnelMenaxhimi i sh€ndosh6 financiar Mbrojtja e interesave {inanciare dhe rikuperimi
+
+#### Neni I
+
+Rishikimet dhe auditimet l. Bashkimi Evropian ka te drejte td kryeje, r€ p€rputt{e me aktet e zbatueshme t6 nj6 ose m€ shumd institucioneve ose organeve t€ Unionit dhe siq parashikohet ne marreves$et dhe/ose kontratat perkaGse, rishikime teknike, shkencore, financiare ose lloje td tjera dhe auditimet n€ mjediset e gdo personi fizik qe banon ose ndonjd person juridik i themeluar n€ Kosovd dhe q6 merr fonde nga Bashkimi Ewopian, si dhe gdo pal6 e tretE e p€rfshir€ n0 zbatimin e fondeve td Bashkimit banues ose te themeluar nd Kosov€. Rishikime dhe auditime t€ tilla mund te kryhen nga agient0t e institucioneve dhe organeve tE Bashkimit Evropian, ne veganti t€ Komisionit Ewopian dhe Gjykattis Evropiane td Auditor6ve, ose nga persona te tjere te mandatuar nga Komisioni Evropian.
 
 2 AglentEt e institucioneve dhe organeve te Bashkimit Evropian, nd veganti t€ Komisionit Ewopian dhe Gjykates Evropiane t€ Auditordve, dhe personat e tjerE t€ mandatuar nga Komisioni Evropian, do t€ ken€ akses te pershtatsh€m nE vendet, punimet dhe dokumentet (nE m0nyrC elektronike dhe n€ versionet nC letdr) dhe nE tdrd informacionin e k6rkuar pdr td kryer auditime t€ tilla, duke p6rfshir0 t€ drejten per te marre nje kopje fizikc/elektronike dhe ekstrakte nga gdo dokument ose pdrmbajtje te gdo mediumi te dhEnash qd mbahet nga personi fizik ose juridik i audituar, ose nga pala e lrct0 e audituar.
 

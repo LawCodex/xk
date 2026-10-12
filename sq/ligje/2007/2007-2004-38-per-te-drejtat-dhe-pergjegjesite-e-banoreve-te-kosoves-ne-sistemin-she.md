@@ -1,37 +1,57 @@
 ---
-title: "LIGJI NR.2004/38 PËR TË DREJTAT DHE PËRGJEGJËSITË E BANORËVE TË KOSOVËS NË SISTEMIN SHËNDETËSOR"
+title: "LIGJI NR. 2004/38 PËR TË DREJTAT DHE PËRGJEGJËSITË E BANORËVE TË KOSOVËS NË SISTEMIN SHËNDETËSOR (KONSOLIDUAR)"
 identifier: "2004/38"
 type: act
 jurisdiction: xk
 language: sq
 date: 2007-06-01
+last_amended: 2026-03-19
 status: in_force
-text_version: original
+text_version: consolidated
 gazette: "Gazeta Zyrtare 13/2007"
-source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2454"
+source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=118248"
 retrieved: 2026-10-12
-note: "Original text as published; amended by 2 later act(s) listed on the source page."
+note: "Consolidated text published by the Official Gazette as non-official (\"Teksti i spastruar i ligjit nuk paraqet version zyrtar\")."
+base_act: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2454"
 ---
 
-# LIGJI NR.2004/38 PËR TË DREJTAT DHE PËRGJEGJËSITË E BANORËVE TË KOSOVËS NË SISTEMIN SHËNDETËSOR
+# LIGJI NR. 2004/38 PËR TË DREJTAT DHE PËRGJEGJËSITË E BANORËVE TË KOSOVËS NË SISTEMIN SHËNDETËSOR (KONSOLIDUAR)
 
-### KOSOVË / PRISHTINË :VITI II / NR. 13 / 01 QERSHOR 2007
+### LIGJI NR. 2004/38 PËR TË DREJTAT DHE PËRGJEGJËSITË E BANORËVE TË
 
-Ligji Nr.2004/38
+### KOSOVËS NË SISTEMIN SHËNDETËSOR 1
+
+(data e publikimit 01.06.2007)
+
+Teksti i integruar me ndryshimet dhe plotësimet e bëra në bazë të:
+
+### LIGJI NR. 08/L-051 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 2004/38 PËR TË
+
+### DREJTAT DHE PËRGJEGJËSITË E BANORËVE TË KOSOVËS NË SISTEMIN
+
+### SHËNDETËSOR
+
+(data e publikimit 19.01.2022)
+
+### LIGJI NR. 08/L-176 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJEVE QË PËRMBAJNË
+
+### PROCEDURA TË VEÇANTA ADMINISTRATIVE DHE HARMONIZIMIN E TYRE ME LIGJIN
+
+### NR. 05/L-031 PËR PROCEDURËN E PËRGJITHSHME ADMINISTRATIVE
+
+(data e publikimit 06.07.2023)
+
+(Plotësohet neni 3 i Ligjit Bazik, ashtu që pas nën-paragrafit 1.13 të paragrafit 1, shtohet nënparagrafi 1.14, me Ligjin Nr. 08/L-248 dt. 16.08.2023)
+
+### LIGJI NR. 2004/38
 
 ### PËR TË DREJTAT DHE PËRGJEGJËSITË E BANORËVE
 
 ### TË KOSOVËS NË SISTEMIN SHËNDETËSOR
 
-Kuvendi i Kosovës,
+Kuvendi i Kosovës, Në bazë të Kornizës Kushtetuese për Vetëqeverisëse të Përkohshme në Kosovë, Rregullorja Nr.2001/9 të datës 15 maj 2001, në pajtim me Kreun 5.1 (ë), 9.1.26 (a) dhe, Me qëllim të njohjes se të drejtave të çdonjërit për të gëzuar standardet më të larta, të arritshme në shëndetësi, Miraton:
 
-Në bazë të Kornizës Kushtetuese për Vetëqeverisëse të Përkohshme në Kosovë, Rregullorja Nr.2001/9 të datës 15 maj 2001, në pajtim me Kreun 5.1 (ë), 9.1.26 (a) dhe,
-
-Me qëllim të njohjes se të drejtave të çdonjërit për të gëzuar standardet më të larta , të arritshme në shëndetësi,
-
-Miraton:
-
-### PËR TË DREJTAT DHE PËRGJEGJËSITË E BANORËVE
+### LIGJ PËR TË DREJTAT DHE PËRGJEGJËSITË E BANORËVE
 
 ### TË KOSOVËS NË SISTEMIN SHËNDETËSOR
 
@@ -43,51 +63,49 @@ Miraton:
 
 Me këtë Ligj përcaktohen të drejtat dhe përgjegjësitë e banorëve në kujdesin shëndetësor dhe mekanizmat e mbrojtjes dhe të sigurimit të këtyre të drejtave dhe përgjegjësive.
 
-Përkufizimet
-
 #### Neni 2
+
+Përkufizimet
 
 2.1. Për qëllimet e këtij Ligji termat vijuese, kanë këto kuptime:
 
 a. Banor i Kosovës: banor i përhershëm i Kosovës ose personi i cili i plotëson kushtet për t’u regjistruar si banor i përhershëm i Kosovës;
 
-b.Punëtor shëndetësor: profesionist shëndetësor, nga neni 86 i Ligjit për Shëndetësi të Kosovës, i cili është i licencuar për ushtrimin e pavarur të veprimtarisë shëndetësore;
+b. Punëtor shëndetësor: profesionist shëndetësor, nga neni 86 i Ligjit për Shëndetësi të Kosovës, i cili është i licencuar për ushtrimin e pavarur të veprimtarisë shëndetësore;
 
-c.Kujdes shëndetësor: masat dhe aktivitetet që ndërmerren në territorin e Kosovës, nga institucionet shëndetësore, punëtorët shëndetësorë dhe banorët, në veçanti, që kanë për qëllim përparimin e përgjithshëm të mirëqenies fizike, mendore dhe sociale të banorëve;
+c. Kujdes shëndetësor: masat dhe aktivitetet që ndërmerren në territorin e Kosovës, nga institucionet shëndetësore, punëtorët shëndetësorë dhe banorët, në veçanti, që kanë për qëllim përparimin e përgjithshëm të mirëqenies fizike, mendore dhe sociale të banorëve;
 
-d.Institucion shëndetësor: institucion i themeluar nga personi juridik dhe fizik, pa marrë parasysh formën e pronësisë dhe organin mbikëqyrës që është i autorizuar të ofrojë shërbime të kujdesit shëndetësor me licencën e punës, të lëshuar nga autoriteti shëndetësor;
+d. Institucion shëndetësor: institucion i themeluar nga personi juridik dhe fizik, pa marrë parasysh formën e pronësisë dhe organin mbikëqyrës që është i autorizuar të ofrojë shërbime të kujdesit shëndetësor me licencën e punës, të lëshuar nga autoriteti shëndetësor;
 
-e.Fshehtësi profesionale: ruajtje e të dhënave për gjendjen shëndetësore të banorit, nga personat e paautorizuar;
+e. Fshehtësi profesionale: ruajtje e të dhënave për gjendjen shëndetësore të banorit, nga personat e paautorizuar;
 
 f. Rasti i Emergjencës: ndryshim i përnjëhershëm i gjendjes shëndetësore që, në rast të mungesës së shërbimit të shpejtë shëndetësor, rrezikon jetën dhe dëmton seriozisht ose në mënyrë të përhershme shëndetin e banorit;
 
-g.Trajtim mjekësor: procedurë fizike, kimike, biologjike ose psikologjike që shërben për parandalimin, diagnostikimin, mjekimin, shërimin, rehabilitimin dhe qëllimet e tjera që rezultojnë ose mund të rezultojnë me ndryshime në shëndetin e banorit;
+g. Trajtim mjekësor: procedurë fizike, kimike, biologjike ose psikologjike që shërben për parandalimin, diagnostikimin, mjekimin, shërimin, rehabilitimin dhe qëllimet e tjera që rezultojnë ose mund të rezultojnë me ndryshime në shëndetin e banorit;
 
-h.Dokumentacion shëndetësor: dorëshkrimet, shënimet ose të dhënat e tjera, pa marrë parasysh faktin se kush ose në çfarë mënyre i mbledh, në të cilat ka qasje punëtori shëndetësor gjatë ofrimit të shërbimeve shëndetësore që përmbajnë të dhëna për identitetin personal të banorit dhe që janë të lidhura me shërbimet shëndetësore që i ofrohen atij;
+h. Dokumentacion shëndetësor: dorëshkrimet, shënimet ose të dhënat e tjera, pa marrë parasysh faktin se kush ose në çfarë mënyre i mbledh, në të cilat ka qasje punëtori shëndetësor gjatë ofrimit të shërbimeve shëndetësore që përmbajnë të dhëna për identitetin personal të banorit dhe që janë të lidhura me shërbimet shëndetësore që i ofrohen atij;
 
-i.Përfaqësues ligjor: prindi ose kujdestari i personit nën moshën 18 vjeçare; në rastin e personit nën moshën 18 vjeçare, që nuk ka as prind as kujdestar, përfaqësuesi i Qendrës për Punë Sociale;
+i. Përfaqësues ligjor: prindi ose kujdestari i personit nën moshën 18 vjeçare; në rastin e personit nën moshën 18 vjeçare, që nuk ka as prind as kujdestar, përfaqësuesi i Qendrës për Punë Sociale;
 
-j.Institucioni mbështetës: për institucionet publike shëndetësore në nivelin parësor, Komuna, ndërsa për institucionet shëndetësore të nivelit dytësor dhe tretësor të kujdesit shëndetësor si dhe për institucionet në sektorin privat, Ministria e Shëndetësisë;
+j. Institucioni mbështetës: për institucionet publike shëndetësore në nivelin parësor, Komuna, ndërsa për institucionet shëndetësore të nivelit dytësor dhe tretësor të kujdesit shëndetësor si dhe për institucionet në sektorin privat, Ministria e Shëndetësisë;
 
-k.Fëmija: personi deri në moshën 12 vjeçare.
+k. Fëmija: personi deri në moshën 12 vjeçare.
 
 2.2. Për qëllime të këtij Ligji, emrat e gjinisë mashkullore nënkuptojnë edhe gjininë femërore dhe anasjelltas, përveç kur është përcaktuar ndryshe.
 
-Roli i banorit në sistemin shëndetësor
-
 #### Neni 3
 
-Roli i banorit në sistemin e kujdesit shëndetësor është i rregulluar në Kapitullin IV, të Ligjit për Shëndetësi të Kosovës.
+Roli i banorit në sistemin shëndetësor Roli i banorit në sistemin e kujdesit shëndetësor është i rregulluar në Kapitullin IV, të Ligjit për Shëndetësi të Kosovës.
 
 ### KAPITULLI II
 
 ### TË DREJTAT E BANORËVE
 
-E drejta në kujdes cilësor shëndetësor
-
 #### Neni 4
 
-4.1.Çdo banor ka të drejtë, për kujdes shëndetësor që është i kushtëzuar me gjendjen e tij të shëndetit. Kujdesi shëndetësor duhet të jetë adekuat, me qasje në vazhdimësi për të gjithë dhe pa diskriminim.
+E drejta në kujdes cilësor shëndetësor
+
+4.1. Çdo banor ka të drejtë, për kujdes shëndetësor që është i kushtëzuar me gjendjen e tij të shëndetit. Kujdesi shëndetësor duhet të jetë adekuat, me qasje në vazhdimësi për të gjithë dhe pa diskriminim.
 
 4.2. Kujdesi shëndetësor është adekuat, në rast se është në përputhje me rregullat etike dhe profesionale, si dhe me udhëzimet relevante, të shërbimit të caktuar shëndetësor.
 
@@ -119,17 +137,17 @@ a. shërbimi i caktuar nuk mund të sigurohet nga institucioni tjetër shëndet�
 
 4.15. Dispozitat e këtij Ligji zbatohen edhe për çfarëdo trajtimi mjekësor që nuk është i domosdoshëm për kujdesin shëndetësor.
 
-E drejta e zgjedhjes
-
 #### Neni 5
+
+E drejta e zgjedhjes
 
 5.1. Banori ka të drejtë, që të konsultohet dhe të trajtohet nga mjeku, të cilin e zgjedh vetë, me pëlqimin e institucionit shëndetësor, brenda kufijve të përcaktuar me ligj dhe rregullat operative të institucionit.
 
-5.2. Banori mund të kërkojë që të ekzaminohet nga konziliumi mjekësor brenda institucionit në lidhje me: çfarëdo diagnoze të vënë ose terapie të rekomanduar nga mjeku përgjegjës; lëshimin e planifikuar nga institucioni shëndetësor me shtretër, ose dërgimin te institucioni tjetër shëndetësor.
-
-E drejta në dinjitetin njerëzor
+5.2. Banori mund të kërkojë që të ekzaminohet nga konziliumi mjekësor brenda institucionitnë lidhje me: çfarëdo diagnoze të vënë ose terapie të rekomanduar nga mjeku përgjegjës; lëshimin e planifikuar nga institucioni shëndetësor me shtretër, ose dërgimin te institucioni tjetër shëndetësor.
 
 #### Neni 6
+
+E drejta në dinjitetin njerëzor
 
 6.1. Gjatë trajtimit mjekësor duhet të respektohen: dinjiteti, jeta private, integriteti personal dhe bindjet religjioze të banorit.
 
@@ -141,15 +159,13 @@ E drejta në dinjitetin njerëzor
 
 6.5. Gjatë ofrimit të shërbimeve shëndetësore, duhet të respektohet intimiteti i banorit dhe mund të kërkohet që rrobet e tij të largohen vetëm për periudhën e kohore dhe në masën, që mund të arsyetohet me shkaqe profesionale.
 
-E drejta e komunikimit
-
 #### Neni 7
+
+E drejta e komunikimit
 
 7.1.Gjatë qëndrimit në institucionin shëndetësor me shtretër, banori ka të drejtë që të ketë komunikim me personat e tjerë, dhe të pranojë vizitorë. Institucioni shëndetësor duhet të lejojë dhe të lehtësojë, këtë komunikim dhe kontakt, aq sa është e mundshme.
 
-7.2.Të drejtat e përcaktuara me paragrafet 1 deri 7, të këtij neni, mund të realizohen varësisht nga kushtet ekzistuese të institucionit shëndetësor me shtretër, duke i respektuar të drejtat e banorëve të tjerë, të cilët ndodhen në dhomë dhe duke siguruar parandalimin e shqetësimit të tyre. Rregullat e detajizuara lidhur me këto çështje duhet të përcaktohen me rregullat operative të institucionit shëndetësor me shtretër, duke mos e kufizuar përmbajtjen e këtyre të drejtave.
-
-Rregullat operative mund të përcaktojnë të drejta shtesë, krahas atyre të definuara me paragrafet 1 deri 7, të këtij neni.
+7.2.Të drejtat e përcaktuara me paragrafet 1 deri 7, të këtij neni, mund të realizohen varësisht nga kushtet ekzistuese të institucionit shëndetësor me shtretër, duke i respektuar të drejtat e banorëve të tjerë, të cilët ndodhen në dhomë dhe duke siguruar parandalimin e shqetësimit të tyre. Rregullat e detajizuara lidhur me këto çështje duhet të përcaktohen me rregullat operative të institucionit shëndetësor me shtretër, duke mos e kufizuar përmbajtjen e këtyre të drejtave. Rregullat operative mund të përcaktojnë të drejta shtesë, krahas atyre të definuara me paragrafët 1 deri 7, të këtij neni.
 
 7.3.Banori, në gjendje serioze shëndetësore, ka të drejtë që të përcaktojë personin, që do të qëndrojë me të, ose, në rast të mungesës së aftësisë së veprimit, personin, që do ta përcaktojë personi nga paragrafi 11.1, i këtij Ligji. Banori konsiderohet se është në gjendje serioze shëndetësore, atëherë kur, për shkak të gjendjes shëndetësore të tij, nuk është në gjendje që të kujdeset për veten, ose kur nuk mund të arrihet lehtësimi i dhembjeve, përkundër përdorimit të medikamenteve, ose kur është në gjendje të krizës psikologjike.
 
@@ -159,9 +175,9 @@ Rregullat operative mund të përcaktojnë të drejta shtesë, krahas atyre të 
 
 7.6. Në rast se rregullat operative të institucionit shëndetësor me shtretër, nuk e përcaktojnë ndryshe, banori ka të drejtë që të përdorë veshjen e tij, si dhe pajisjet personale.
 
-E drejta e largimit nga institucioni
-
 #### Neni 8
+
+E drejta e largimit nga institucioni
 
 8.1. Banori, ka të drejtë, që të largohet nga institucioni shëndetësor. Kjo e drejtë mund të kufizohet vetëm në mënyrën e përcaktuar me ligj, në rastet kur me këtë veprim, rrezikohet siguria fizike ose shëndeti i të tjerëve.
 
@@ -169,13 +185,13 @@ E drejta e largimit nga institucioni
 
 8.3. Në rast se, banori largohet nga institucioni shëndetësor pa paralajmërim, mjeku përgjegjës duhet ta evidentojë këtë fakt në dokumentacionin e tij, shëndetësor; atëherë kur, largimi i paparalajmëruar nga institucioni shëndetësor, është i kushtëzuar me gjendjen shëndetësore të banorit, duhet të njoftohen autoritetet kompetente, ndërsa në rastin e banorit, i cili nuk ka aftësi veprimi, ose ka aftësi të zvogëluar veprimi, duhet të njoftohet përfaqësuesi ligjor i tij.
 
-8.4. Banori, anëtari i ngushtë i familjes së tij, të afërmit e tjerë ose përfaqësuesi ligjor i tij, duhet që, paraprakisht, të informohen mbi largimin nga institucioni shëndetësor, së paku 24 orë para lëëshimit të planifikuar.
+8.4. Banori, anëtari i ngushtë i familjes së tij, të afërmit e tjerë ose përfaqësuesi ligjor i tij, duhet që, paraprakisht, të informohen mbi largimin nga institucioni shëndetësor, së paku 24 orë para lëshimit të planifikuar.
 
 8.5.Në rastin e banorit, i cili nuk ka aftësi veprimi, e drejta e definuar me paragrafin 1 të këtij neni, mund të realizohet me pëlqimin e përfaqësuesit ligjor të tij.
 
-E drejta për të qenë i informuar
-
 #### Neni 9
+
+E drejta për të qenë i informuar
 
 9.1. Banori ka të drejtë që të pranojë informatën e plotë, në një formular individual.
 
@@ -197,9 +213,7 @@ g. rrjedhën e ofrimit të shërbimeve si dhe rezultatet e pritura;
 
 h. suksesin ose dështimin eventual të çfarëdo ekzaminimi ose intervenimi të përfunduar, përfshirë edhe rezultatet që dallojnë nga ato të pritura, si dhe shkaqet për këtë;
 
-i. mënyrat e rekomanduara për jetë të shëndoshë dhe
-
-j. çdo informatë tjetër, relevante për shëndetin e banorit ose për trajtimin e tij.
+i. mënyrat e rekomanduara për jetë të shëndoshë dhe j. çdo informatë tjetër, relevante për shëndetin e banorit ose për trajtimin e tij.
 
 9.3. Banori ka të drejtë që të disponojë me emrat, kualifikimet dhe pozicionet e personave që janë të përfshirë drejtpërdrejt në procesin e ofrimit të shërbimeve shëndetësore për të.
 
@@ -219,9 +233,9 @@ j. çdo informatë tjetër, relevante për shëndetin e banorit ose për trajtim
 
 9.11. Banori ka të drejtë që të informohet edhe në rastet kur pëlqimi i tij, nuk është kusht për fillimin e trajtimit.
 
-E drejta e vendimit personal
-
 #### Neni 10
+
+E drejta e vendimit personal
 
 10.1. Banori, ka të drejtë që të vendosë se a do t’i nënshtrohet ose jo trajtimit të caktuar. Kjo e drejtë mund të kufizohet vetëm në mënyrën e përcaktuar me ligj.
 
@@ -233,9 +247,7 @@ E drejta e vendimit personal
 
 10.5.Në rast të intervenimeve invasive është i domosdoshëm pajtimi me shkrim i banorit ose në rast se banori nuk është në gjendje që ta bëjë këtë, deklarata e tij, gojore ose deklarata e dhënë në ndonjë mënyrë tjetër, në praninë e njëkohshme të dy dëshmitarëve.
 
-10.6. Banori mund ta tërheqë, në çdo kohë, pëlqimin e tij, për realizimin e intervenimit të caktuar.
-
-Me rastin e tërheqjes së pëlqimit pa arsyetim të mjaftueshëm, banori mund të jetë i obliguar që të kompenzojë shpenzimet e arsyeshme, që janë bërë si pasojë e këtij veprimi.
+10.6. Banori mund ta tërheqë, në çdo kohë, pëlqimin e tij, për realizimin e intervenimit të caktuar. Me rastin e tërheqjes së pëlqimit pa arsyetim të mjaftueshëm, banori mund të jetë i obliguar që të kompenzojë shpenzimet e arsyeshme, që janë bërë si pasojë e këtij veprimi.
 
 #### Neni 11
 
@@ -257,9 +269,7 @@ c. në rast të mungesës së anëtarit të familjes nga pika (b), profesionisti
 
 11.3. Në rast të ekzistimit të deklaratave të kundërta, të dhëna nga ata, të cilët gjenden në rendin e njëjtë të prioritetit, për të dhënë deklaratë, duhet të merret parasysh ajo deklaratë, e cila, sipas vlerësimit të institucionit shëndetësor, do të ketë ndikim më të favorshëm mbi gjendjen shëndetësore të banorit.
 
-11.4. Personat e përcaktuar me paragrafin 2 të këtij neni, mund të bëjnë deklaratë vetëm pasi që të informohen, në mënyrën, e cila është e definuar me nenin 9. Deklarata mund të përfshinë edhe dhënien e pëlqimit ose të refuzimit, për intervenime invasive, që janë të rekomanduara nga mjeku përgjegjës. Duhet të sigurohet, që kjo deklaratë – me përjashtim të rastit të definuar në paragrafin
-
-15.3–me gjithë intervenimin, nuk do të ndikojë, në mënyrë jo të favorshme, mbi gjendjen shëndetësore të banorit dhe, veçanërisht, nuk do të shkaktojë dëmtim serioz ose kohëgjatë të shëndetit të tij. Banori, duhet të informohet lidhur me ekzistimin e deklaratës së këtillë, menjëherë pasi, të rifitojë aftësinë e plotë të veprimit.
+11.4. Personat e përcaktuar me paragrafin 2 të këtij neni, mund të bëjnë deklaratë vetëm pasi që të informohen, në mënyrën, e cila është e definuar me nenin 9. Deklarata mund të përfshinë edhe dhënien e pëlqimit ose të refuzimit, për intervenime invasive, që janë të rekomanduara nga mjeku përgjegjës. Duhet të sigurohet, që kjo deklaratë – me përjashtim të rastit të definuar në paragrafin 15.3–me gjithë intervenimin, nuk do të ndikojë, në mënyrë jo të favorshme, mbi gjendjen shëndetësore të banorit dhe, veçanërisht, nuk do të shkaktojë dëmtim serioz ose kohëgjatë të shëndetit të tij. Banori, duhet të informohet lidhur me ekzistimin e deklaratës së këtillë, menjëherë pasi, të rifitojë aftësinë e plotë të veprimit.
 
 11.5. Me rastin e marrjes së vendimeve për llojin e shërbimeve shëndetësore, që duhet të ofrohen, mendimi i banorit, i cili nuk ka aftësi të veprimit ose, që këtë aftësi e ka të kufizuar, duhet të merret parasysh deri në masën që nuk është në kundërshtim me normat dhe standardet profesionale. Kjo dispozitë vlen edhe në rastet kur e drejta për dhënien e pëlqimit ose refuzimit ushtrohet nga personi i përcaktuar me paragrafin 2, të këtij neni.
 
@@ -269,53 +279,45 @@ c. në rast të mungesës së anëtarit të familjes nga pika (b), profesionisti
 
 a. sigurimi i deklaratës nga personi i përcaktuar në paragrafin 11.1 (a), do të rezultojë me vonesë, gjë që do të ndikojë në mënyrë serioze në gjendjen shëndetësore të banorit;
 
-ose,
-
-b. me rastin e zbatimit të intervenimeve invasive, sigurimi i deklaratës nga personi i përcaktuar në paragrafin 11.1 (a), ose paragrafin 11.2, do të rezultojë me vonesë, gjë që do të çoj në dëmtim serioz ose kohëgjatë, të shëndetit të banorit.
+ose, b. me rastin e zbatimit të intervenimeve invasive, sigurimi i deklaratës nga personi i përcaktuar në paragrafin 11.1 (a), ose paragrafin 11.2, do të rezultojë me vonesë, gjë që do të çoj në dëmtim serioz ose kohëgjatë, të shëndetit të banorit.
 
 12.2. Pëlqimi i banorit nuk kërkohet në rast se dështimi i zbatimit të intervenimit ose të veprimit të caktuar:
 
-a. seriozisht e rrezikon shëndetin dhe sigurinë fizike të të tjerëve – përfshirë edhe fetusin pas javës së 10 të shtatzanisë, në pajtim me ligjin, ose
-
-b. e rrezikon drejtpërdrejt jetën e banorit – duke pasur parasysh nenet 15-18, të këtij Ligji.
+a. seriozisht e rrezikon shëndetin dhe sigurinë fizike të të tjerëve – përfshirë edhe fetusin pas javës së 10 të shtatzanisë, në pajtim me ligjin, ose b. e rrezikon drejtpërdrejt jetën e banorit – duke pasur parasysh nenet 15-18, të këtij Ligji.
 
 #### Neni 13
 
 13.1. Në rast se, gjatë realizimit të intervenimit invasiv bëhet i domosdoshëm zgjerimi i paplanifikuar i intervenimit, për çka nuk ekziston pëlqimi – me përjashtim të rastit të definuar në paragrafin 2, të këtij neni – ky zgjerim i intervenimit mund të realizohet vetëm në rastin kur:
 
-a. këtë e imponon gjendja e emergjencës, ose kur
+a. këtë e imponon gjendja e emergjencës, ose kur b. mosrealizimi i intervenimit do të shkaktonte rëndim serioz dhe të pa-arsyeshëm të gjendjes shëndetësore të banorit.
 
-b. mosrealizimi i intervenimit do të shkaktonte rëndim serioz dhe të pa-arsyeshëm të gjendjes shëndetësore të banorit.
-
-13.2. Në rast se intervenimi i zgjeruar, i definuar në paragrafin e mëparshëm, do të çojë në humbjen e organit ose të pjesës së trupit, ose nëse, për shkak të tij, do të humbë plotësisht funksionin – intervenimi mund të bëhet, vetëm atëherë kur jeta e banorit është e rrezikuar drejtpërdrejt.
+13.2. Në rast se intervenimi i zgjeruar, i definuar në paragrafin e mëparshëm, do të çojë nëhumbjen e organit ose të pjesës së trupit, ose nëse, për shkak të tij, do të humbë plotësisht funksionin – intervenimi mund të bëhet, vetëm atëherë kur jeta e banorit është e rrezikuar drejtpërdrejt.
 
 #### Neni 14
 
-14.1.Pëlqimi me shkrim i banorit, kërkohet për shfrytëzimin e cilësdo nga: qelizat, përbërjes së qelizave, indeve, organeve ose të pjesëve të trupit, që largohen nga banori, për së gjalli, nëpërmjet intervenimit, që nuk i ka shërbyer qëllimit për të cilin ai, fillimisht ka dhënë pëlqimin.
-
-Për shkatërrimin e rëndomtë të këtyre materialeve, nuk nevojitet të merret pëlqimi i banorit.
+14.1.Pëlqimi me shkrim i banorit, kërkohet për shfrytëzimin e cilësdo nga: qelizat, përbërjes së qelizave, indeve, organeve ose të pjesëve të trupit, që largohen nga banori, për së gjalli, nëpërmjet intervenimit, që nuk i ka shërbyer qëllimit për të cilin ai, fillimisht ka dhënë pëlqimin. Për shkatërrimin e rëndomtë të këtyre materialeve, nuk nevojitet të merret pëlqimi i banorit.
 
 14.2. Banori ka të drejtë, që të vendosë për cilindo intervenim që është i lidhur me trupin e tij, pas vdekjes, brenda kufizimeve të përcaktuara me ligj.
 
-E drejta e refuzimit të dhënies së pëlqimit
-
 #### Neni 15
+
+E drejta e refuzimit të dhënies së pëlqimit
 
 15.1. Me përjashtim të kushteve të përcaktuara në paragrafet 2 dhe 3 si dhe rasteve të definuara në paragrafin 6, të këtij neni, banori me aftësi të plotë të veprimit, ka të drejtë që të refuzojë dhënien e pëlqimit, përveç në rastin kur me këtë, do të rrezikojë jetën ose sigurinë fizike të të tjerëve.
 
-15.2. Çfarëdo refuzimi i dhënies së pëlqimit, për të cilin vlerësohet se do të dëmtojë në mënyrë serioze ose të përhershme shëndetin e banorit, mund të zbatohet nga ana e banorit vetëm nëpërmjet deklaratës publike, deklaratës së plotë dhe përfundimtare private ose në rast pamundësie për të shkruar, deklaratës së dhënë në praninë e njëkohshme të dy dëshmitarëve.
+15.2. Çfarëdo refuzimi i dhënies së pëlqimit, për të cilin vlerësohet se do të dëmtojë në mënyrë serioze ose të përhershme shëndetin e banorit, mund të zbatohet nga ana e banorit vetëm nëpërmjet deklaratës publike, deklaratës së plotë dhe përfundimtare private ose në rast pamundësie për të shkruar, deklaratës së dhënë në praninë e njëkohshme të dy dëshmitarëve. Në rastin e fundit, refuzimi i dhënies së pëlqimit, duhet të evidentohet në dokumentacionin shëndetësor të banorit dhe duhet të vërtetohet me nënshkrimin e të dy dëshmitarëve.
 
-Në rastin e fundit, refuzimi i dhënies së pëlqimit, duhet të evidentohet në dokumentacionin shëndetësor të banorit dhe duhet të vërtetohet me nënshkrimin e të dy dëshmitarëve.
+15.3. Intervenimet jetëpërkrahëse ose jetëshpëtuese, mund të refuzohen, duke lejuar që sëmundja të ketë rrjedhën e saj të natyrshme, vetëm atëherë kur banori lëngon nga sëmundja serioze, që është e pashërueshme dhe kur është e sigurt se kjo sëmundje, bazuar
 
-15.3. Intervenimet jetëpërkrahëse ose jetëshpëtuese, mund të refuzohen, duke lejuar që sëmundja të ketë rrjedhën e saj të natyrshme, vetëm atëherë kur banori lëngon nga sëmundja serioze, që është e pashërueshme dhe kur është e sigurt se kjo sëmundje, bazuar në të arriturat e fundit të shkencës mjekësore, do të shkaktojë vdekjen, brenda një periudhe të shkurtër kohore, edhe në rast se ofrohet kujdesi plotësisht adekuat shëndetësor. Refuzimi i intervenimeve jetëpërkrahëse ose jetëshpëtuese mund të bëhet, duke i respektuar procedurat formale, të definuara në paragrafin 2 të këtij neni.
+në të arriturat e fundit të shkencës mjekësore, do të shkaktojë vdekjen, brenda një periudhe të shkurtër kohore, edhe në rast se ofrohet kujdesi plotësisht adekuat shëndetësor. Refuzimi i intervenimeve jetëpërkrahëse ose jetëshpëtuese mund të bëhet, duke i respektuar procedurat formale, të definuara në paragrafin 2 të këtij neni.
 
-15.4. Refuzimi i dhënies së pëlqimit, në mënyrën si është definuar në paragrafin 3, mund të jetë i vlefshëm vetëm në rast se Komisioni, i përbërë nga tre mjekë, e ekzaminon banorin dhe merr vendim unanim, të cilin e shpreh në formë të deklaratës me shkrim, me të cilën vërteton se banori, me rastin e refuzimit të dhënies së pëlqimit, ka qenë plotësisht koshient për pasojat e këtij vendimi dhe se, me këtë rast, kushtet e definuara në paragrafin 3, janë përmbushur. Ditën e tretë, pas dhënies së deklaratës nga ana e Komisionit mjekësor, banori sërish – në praninë e dy dëshmitarëve – duhet të deklarojë refuzimin e dhënies së pëlqimit. Në rast se banori nuk pajtohet që t’i nënshtrohet ekzaminimit të Komisionit mjekësor, deklarata e tij, lidhur me refuzimin e trajtimit mjekësor, mund të mos merret në konsiderim.
+15.4. Refuzimi i dhënies së pëlqimit, në mënyrën si është definuar në paragrafin 3, mund të jetë i vlefshëm vetëm në rast se Komisioni, i përbërë nga tre mjekë, e ekzaminon banorin dhe merr vendim unanim, të cilin e shpreh në formë të deklaratës me shkrim, me të cilën vërteton se banori, me rastin e refuzimit të dhënies së pëlqimit, ka qenë plotësisht koshient për pasojat e këtij vendimi dhe se, me këtë rast, kushtet e definuara në paragrafin 3, janë përmbushur. Ditën e tretë, pas dhënies së deklaratës nga ana e Komisionit mjekësor, banori sërish – në praninë e dy dëshmitarëve – duhet të deklarojë refuzimin e dhënies së pëlqimit.
 
-15.5. Anëtarët e Komisionit, të përcaktuar në paragrafin 4, duhet të jenë: dy mjekë-specialistë në lëmin që i përgjigjet origjinës së sëmundjes, të cilët nuk kanë marrë pjesë në procesin e trajtimit të banorit dhe një mjek specialist, psikiatër. Mendimi i mjekut, i cili e ka trajtuar banorin, duhet të merret në konsiderim.
+Në rast se banori nuk pajtohet që t’i nënshtrohet ekzaminimit të Komisionit mjekësor, deklarata e tij, lidhur me refuzimin e trajtimit mjekësor, mund të mos merret në konsiderim.
 
-15.6. Gruaja nuk mund të refuzojë intervenimin jetëpërkrahës ose jetëshpëtues në rast se është shtatëzënë ose dyshohet se mund të jetë shtatëzënë, pas kohës së përcaktuar me paragrafin
+15.5. Anëtarët e Komisionit, të përcaktuar në paragrafin 4, duhet të jenë: dy mjekë specialistë në lëmin që i përgjigjet origjinës së sëmundjes, të cilët nuk kanë marrë pjesë në procesin e trajtimit të banorit dhe një mjek specialist, psikiatër. Mendimi i mjekut, i cili e ka trajtuar banorin, duhet të merret në konsiderim.
 
-12.2 (a).
+15.6. Gruaja nuk mund të refuzojë intervenimin jetëpërkrahës ose jetëshpëtues në rast se është shtatëzënë ose dyshohet se mund të jetë shtatëzënë, pas kohës së përcaktuar me paragrafin 12.2 (a).
 
 15.7. Në rastin e refuzimit, siç është definuar në paragrafët 2 dhe 3 të këtij neni, duhet bërë përpjekje që, nëpërmjet intervistës personale, të kuptohen shkaqet e vendimit të këtillë të banorit dhe të tentohet që ky vendim të ndryshohet. Gjatë kësaj, si shtesë informatës së definuar në nenin 9, banori duhet të informohet edhe një herë mbi pasojat e moszbatimit të intervenimit.
 
@@ -343,7 +345,9 @@ b. intervenimet e përcaktuara në paragrafin 15.3, dhe c. intervenimet e caktua
 
 17.3. Deklarata e definuar në paragrafët 1 dhe 2, të këtij neni, është e vlefshme nëse mjeku psikiatër, me mendim profesional, që nuk është më i vjetër se një muaj, vërteton se banori e ka marrë vendimin duke qenë plotësisht koshient për pasojat e tij. Deklarata duhet të përtëritet, çdo dy vjet, dhe në çdo kohë mund të hudhet poshtë, pa marrë parasysh aftësinë vepruese të banorit dhe pa kërkesa formale.
 
-17.4. Në rastin e deklaratës së bërë nga banori me aftësi të plotë veprimi, sipas paragrafit 17.2, me të cilën refuzohet intervenimi, Komisioni nga paragrafi 15.4, duhet të bëjë deklaratë nëse:
+17.4. Në rastin e deklaratës së bërë nga banori me aftësi të plotë veprimi, sipas paragrafit
+
+17.2, me të cilën refuzohet intervenimi, Komisioni nga paragrafi 15.4, duhet të bëjë deklaratë nëse:
 
 a. ekzistojnë kushtet e përcaktuara në paragrafin 17.1 dhe nëse, b. banori i përcaktuar në paragrafin 17.2 e ka marrë vendimin duke qenë plotësisht koshient për pasojat e tij.
 
@@ -353,9 +357,9 @@ a. ekzistojnë kushtet e përcaktuara në paragrafin 17.1 dhe nëse, b. banori i
 
 18.2. Banori nga paragrafi 17.2, i cili e refuzon intervenimin, nuk duhet të shtrëngohet në asnjë mënyrë që të ndryshojë vendimin. Në rast refuzimi të intervenimit, të definuar në paragrafin 15.3, banori ka të drejtë për trajtim mjekësor, që ka për qëllim lehtësimin e vuajtjes apo pakësimin e dhembjes.
 
-E drejta e qasjes ndaj dokumentacionit shëndetësor
-
 #### Neni 19
+
+E drejta e qasjes ndaj dokumentacionit shëndetësor
 
 19.1. Banori ka të drejtë që të jetë i njoftuar me të dhënat që i përmban dokumentacioni i institucionit shëndetësor, lidhur me të dhe është i autorizuar që të ketë informatë lidhur me qasjen ndaj tyre.
 
@@ -387,9 +391,9 @@ e. të pranojë përmbledhjen e të dhënave të tij shëndetësore, nga institu
 
 19.10. Rregullat e detajizuara të menaxhimit dhe të kujdesit për të dhënat personale të banorit, nga ana e institucionit shëndetësor, duhet të përcaktohen me akt të veçantë nënligjor, të nxjerrë nga Ministria e Shëndetësisë.
 
-E drejta e ruajtjes së konfidencialitetit dhe aspektit privat të të dhënave shëndetësore
-
 #### Neni 20
+
+E drejta e ruajtjes së konfidencialitetit dhe aspektit privat të të dhënave shëndetësore
 
 20.1. Banori ka të drejtë në ruajtjen e konfidencialitetit dhe përmasës private të të dhënave personale; të informatave që janë të lidhura me gjendjen e tij shëndetësore; trajtimin mjekësor si dhe çdo informate tjetër, që përmban dokumentacioni i tij shëndetësor.
 
@@ -415,7 +419,9 @@ E drejta e ruajtjes së konfidencialitetit dhe aspektit privat të të dhënave 
 
 21.2. Nëse këtë e lejon gjendja shëndetësore banorit, varësisht nga aftësitë dhe njohuritë e tij banori duhet të bashkëpunojë me punëtorët shëndetësorë, të përfshirë në trajtimin mjekësor, në mënyrat si vijon:
 
-a. informimi mbi të gjitha detajet e domosdoshme për përcaktimin e diagnozës, përgatitjen e planit të trajtimit dhe për kryerjen e intervenimeve të nevojshme; posaçërisht informimi i punëtorëve shëndetësorë, për çdo sëmundje të mëhershme, trajtimin shëndetësor, përdorimin e barnave ose për prodhimet dhe procedurat paramjekësore, si dhe për afinitetin e tij ndaj faktorëve të rrezikshëm, që mund të dëmtojnë shëndetin;
+a. informimi mbi të gjitha detajet e domosdoshme për përcaktimin e diagnozës, përgatitjen e planit të trajtimit dhe për kryerjen e intervenimeve të nevojshme;
+
+posaçërisht informimi i punëtorëve shëndetësorë, për çdo sëmundje të mëhershme, trajtimin shëndetësor, përdorimin e barnave ose për prodhimet dhe procedurat paramjekësore, si dhe për afinitetin e tij ndaj faktorëve të rrezikshëm, që mund të dëmtojnë shëndetin;
 
 b. informimi për çdo detaj në lidhje me sëmundjen e tij, që mund të rrezikojë sigurinë jetësore ose fizike të të tjerëve, në veçanti mbi ndonjë sëmundje ngjitëse ose mbi ndonjë sëmundje ose gjendje që e përjashton atë nga ushtrimi i profesionit;
 
@@ -439,7 +445,7 @@ h. prezentimi i provave të besueshme për të dhënat personale.
 
 22.3. Mënyra e detajizuar e ushtrimit të të drejtave dhe të përgjegjësive të banorit, brenda institucionit shëndetësor, përcaktohet me rregullat operative të institucionit shëndetësor, që duhet të jenë në pajtim të plotë me këtë Ligj.
 
-Kapitulli IV
+### KAPITULLI IV
 
 ### ZBATIMI I TË DREJTAVE TË BANORIT NË KUJDESIN SHËNDETËSOR
 
@@ -447,25 +453,31 @@ Kapitulli IV
 
 Menjëherë pas pranimit ose para fillimit të ofrimit të shërbimeve shëndetësore, institucioni shëndetësor, duhet të informojë banorin, varësisht nga gjendja e tij shëndetësore, mbi të drejtat dhe përgjegjësitë në kujdesin shëndetësor, mbi mundësitë e zbatimit të tyre si dhe për rregullat operative të institucionit. Kjo dispozitë duhet të zbatohet në mënyrë të plotë ndaj cilitdo person tjetër që, në emër të banorit, në pajtim me këtë Ligj, ka të drejtë të ushtrojë të drejtën e vetëpërcaktimit.
 
-Ankesat e banorëve
-
 #### Neni 24
 
-24.1. Banori ka të drejtë të parashtrojë ankesë ndaj institucionit shëndetësor përkitazi me shërbimin shëndetësor që i është ofruar, jo më vonë se 60 ditë pas shkaktimit të incidentit.
+Ankesat e banorëve (Në tërë tekstin e nenit 24 të Ligjit bazik fjala “ankesë” zëvendësohet me fjalën “kundërshtim administrativ”;
 
-24.2. Institucioni shëndetësor duhet të bëjë hetime lidhur me pohimet në ankesë dhe duhet të informojë banorin mbi rezultatet e hetimeve me shkrim, brenda 10 ditëve të punës.
+ndryshohet paragrafi 24.5 i nenit 24 të Ligjit bazik me Ligjin Nr. 08/L-176 dt. 06.07.2023)2
 
-24.3. Banori ka të drejtë të ankesës në vendimin e institucionit shëndetësor, në institucionin e tij mbështetës.
+24.1. Banori ka të drejtë të parashtrojë kundërshtim administrativ ndaj institucionit shëndetësor përkitazi me shërbimin shëndetësor që i është ofruar, jo më vonë se 60 ditë pas shkaktimit të incidentit.
 
-24.4. Ushtrimi i të drejtës për ankesë nuk ndikon në të drejtën e banorit që t’iu drejtohet institucioneve të tjera për hetimin e ankesës,në mënyrën e përcaktuar me ligj. Institucioni shëndetësor duhet t’ia tërheqë vërejtjen banorit lidhur me këtë rrethanë.
+24.2. Institucioni shëndetësor duhet të bëjë hetime lidhur me pohimet në kundërshtim administrativ dhe duhet të informojë banorin mbi rezultatet e hetimeve me shkrim, brenda 10 ditëve të punës.
 
-24.5. Procedura e shqyrtimit të ankesave të banorëve nga ana e institucionit shëndetësor, duhet të përcaktohet me rregullat e brendshme operative, në përputhje me ligjet përkatëse.
+24.3. Banori ka të drejtë të kundërshtimit administrativ në vendimin e institucionit shëndetësor, në institucionin e tij mbështetës.
 
-24.6. Ankesat duhet të regjistrohen dhe dokumentet në lidhje me ankesa dhe hetimet e kryera, duhet të ruhen 5 vjet.
+24.4. Ushtrimi i të drejtës për kundërshtim administrativ nuk ndikon në të drejtën e banorit që t’iu drejtohet institucioneve të tjera për hetimin e kundërshtim administrativ, në mënyrën e
 
-Koncepti i dëmit të shkaktuar ndaj banorit
+Në tërë tekstin e nenit 24 të Ligjit bazik fjala “ankesë” zëvendësohet me fjalën “kundërshtim administrativ”
+
+përcaktuar me ligj. Institucioni shëndetësor duhet t’ia tërheqë vërejtjen banorit lidhur me këtë rrethanë.
+
+24.5. Për aq sa nuk rregullohet në Ligjin bazik, procedura e shqyrtimit të kundërshtimit administrativ të qytetarëve sipas këtij neni bëhet në pajtim me rregullat e përcaktuara në Ligjin përkatës për Procedurën e Përgjithshme Administrative për Kundërshtimin Administrativ”.
+
+24.6. Kundërshtimi administrativ duhet të regjistrohen dhe dokumentet në lidhje me kundërshtime administrative dhe hetimet e kryera, duhet të ruhen 5 vjet.
 
 #### Neni 25
+
+Koncepti i dëmit të shkaktuar ndaj banorit
 
 25.1. Sipas këtij Ligji, dëmi i shkaktuar ndaj banorit nënkupton dëmin material si dhe dëmin jomaterial, përfshirë dhembjen dhe uljen e kualitetit të jetës, që janë shkaktuar si pasojë e:
 
@@ -477,19 +489,21 @@ c. defekteve strukturale të pajisjeve mjekësore, funksionimit të tyre të dob
 
 25.2. Pasojat e trajtimit mjekësor, që ka qenë i mbështetur mbi parimet dhe standardet e pranuara në mënyrë universale, të shkencës dhe të profesionit mjekësor, që nuk kanë mundur të shmangen nëpërmjet përdorimit të metodave njëlloj efektive të trajtimit, në bazë të këtij Ligji, nuk do të konsiderohen si dëm i shkaktuar ndaj banorit.
 
-Kërkesat e banorëve për dëmshpërblim
-
 #### Neni 26
+
+Kërkesat e banorëve për dëmshpërblim
 
 26.1. Banori ka të drejtë të parashtrojë kërkesë për dëmshpërblim, mbështetur në përgjegjësinë civile të institucionit shëndetësor për dëmtimin e shëndetit të tij gjatë trajtimit mjekësor, jo më vonë se brenda një viti prej momentit kur është bërë koshient për dëmin e shkaktuar.
 
 26.2. Kërkesat për dëmshpërblim duhet të regjistrohen dhe dokumentet, që kanë lidhje me to duhet të ruhen 5 vjet.
 
-Komisioni për vlerësimin dhe kompenzimin e dëmit të shkaktuar ndaj shëndetit të banorëve
-
 #### Neni 27
 
-27.1. Ministria e Shëndetësisë duhet të formojë Komisionin për vlerësimin dhe kompenzimin e dëmit të shkaktuar ndaj shëndetit të banorëve, gjatë trajtimit të tyre mjekësor, në sektorin publik dhe privat të shëndetësisë (në tekstin e mëtejmë Komisioni). Komisioni ka mandat katër vjeçar.
+Komisioni për vlerësimin dhe kompenzimin e dëmit të shkaktuar ndaj shëndetit të banorëve
+
+27.1. Ministria e Shëndetësisë duhet të formojë Komisionin për vlerësimin dhe kompenzimin e dëmit të shkaktuar ndaj shëndetit të banorëve, gjatë trajtimit të tyre mjekësor, në sektorin
+
+publik dhe privat të shëndetësisë (në tekstin e mëtejmë Komisioni). Komisioni ka mandat katër vjeçar.
 
 27.2. Komisioni, emërohet nga Ministri i Shëndetësisë dhe përbëhet nga persona të kualifikuar dhe të pavarur, duke përfshirë:
 
@@ -505,7 +519,9 @@ c. një anëtar, i cili nuk është pjesëtar i këtyre institucioneve dhe që �
 
 27.5. Komisioni vendosë lidhur me validitetin dhe arsyeshmërinë e kërkesës së banorit për dëmshpërblim si dhe përcakton lartësinë e dëmshpërblimit, duke pasur parasysh shkallën e humbjes së aftësisë për punë, si dhe shkallën dhe kohëzgjatjen e dëmtimit të shëndetit të banorit.
 
-27.6. Me rastin e shqyrtimit të kërkesës së banorit për dëmshpërblim, anëtarët e Komisionit kanë të drejtë që të kenë në disponim të gjitha dokumentet e nevojshme për vlerësim. Administrata e institucionit përkatës shëndetësor, mjekët, stomatologët, farmacistët ose personeli i infermierëve, duhet t‘i ofrojnë Komisionit të gjitha informatat dhe dokumentet e nevojshme, në pajtim me kërkesën e Komisionit, brenda 5 ditëve të punës.
+27.6. Me rastin e shqyrtimit të kërkesës së banorit për dëmshpërblim, anëtarët e Komisionit kanë të drejtë që të kenë në disponim të gjitha dokumentet e nevojshme për vlerësim.
+
+Administrata e institucionit përkatës shëndetësor, mjekët, stomatologët, farmacistët ose personeli i infermierëve, duhet t‘i ofrojnë Komisionit të gjitha informatat dhe dokumentet e nevojshme, në pajtim me kërkesën e Komisionit, brenda 5 ditëve të punës.
 
 27.7. Me rastin e shqyrtimit të kërkesës së banorit, anëtarët e Komisionit duhet të ruajnë konfidencialitetin.
 
@@ -541,9 +557,9 @@ e. në rastin e konfliktit të interesit.
 
 29.3. Themelimi, aktivitetet dhe procedurat e Komisionit duhet të përcaktohen me akt nënligjor, të nxjerrë nga Ministria e Shëndetësisë.
 
-Kompenzimi i dëmit
-
 #### Neni 30
+
+Kompenzimi i dëmit
 
 30.1. Komisioni përcakton shkallën e dëmtimit të shëndetit të banorit, që ka ndodhur si pasojë e veprimeve ose negligjencës së mjekut, stomatologut, farmacistit ose të personelit të infermierëve.
 
@@ -551,9 +567,9 @@ Kompenzimi i dëmit
 
 30.3. Procedura e kompenzimit të dëmit të shkaktuar ndaj shëndetit të banorëve, do të përcaktohet me këtë Ligj, dhe në përputhje me ligjet përkatëse.
 
-Sigurimi i institucioneve shëndetësore
-
 #### Neni 31
+
+Sigurimi i institucioneve shëndetësore
 
 31.1. Institucionet shëndetësore, të licencuara për ofrimin e kujdesit individual shëndetësor në Kosovë, duhet të sigurojnë përgjegjësinë e tyre civile për dëmin e shkaktuar ndaj banorëve, që ka ndodhur si pasojë e veprimeve ose negligjencës së mjekëve, stomatologëve, farmacistëve ose të infermierëve.
 
@@ -569,9 +585,9 @@ Sigurimi i institucioneve shëndetësore
 
 31.7. Institucionet shëndetësore, që nuk e kanë siguruar përgjegjësinë e tyre civile për dëmet e shkaktuara banorëve si rezultat i veprimeve ose negligjencës së punëtorëve shëndetësorë të punësuar në to, nuk do të kenë të drejtë që të licencohen për ofrimin e kujdesit individual shëndetësor.
 
-Pagesa e dëmshpërblimit banorit
-
 #### Neni 32
+
+Pagesa e dëmshpërblimit banorit
 
 32.1. Në rast se dëmi është shkaktuar në institucionin shëndetësor, që përgjegjësin e tij civile nga paragrafi 31.1 e ka siguruar me themelimin e marrëdhënieve kontraktuale të sigurimit me Fondin, kompenzimi për dëmin e shkaktuar ndaj banorit do të paguhet nga ky Fond, në pajtim me dispozitat e këtij Ligji.
 
@@ -579,19 +595,51 @@ Pagesa e dëmshpërblimit banorit
 
 32.3. Dëmi do të kompenzohet në pajtim me vlerën e pagës minimale mujore, që është në fuqi, në ditën e parashtrimit të kërkesës për dëmshpërblim, para Komisionit.
 
-32.4. Në rast se shëndeti i banorit është i dëmtuar në institucionin privat shëndetësor që përgjegjësinë e tij civile nga paragrafi 31.1 e ka siguruar në kompaninë e sigurimeve nga paragrafi 31.5, dëmshpërblimi do të paguhet në mënyrën dhe në pajtim me kushtet e përcaktuara me kontratën nga paragrafi 31.6 i këtij Ligji. Në këtë rast, lartësia maksimale e dëmshpërblimit, nuk mund të jetë më e vogël se sa shuma e përcaktuar me paragrafin 2, të këtij neni.
+32.4. Në rast se shëndeti i banorit është i dëmtuar në institucionin privat shëndetësor që përgjegjësinë e tij civile nga paragrafi 31.1 e ka siguruar në kompaninë e sigurimeve nga paragrafi 31.5, dëmshpërblimi do të paguhet në mënyrën dhe në pajtim me kushtet e përcaktuara me kontratën nga paragrafi 31.6 i këtij Ligji. Në këtë rast, lartësia maksimale e
 
-Ankesa kundër vendimit të Komisionit
+dëmshpërblimit, nuk mund të jetë më e vogël se sa shuma e përcaktuar me paragrafin 2, të këtij neni.
 
 #### Neni 33
 
+Ankesa kundër vendimit të Komisionit (Pas nenit 33 të ligjit shtohet neni i ri 33A, me Ligjin Nr. 08/L-051 dt. 19.01.2022)
+
 Kundër vendimeve të Komisionit mund të ushtrohet ankesa në gjykatën kompetente, në përputhje me ligjet përkatëse.
 
-Dispozitat kalimtare
+### KAPITULLI IV
+
+#### Neni 33A
+
+Sanksioni kundërvajtës me gjobë
+
+\1. Me gjobë në shumë prej pesëqind (500) e deri në pesëmbëdhjetë mijë (15,000) euro dënohet për kundërvajtje institucioni shëndetësor nëse gjatë kujdesit cenohen të drejtat e banorëve, përkatësisht:
+
+1.1. e drejta në kujdes cilësor shëndetësor, lidhur me kujdesin shëndetësor adekuat, qasje në vazhdimësi për të gjithë dhe pa diskriminim sipas nenit 4 të ligjit;
+
+1.2. e drejta e zgjedhjes së mjekut për konsultim dhe trajtim apo të kërkoj që të ekzaminohet nga konziliumi mjekësor brenda institucionit në lidhje me çfarëdo diagnoze të vënë, ose terapi të rekomanduar nga mjeku përgjegjës, lëshimin e planifikuar nga institucioni shëndetësor me shtretër, ose dërgimin te institucioni tjetër shëndetësor sipas nenit 5 të ligjit;
+
+1.3. e drejta në respektimin e dinjitetit njerëzor (dinjiteti, jeta private, integriteti personal dhe bindjet religjioze të banorit) sipas nenit 6 të ligjit;
+
+1.4. e drejta e komunikimit me personat e tjerë dhe të pranojë vizitorë sipas nenit 7 të ligjit;
+
+1.5. e drejta e largimit nga institucioni shëndetësor sipas nenit 8 të ligjit;
+
+1.6. e drejta për të qenë i informuar lidhur me gjendjen e shëndetit, përfshirë edhe vlerësimin mjekësor, ekzaminimet, intervenimet e rekomanduara, përparësitë e mundshme dhe rreziqet e realizimit të ekzaminimeve ose të intervenimeve të rekomanduara etj, sipas nenit 9 të ligjit;
+
+1.7. e drejta e vendimit personal që të vendos se a do t’i nënshtrohet ose jo trajtimit të caktuar, se a dëshiron që të shfrytëzojë shërbimet shëndetësore apo jo etj., sipas nenit 10 të ligjit;
+
+1.8. e drejta e refuzimit të dhënies së pëlqimit sipas nenit 15 të ligjit;
+
+1.9. e drejta e qasjes ndaj dokumentacionit shëndetësor për të qenë i njoftuar me të dhënat që i përmban dokumentacioni i institucionit shëndetësor lidhur me të, dhe është i autorizuar që të ketë informatë lidhur me qasjen ndaj tyre sipas nenit 19 të ligjit;
+
+1.10. e drejta e ruajtjes së konfidencialitetit dhe aspektit privat të të dhënave shëndetësore personale, të informatave që janë të lidhura me gjendjen shëndetësore, trajtimin mjekësor si dhe çdo informatë tjetër që përmban dokumentacioni i tij shëndetësor sipas nenit 20 të ligjit.
+
+\2. Për kundërvajtje nga paragrafi 1 i këtij neni dënohet me gjobë në shumë prej gjashtëdhjetë
+
+(60) e deri në njëmijë e pesëqind (1,500) euro edhe personi përgjegjës në institucionin shëndetësor dhe profesionisti shëndetësor.
 
 #### Neni 34
 
-Dispozitat e Kapitullit IV, të këtij Ligji bëhen operative më 15. Janar, 2005.
+Dispozitat kalimtare Dispozitat e Kapitullit IV, të këtij Ligji bëhen operative më 15. Janar, 2005.
 
 #### Neni 35
 

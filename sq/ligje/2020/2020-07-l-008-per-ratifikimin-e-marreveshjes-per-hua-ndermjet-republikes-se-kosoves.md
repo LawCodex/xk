@@ -68,55 +68,7 @@ Nddrn!et REPUBLIKES Sii TOSOViiS Dho
 
 Dat€ 9 maj 201 9 \rrnst0Ni EKZIrtiUtIV TABEI-A Ii I'iifu1,IBA.I'T.]ES NENI I - TERlvlF-'I DHE I(USHTET STANDARDE; PERKUFIZIME1 ......................
 
-Paragrati 1 .0 t....P6rfshiqla e telmeve dhc kushaeve statrda.de Paagrafi 1.02....P0r'}Par agrafi 1.03.... Interpretimi .
-
-### NENI II - KUSHTET KRYI]SORE TE I{UAS!-ERROR! BOOK}IARI{ NOT DEFINED.
-
-Paragrafi 2.01 ........Shuma dhe valuta...-..,.,....
-
-.l Palagrafi 2.02.....-. Kushtet tiera financiare t0 huasd Errorl Bookmarl< not definetl.
-
-Paragrafi 2-03........Ter heqlet.- 1
-
-t)alagrafi 2.04........Pdllaq6suesi i aotorizuar p€r 'f€rheqieError! Ilaokm:rrk not defined.
-
-NENI lll - REALIZII\,II I PROJEKTIT ...
-
-Parzgrafi 3.01 ........Malrdveshjet tiera pozitive dhe negative t€ projekt;t.-.-_.....
-
-NENJ IV - PEZUI,LIMI; PEITS}TPEJ'|IfuII: ANULIN,II Palagrafi zt.0 1.........Pe2u11irni.....-.............
-
-Paragra fi :1.{}2.........Shpejtirni i i\4aturitetit NENI V - EFtKl'IVI'TETI Paragrafi 5.0 1..........Kushtet qe i pamprijne efektivitetit Paragrafi 5.02..........Mendimet l-igf ore Paragrafi 5.03..........r.r-ddrprerja pdr shkak re deshtimit te hyrjes n€ fi.rqi Paragrafi 5.04..........Kushtet qe i paraprijnE T6rheqies s€ par€..
-
-### NENI VI - TE NDRYSHM
-
-Paragrafi 6.0 l....",....Njoliimet
-
-### SI-ITOJCA I . PERSHKRTI\4I I PROJEKTIT
-
-SHTOJCA 2 - KATEGORIfE OXE' lErurEq.rE r.......,.
-
-IJ i, Yl:l{Sl()Nl EKZlrKtll'lv }1A I{REVESH.'A Piilt HUA MARR'VESH.TA PiiR HUA (Kjo "Man'6vesh.ie") e tirrhur mc dare 9 ma-i 2019 ndeflnjet REPUBLIKiIS SE K()SOVtS. pdrlaqdsuar nga t\,tinistria e saj e Finincave {"lluau, ar.resi") dhe BANKES ITVROPIANE pER RINDiiRTIilI DI{E ZHVILLIM ("Banka").
-
-PAR.T.THiiNIE MEQENiiISE, Elanka €shtc thernclnar p€r ti siguruar financim p€r pr ojekte t6 veqanta qd te nxis tmnzioiorrilr drcjt ekonornive te trcgua t6 hapur dhe per. t€ pronlov[ar iniciativen private dhe tC nde narresise n€ yendc t€ caktuara tit cilat jane zotuar te zbatojnr: parirnet e demokracise shum€ partiake, plui.aliznrit dhe ckonomise se tlegut;
-
-MEQITNESE, Huamarrl.si ka pEl q€llirr rd zbatoje pqiekti, siq pershkr.ul.ret ni Shtojcen I qa eshte projektrar per t€ ndihmuar n0 rehabilitirnin dhe zgierimin e rrjetit tij uj€ravc t€ zeze nE Kornr.rnen e G-iilalrit, Kosove, ("Komuna,') dhe q€ td lidhen kornunitet e aferta p€rmes rrdertimit te nje imp;anti rd ri per rrajtimin e ujdrave t€ zeza. {l't'rjZ lmpianti per Trtitimin e LtiErave tE Zeza);
-
-MEQITNESI,,, Pjesa A e Projekrit do td kryhet nga Kompanie e Ujes.iell€sit Regiional Hidromorava {"Subjekti i projektet') rne ndihmd teknike nga Huarnan-€si dhe pjesa B e Projektit do t€ kryhet nga Komuna sipas Man€veslrjes per Mbeshteaje te ptojektit;
-
-MEQENiiSll, I{uamaldsi ka k0rkuar ndihmE nga Banka p0r financirnin e pjesEve te projektit:
-
-iVIEQIiNiiSE, Korniza e lnvestimeve ld Ballkanit per€ndimor ('KIBP,) ka treguar sc nje grant i investimit deri ne 5 tnilion Euro tE shpenzimeve kapitale mund td jene te disponueshme p€r Projektin, me disponueshm€rinE e fondeve tE KlBp qg pritet td konfirmohen nE dhjetor 201 9;
-
-IVIF,QENESE. IluamarrEsi ka p€r qdllirn qe t6 kontraktoir nje Hua nga Banka Evropiare p€r Investirne ("Bashk€ financues') nE shutn6n e Dh.ieti Miliond Euro (i0,00U.000 ETJRO) per te ndihmLrar n€ financimin e Pjes6s A te pro-iekrit, subjekr i termeve dhe kLrshteve qe do ta vendosen ne nje N{arre\.eshje (,'lvlarrevesh-ia p0r Bashkeiinancim") nd€r'rn-let Fluanar€sit dhe Bashk€ fi nancuesit; dhe MfQENiiSE, Banka eshtd pajtuar qe mes tjerash ti jape te lartp€mendurit nj6 Hua n6 shumOn prej Dhjete Milion€ Euro (10.000,000 ElJItt)), subjekt i tenneve dhe kushteve te vena apo re{i:r'uar nd kCt€ Marrdveshje dhe ne Drafi Marrdveshjen c datEs nga }ijo l4ar€veshje ndermjet Subiektit te Projektit, Kornunds dhe Bankes (,'Draft Mareveshja,.
-
-sikurse p€rcaktnar nd Kushtet dhe'l'ermet Stardalde).
-
-TANI, PRANDAJ, paldt ndp€rrn-iet kdsaj pa.jtohen si nre poshte:
-
-Yl:RSIONt I]KZEKL' I IV N EN r r -.'IERt!.t ril- DH E I(USH'f [,T STANDARDE; piitrKr,?IzlM lil.
-
-Paragrafi l.l)1. P€rt-shirja e Tcrmevc tlhe Kushteve Standarde 1-e giitha dispozitat e Tennave dhe Kushteve Standarde t€ Bankes se dares I tetor 201 8 -iand pdrlishirE dhe berE t€ zbatueshme p6r ket€ Marr€veshje r,c re njejrerr fuqi dhe efelStandarde").
+Paragrati 1 .0 t....P6rfshiqla e telmeve dhc kushaeve statrda.de Paagrafi 1.02....P0r'}Standarde").
 
 Paragrrfi l-02. Pdrti u lizinret Te piirdo.ura ku(l().e ktre Marrtvesh-ie (pd'tshirt parathEnien dhe Shtoicat), ndsc nuk bEhet c clitur ndr'1"she osc konteksti e k€rkon nd.v-shc. termat e percakl[flra ne paralhdnie kanE kr.rptirn pd'kar€s dh€ne aty'e, termat e pcrcakhrara nE Ter-met dhe Kushret Standarde kand kuptirnet pe.katesc re dh€n€ atyre tlhe termat e meposhtem kane keto kuptimc:
 

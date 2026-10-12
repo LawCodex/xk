@@ -122,41 +122,7 @@ EN Sastavljeno u Briselu, dana EN
 
 ### NW EMWR TW A,{SHKIMIT EVROPIAN
 
-Stcphen Quest Generalni direktor, Carinska i poreska unus zA KOSovo Bcsnik Bislimi Ministar Finansija i Transfera -1 EN EN Anrks I Pravila koja rcgurisu linansijski rloprinos Kosova programu Unije carina 2020 l- tzRA('uN FINANstJsKoc DopRtNosA xosovA l' Finansijski doprinos koji Kosoro upladuje u op5ti budZet Evropske unijeje srea) Za aktivnosti iz dlana 2 (2) radke (a) ovog sporztzuma sledeti iznosi:
-
-EUR 35-000 za X)2A. godtnu.
-
-b) Za alitivnosti iz tadke (b) Ilana 2 (2) ovog sporazuma, godi.nji iaros od i20.000 evra' od godine tokom koje Kosovo koristi ccN/cSI u sr"rhe povezan , utiio.norr;.
-
-\2. Doprinos Kosova pokriva troskove pov€z-aRe sa
-
-a) udesce sluibe'ika carinske uprave Kosova u ak[iv*ostima programa iz drana 2 (2)
-
-taake (a) ovog sporazuma;
-
-b) udeSie Kosova u aktimostin:a iz d1arrra2 e) tadke {b) ovog sporaatma.
-
---.' Komisiia ie nadoknaditi putne troskove i trosko*e boravka koji inaju predstawici istru(:njaci Kosova tokom u6eSd.a u svojstvu posrnatrada:
-
-\- u odboru iz dtana l_5 Uretjbe o usvajanjrr programa ili
-
-\- na drugim sastancima vezanim z,ir sprovodenje programa- Nadolorada ce biti potr istim ,sro'ima i u skladu sa proced.rama na snazi za predstavnikedriava crlanica Ewopske unije.
-
-4' Uredba @u- E*ratom) 20r g/r 046 Evropskog parramenta i saveta od l g. jura 20 r g. ofinansijskim pravilima koja va2e za ops-ii frrJ;., U.,ip primenjuje se na upravljarjedoprinosa Kosova.
-
-PLAC,TIiJE I;TX'.rNSI.'Sl(OG DOf RTNOSA KOSOV.{ Nakon Skl ovaj Sporzzurn srupi na snagu i na potetiiu svake naredne budzetske godine,Komisiia ie postati Kosovu--11zfv ; .J;;;-k",r'Jforr.u;u njenom doprinosutroikora koji pokrir.a prenra ovorn spoftuumu.
-
-Taj doprinos plaia se u eurima na bankovni radun Komisije.
-
-Koso'o ie ,ratiti svoi doorinos godiinjim troskovima . skradu sa zahtevom zafinansiranje najkasni-ie iri *"."., nakoa -datuma poziva- Sonko ka5njenjc u uplatidoprinosa dovoiii do pracanja zateznit to*otu oJ.tk1 [o"or,. oo pr"ostari iznos odl:]l O?:*a Kamaura stopa je sropa kojr, Evropska c*r*t,l" banlia primenj uje nasvoJe gtavr)e operaciie rctinansirani4. objavrjene u scriji c Sruzbenug rlr.. n"'."p.r-unije, koi.a vaii prvog kalendarskog ;*; . .";;, ;. ioii- -t puau, uveca^ za 3.5procentnih poena.
-
-)
-
-l J
-
-### EN EN
-
-^! lluelju al je ka5njenje u plaianju doprinosa.ie raliva da rnoze znadajno ugrozitisprovotle43e i upravlianie progmmour, a u ,edostatku placanja 20 radnih dana nakonSto jc Komisija posiara stuzbeno grdsetnidk. pismo na Kosovo, udeice Kosora uProgramu za dotidnu godinu bice suspendovan, (i ENEN AnclI I
+Stcphen Quest Generalni direktor, Carinska i poreska unus zA KOSovo Bcsnik Bislimi Ministar Finansija i Transfera -1 EN EN Anrks I Pravila koja rcgurisu linansijski rloprinos Kosova programu Unije carina 2020 l- tzRA('uN FINANstJsKoc DopRtNosA xosovA l' Finansijski doprinos koji Kosoro upladuje u op5ti budZet Evropske unijeje sreI I
 
 ### FINANSTJSKA REVIZIJA, RECOVERY I DRTIGE MERE ),ROTIV PREVARI
 

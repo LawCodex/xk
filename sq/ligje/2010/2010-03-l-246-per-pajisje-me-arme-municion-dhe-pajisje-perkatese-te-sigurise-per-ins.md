@@ -1,19 +1,37 @@
 ---
-title: "LIGJI NR. 03/L-246 PËR PAJISJE ME ARMË, MUNICION DHE PAJISJE PËRKATËSE TË SIGURISË PËR INSTITUCIONET E AUTORIZUARA SHTETËRORE PËR SIGURI"
+title: "LIGJI NR. 03/L-246 PËR PAJISJE ME ARMË, MUNICION DHE PAJISJE PËRKATËSE TË SIGURISË PËR INSTITUCIONET E AUTORIZUARA SHTETËRORE PËR SIGURI (KONSOLIDUAR)"
 identifier: "03/L-246"
 type: act
 jurisdiction: xk
 language: sq
 date: 2010-12-10
+last_amended: 2025-05-22
 status: in_force
-text_version: original
+text_version: consolidated
 gazette: "Gazeta Zyrtare 91/2010"
-source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2737"
+source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=105956"
 retrieved: 2026-10-12
-note: "Original text as published; amended by 1 later act(s) listed on the source page."
+note: "Consolidated text published by the Official Gazette as non-official (\"Teksti i spastruar i ligjit nuk paraqet version zyrtar\")."
+base_act: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=2737"
 ---
 
-# LIGJI NR. 03/L-246 PËR PAJISJE ME ARMË, MUNICION DHE PAJISJE PËRKATËSE TË SIGURISË PËR INSTITUCIONET E AUTORIZUARA SHTETËRORE PËR SIGURI
+# LIGJI NR. 03/L-246 PËR PAJISJE ME ARMË, MUNICION DHE PAJISJE PËRKATËSE TË SIGURISË PËR INSTITUCIONET E AUTORIZUARA SHTETËRORE PËR SIGURI (KONSOLIDUAR)
+
+### LIGJI NR. 03/L-246 PËR PAJISJE ME ARMË, MUNICION DHE PAJISJE PËRKATËSE TË
+
+### SIGURISË PËR INSTITUCIONET E AUTORIZUARA SHTETËRORE PËR SIGURI
+
+(Data e publikimit 10 dhjetor 2010)
+
+Teksti i integruar me ndryshimet dhe plotësimet e bëra në bazë të:
+
+### LIGJI NR. 05/L -017 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 03/L-246 PËR
+
+### PAJISJE ME ARMË, MUNICION DHE PAJISJE PËRKATËSE TË SIGURISË PËR
+
+### INSTITUCIONET E AUTORIZUARA SHTETËRORE PËR SIGURI
+
+(Data e publikimit 19 gusht 2015)
 
 LIGJI Nr. 03/L-246
 
@@ -23,9 +41,7 @@ LIGJI Nr. 03/L-246
 
 Kuvendi i Republikës së Kosovës;
 
-Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës,
-
-Miraton
+Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton
 
 ### LIGJ PËR PAJISJE ME ARMË, MUNICION DHE PAJISJE PËRKATËSE TË SIGURISË PËR
 
@@ -37,93 +53,91 @@ Miraton
 
 #### Neni 1
 
-Qëllimi
-
-Qëllimi i këtij ligji është përcaktimi i dispozitave ligjore lidhur me pajisjen me armë, municion dhe pajisje përkatëse për siguri për institucionet e autorizuara shtetërore për siguri.
+Qëllimi Qëllimi i këtij ligji është përcaktimi i dispozitave ligjore lidhur me pajisjen me armë, municion dhe pajisje përkatëse për siguri për institucionet e autorizuara shtetërore për siguri.
 
 #### Neni 2
 
-Fushëveprimi
-
-Ky ligj rregullon prodhimin, riparimin, tregtinë, importin, eksportin, vënien e shenjave identifikuese, evidentimin, sigurinë gjatë deponimit dhe transportit, dhe vlerësimin e përputhshmërisë me kushtet për armët, municionin dhe pajisjet përkatëse për siguri për nevojat e institucioneve të autorizuara shtetërore të sigurisë, përveç për nevojat për Forcën e Sigurisë së Kosovës.
+Fushëveprimi Ky ligj rregullon prodhimin, riparimin, tregtinë, importin, eksportin, vënien e shenjave identifikuese, evidentimin, sigurinë gjatë deponimit dhe transportit, dhe vlerësimin e përputhshmërisë me kushtet për armët, municionin dhe pajisjet përkatëse për siguri për nevojat e institucioneve të autorizuara shtetërore të sigurisë, përveç për nevojat për Forcën e Sigurisë së Kosovës.
 
 #### Neni 3
 
-Përkufizimet
+Përkufizimet (paragrafi 1, nenparagrafi 1.1 riformulohet, nën-paragrafët 1.3., 1.4., 1.5., 1.6., 1.7., 1.8., 1.9.,
+
+1.10., 1.11., 1.12., 1.13., 1.14., 1.15., 1.16., 1.17.,1.18., 1.20., 1.21.,1.22., 1.23., 1.24., 1.25.,
+
+1.26., 1.27., 1.28., 1.29., 1.30., 1.31., 1.32. dhe 1.33 dhe pas paragrafit 1. shtohet paragrafi i ri
+
+1.a me Ligjin Nr. 05/L -017 i dates 19 gusht 2015)
 
 \1. Shprehjet e përdorura në këtë ligj kanë këtë kuptim:
 
-1.1. Institucionet e Autorizuara Shtetërore të Sigurisë - Policia e Kosovës, Inspektorati Policor i Kosovës, Agjencinë e Kosovës për Inteligjencë, Shërbimin Korrektues, Doganën e Kosovës dhe Agjencionin Pyjor të Kosovës;
+1.1. Institucionet e autorizuara shtetërore të sigurisë - përfshijnë: Forca e Sigurisë së Kosovës, Policinë e Kosovës, Inspektoratin Policor të Kosovës, Agjencinë e Kosovës për Inteligjencë, Akademinë e Kosovës për Siguri Publike, Shërbimin Korrektues, Doganën e Kosovës, Agjencinë Pyjore të Kosovës, Agjencinë e Kosovës për Forenzikë si dhe institucionet tjera të autorizuara të cilat mund të krijohen me ligj të veçantë.
 
 1.2. Pajisje për qëllime të veçanta (PQV)- armët, muninicionin dhe pajisjet përkatëse për siguri të dedikuara për institucionet shtetërore për siguri;
 
-1.3. Armë- nënkupton por nuk kufizohet në secilin mjet ose vegël e punuar me qëllim që nën presionin e gazrave, të cilat shkaktohen gjatë djegies së materialeve shpërthyese, elektricitetit, gazrave nën presion ose energjisë tjetër potenciale, të hedhë predha në formë të plumbit, grumbullit prej saçmash, gazi, lëngu, shigjete ose përbërësish të tjerë, që është e përcaktuar ose është përdorur për të shkaktuar dëme trupore, dëme fizike, dëme psikologjike, dhe po ashtu çdo mjet tjetër, qëllimi i të cilit është të bëjë sulm fizik ndaj integritetit fizik të njerëzve ose pronës;
+1.3. (Fshihet)
 
-1.4. Armë e zjarrit - pajisja që mund të përdoret si armë e cila gjuan një predhë të vetme ose shumë predha me shpejtësi të madhe përmes shtytjes së gazrave që krijohen nga djegia e shpejtë e brendshme e lëndës shtytëse ose përmes formave tjera të shtytjes së predhës që shkrepet nga arma e zjarrit;
+1.4. (Fshihet)
 
-1.5. Armë e shkurtër e zjarrit - arma e zjarrit me tytë jo më të gjatë se 30 cm ose gjatësia e përgjithshme e së cilës nuk është më e madhe se 60 cm;
+1.5. Fshihet)
 
-1.6. Armë e gjatë e zjarrit - çdo armë të zjarrit tyta e së cilës është më e gjatë se 30 cm ose gjatësia e së cilës është më e madhe se 60 cm;
+1.6. (Fshihet)
 
-1.7. Armë automatike e zjarrit - arma e zjarrit e cila rimbushet në mënyrë automatike sa herë që shkrepet ndonjë plumb dhe e cila mund të gjuajë më shumë se një plumb me një të tërhequr të këmbëzës;
+1.7. (Fshihet)
 
-1.8. Armë gjysmë-automatike e zjarrit – arma e zjarrit e cila rimbushet sa herë që shkrepet ndonjë plumb dhe e cila mund të gjuaj vetëm një plumb me një të tërhequr të këmbëzës;
+1.8. (Fshihet)
 
-1.9. Armë e zjarrit me përsëritje - arma e zjarrit e cila pas gjuajtjes së një plumbi është e dizajnuar që të rimbushet nga karikatori ose cilindri përmes veprimit me dorë;
+1.9. (Fshihet)
 
-1.10. Armë të drejtuara me energji (ADE) - lloji i armës që liron energji në një drejtim të shënjuar pa përdorur predhën. Kjo armë e bartë energjinë tek shënjestra për qëllime të efektit të dëshiruar;
+1.10. (Fshihet)
 
-1.11. Armë për përdorim të mjeteve të ndryshme - të gjitha llojet e pushkëve, pistoletave, revolverëve apo të mjeteve të tjera, të cilat nën shtypjen e barotit ose të gazrave përhapin në një drejtim gaz ngacmues që ka ndikim në shëndetin e njeriut;
+1.11. (Fshihet)
 
-1.12. Armë e zjarrit për sinjalizim të lehtë akustik- arma e zjarrit e cila përdoret zakonisht si sinjal për ndonjë fatkeqësi si dhe për qëllime të tjera sinjalizuese në det dhe ndërmjet aeroplanëve e njerëzve në tokë, përfshirë të gjitha llojet e pistoletave, revolverëve dhe pajisjeve të tjera, të cilat nën presionin e barotit ose gazrave, gjuajnë ose hedhin predha sinjalizuese në një drejtim dhe nxjerrin ose shpërndajnë predha, me përjashtim të pistoletave për sinjalizim me dritë që janë për përdorim ushtarak;
+1.12. (Fshihet)
 
-1.13. Armë eksplozive - nënkupton, por nuk kufizohet në çdo lloj të bombës, minës, raketës, granatës apo mjetit tjetër që përmban substanca eksplozive apo materiale ndezëse, ndaj të cilave për shkak të proceseve të brendshme apo të jashtme (peshës, ndikimit, fërkimit, reagimit kimik, energjisë elektrike dhe të ngjashme) shkaktohet lirimi apo krijimi i energjisë dhe eksplodimit.
+1.13. (Fshihet)
 
-Sipas këtij Ligji, armë eksplozive gjithashtu konsiderohen pjesët e eksplozivëve, detonatorët, mjetet piroteknike apo pjesët e tjera për të cilat qartë duket se janë të parapara për përgatitjen e armëve eksplozive. Ky përkufizim përfshin armët termobarike, të cilat dallohen nga armët konvencionale eksplozive për shkak se funksionojnë me oksigjen atmosferik dhe nuk kanë oksidues në eksplozivët e tyre. Armët termobarike, po ashtu quhen armë termobarike me impuls të lartë (TIL), eksploziv karburant-ajër (EKA apo FAX), si dhe nganjëherë quhen edhe municione karburant-ajër, armë me nxehtësi dhe shtypje apo bomba vakumike;
+1.14. (Fshihet)
 
-1.14. Armë e ftohtë - çdo mjet që përdoret për të kryer një sulm ose për të shkaktuar lëndime trupore, përmes përdorimit të forcës fizike nga sulmuesi, kur këto mbahen në tubime dhe objekte publike dhe vende të ngjashme;
+1.15. (Fshihet)
 
-1.15. Armë me elektroshok - arma pa aftësuese që përdoret për qetësimin e personit apo të shtazës përmes elektroshokut që ka për qëllim pengimin e funksioneve të muskujve sipërfaqësor.
+1.16. (Fshihet)
 
-Përveç kësaj, armë elektroshoku, nënkupton por nuk kufizohet në armë dhe shkopinj për paralizim të përkohshëm, që shkaktojnë shok elektrik përmes kontaktit të drejtpërdrejtë;
+1.17. (Fshihet)
 
-1.16. Pjesa kryesore e armës së zjarrit - çdo element që është i dizajnuar në mënyrë specifike për armë të zjarrit dhe është thelbësor për funksionimin e saj, duke përfshirë mes tjerash, mekanizmin e këmbëzës, gjilpërën goditëse, tytën, kornizën apo pranuesin, rrëshqitësin apo cilindrin, shulin apo shtratin e folesë së fishekut, shulin dhe pjesët përbërëse të tij;
+1.18. (Fshihet)
 
-1.17. Pajisje e posaçme për armë të zjarrit - çdo mekanizëm që është i prodhuar dhe i dedikuar për përmirësimin e nomenklaturës themelore të armës së zjarrit, e cila përmes aplikimit të saj, e rritë performancën dhe cilësinë e përdorimit të armës së zjarrit, përveç shënjestrës optike;
+1.19. Mjete optike të armëve të zjarrit për shikim (po ashtu të njohura si optikat e armëve të zjarrit të policisë) - mjetet e autorizuara për përdorim policor, të cilat mund të prodhohen drejtpërdrejt apo të ngjitura në armë zjarri, për qëllim të identifikimit apo gjetjes së cakut, por që zakonisht nuk përfshinë shënjestrat e hekurit, shënjestrat me harqe (peep-sights), dhe shënjestrat e hekurta apo me harqe (peep-sights) që palohen.
 
-1.18. Zbutësi apo shurdhuesi - pajisja që i bashkëngjitet tytës apo është pjesë e saj me qëllim të zvogëlimit të zhurmës dhe flakës së krijuar nga qitja me armë zjarri;
+Optikat e armëve të zjarrit nënkuptojnë përfshirjen e mjeteve që rrisin aftësinë e përdoruesit të autorizuar që të identifikojë, njohë, të shohë largësinë nëpërmes zmadhimit, mjeteve jozmadhuse të cakut, zërit, shënjestrimit direkt të laserit jovdekjeprurës, shënjestrimit infrared (reze ultra violete) apo optikat që mundësojnë identifikimin e cakut të jenë në nivele të ndriçimit duke iu qasur errësirës së tërësishme dhe gjetjes së cakut, i cili do të mund të ndihmojë në objektivat legjitime policore;
 
-1.19. Mjete optike të armëve të zjarrit për shikim (po ashtu të njohura si optikat e armëve të zjarrit të policisë) - mjetet e autorizuara për përdorim policor, të cilat mund të prodhohen drejtpërdrejt apo të ngjitura në armë zjarri, për qëllim të identifikimit apo gjetjes së cakut, por që zakonisht nuk përfshinë shënjestrat e hekurit, shënjestrat me harqe (peep-sights), dhe shënjestrat e hekurta apo me harqe (peep-sights) që palohen. Optikat e armëve të zjarrit nënkuptojnë përfshirjen e mjeteve që rrisin aftësinë e përdoruesit të autorizuar që të identifikojë, njohë, të shohë largësinë nëpërmes zmadhimit, mjeteve jozmadhuse të cakut, zërit, shënjestrimit direkt të laserit jo-vdekjeprurës, shënjestrimit infrared (reze ultra violete) apo optikat që mundësojnë identifikimin e cakut të jenë në nivele të ndriçimit duke iu qasur errësirës së tërësishme dhe gjetjes së cakut, i cili do të mund të ndihmojë në objektivat legjitime policore;
+1.20. (Fshihet)
 
-1.20. Municion - predhat siç janë plumbat, saçmet e armëve ajrore dhe predhat, bashkë me fitilat dhe kapsollat e tyre, të cilat mund të gjuhen nga armët ose të hidhen në ndonjë mënyrë tjetër.
+1.21. (Fshihet)
 
-Për arsye të avancimeve teknologjike, nuk do të kufizohet në të dhënat e përfshira në këtë përkufizim;
+1.22. (Fshihet)
 
-1.21. Plumb - njësia e municionit për gëzhojë moderne të armës së vogël, e cila paraqet kombinimin e plumbit, ndezësit, mbushësit dhe të gëzhojës në një njësi të vetme;
+1.23. (Fshihet)
 
-1.22. Saçme – numri i madh të predhave të vogla, qëllimi i të cilave është shkrepja e përnjëhershme me një të shtënë të vetme; armët që mund të mbahen me dorë të prodhuara për këtë lloj të municionit janë kryesisht të njohura si pushkë gjuetie;
+1.24. (Fshihet)
 
-1.23. Plumbi i pushkës ajrore - predhë josferike e paraparë për qitje nga pushka ajrore;
+1.25. (Fshihet)
 
-1.24. Municioni me nivel të lartë depërtues- (të cilit zakonisht i referohemi si plumba që depërtojnë në mjetet e blinduara) - çdo plumb të pistoletave dhe pushkëve ose municion të pistoletave dhe pushkëve me predha ose me pjesën qendrore të predhave të prodhuara në tërësi (duke përjashtuar praninë e gjurmëve të substancave të tjera) nga aliazhet e tungstenit, çeliku, hekuri, tunxhi, bronzi, bakër beriliumi ose uraniumi i varfëruar, ose plumba të mbështjellë plotësisht të kalibrit më të madh se 22 mm të dizajnuar ose të destinuar për përdorim në pistoleta ose pushkë, dhe mbështjellësi i të cilave ka peshën më të madhe se 25% të peshës së përgjithshme të predhës, duke përjashtuar ato predha të pistoletave ose pushkëve, bërthama e të cilave përbëhet nga materialet e buta siç janë plumbi ose aliazhet e plumbit, zinku ose aliazhet e zinkut, predhat e thyeshme të dizajnuara kryesisht për qëllime sportive dhe çdo predhë tjetër ose bërthamë e predhës e cila kryesisht është e destinuar për qëllime sportive ose industriale ose të cilat në ndonjë mënyrë tjetër nuk përbëjnë "municion që depërton në mjetet e blinduara" siç përkufizohet ai term me ligj. Ky përkufizim nuk përfshinë predhat e armëve teke;
+1.26. (Fshihet)
 
-1.25. Municion me predhë eksplozive - municioni i paraparë vetëm për përdorim nga institucionet për zbatim të ligjit, plumbi i të cilit përmban mbushje që eksplodon në momentin e goditjes apo që ka fitil të përcaktuar me kohë ose të vonuar, që do të rezultojë me eksplodimin e municionit në kohën e paracaktuar;
+1.27. (Fshihet)
 
-1.26. Municioni me plumba të ndezshëm - nënkupton, por nuk kufizohet në municionin e paraparë për përdorim të zbatimit të ligjit, plumbat e të cilit përmbajnë përzierje kimike të ndezshme, dhe mund të përfshijë municion që përmban metal të përzier ekzotermik dhe piroforik në formë të predhës, dhe është i paraparë për qëllim të hedhjes apo përhapjes së flakës për të nxitur hedhësin e flakës;
+1.28. (Fshihet)
 
-1.27. Municioni gjurmëlënës – lloji i municionit që lë gjurmë në ajër gjatë trajektores së vet në formë të gjurmës së tymit apo flakës, për të lehtësuar gjetjen e cakut. Në municionin gjurmëlënës përdoren plumbat e posaçëm që janë të modifikuar për të pranuar mbushje të vogël piroteknike në bazën e tyre. Pasi që të ndizet pas shkrepjes, përbërja ndizet me flakë, duke e bërë kështu predhën që të shihet me sy të lirë;
+1.29. (Fshihet)
 
-1.28. Municioni për armët për përdorim të agjentëve kimikë - municioni që përmban mbushje kimike në plumb, që ndikon në shëndetin e njerëzve apo të shtazëve;
+1.30. (Fshihet)
 
-1.29. Mbajtja e armës së zjarrit- të gjitha mënyrat e bartjes, përmes të cilave arma e zjarrit është e gatshme për përdorim të menjëhershëm nga poseduesi i saj apo kur poseduesi ka qasje të menjëhershme në armën e zjarrit;
+1.31. (Fshihet)
 
-1.30. Prodhim i armëve të zjarrit dhe municionit - çdo veprimtari e hulumtimit, studimit, zhvillimit, riprodhimit dhe e montimit të armëve, të pjesëve të armëve dhe të municionit, përveç veprimtarive të zbatuara nga pronari i armës së zjarrit të gjuetisë apo të asaj sportive me qëllim të rimbushjes së municionit të armës për nevoja personale, e cila përdoret si armë e gjuetisë apo sportive;
+1.32. (Fshihet)
 
-1.31. Riparim i armës së zjarrit - eliminimi i defekteve apo mirëmbajtjen e armës së zjarrit, si dhe zëvendësimin e pjesëve jofunksionale, të vjetruara apo atyre të prishura të armës së zjarrit me pjesë origjinale funksionale sipas nevojës dhe kërkesës;
-
-1.32. Tregti e armës, municionit dhe të pjesëve të armëve të zjarrit - furnizimi me armë të zjarrit, me municion dhe me pjesë të armëve të zjarrit dhe të municionit me qëllim të shitjes, ndërmjetësimit, transaksionit dhe të mbajtjes në depo të armëve dhe të municionit. Ndërmjetësimi është veprimtari e entiteteve juridike apo e personave fizik, të cilët veprojnë si agjentë për të tjerët gjatë negocimit apo nënshkrimit të kontratave, blerjes, shitjes apo transferit të armëve të zjarrit, të municionit apo të pjesëve të armëve të zjarrit në kompensim për një pagesë apo formë tjetër të kompensimit;
-
-1.33. Transport të armëve të zjarrit dhe të municionit - dërgimi i armëve të zjarrit, pjesëve të armëve të zjarrit dhe të municionit nga furnizuesi te entiteti që i merr ato;
+1.33. (Fshihet)
 
 1.34. Pajisje e policisë - çdo pajisje e përcaktuar me Ligjin për Policinë;
 
@@ -139,11 +153,11 @@ Për arsye të avancimeve teknologjike, nuk do të kufizohet në të dhënat e p
 
 1.40. Pastrimi i pjesëve të brendshme - niveli i parë të riparimit të cilin shfrytëzuesi nuk është në gjendje ta rregullojë ose pastrojë pa një aftësim përkatës dhe pa certifikim si armëtar ose pa veglat e nevojshme të armëtarit.
 
+1.a. Shprehjet tjera të përdorura në këtë ligj dhe në ligjin bazik kanë kuptimin e njëjtë ashtu siç janë përkufizuar në Ligjin për Armë.
+
 \2. Pajisjet speciale kolektive, të cilat janë subjekt të certifikatës së përdoruesit të fundit, në përputhje me Qëndrimin e Përbashkët për eksportin e armëve gjegjësisht lista ushtarake mund të ketë gjërat vijuese:
 
-2.1. municion dhe pajisje për vendosjen e kapsollës, komponente veçanërisht e projektuar (ML
-
-3);
+2.1. municion dhe pajisje për vendosjen e kapsollës, komponente veçanërisht e projektuar (ML 3);
 
 2.2. pajisjet për kontrollin e zjarrit dhe pajisjet e ndërlidhura për alarmim dhe paralajmërim, pajisjet testuese, balancuese dhe të kundërmasave, siç janë: sistemet për gjuajtje në shenjë, për caktimin e shenjës, për gjetjen e largësisë, për vëzhgim dhe për përcjellje, si dhe pajisjet për zbulim, bashkim të të dhënave, për njohje dhe identifikim dhe pajisjet për integrimin e njësorëve (censorëve) (ML5);
 
@@ -163,7 +177,9 @@ Për arsye të avancimeve teknologjike, nuk do të kufizohet në të dhënat e p
 
 #### Neni 4
 
-Përgjegjësitë
+Përgjegjësitë (Neni 4 i ligjit bazik, paragrafi 5. fjala „njëzet (20) vjet “zëvendësohet me fjalën „tridhjetë (30)
+
+vjet. me Ligjin Nr. 05/L -017 i dates 19 gusht 2015)
 
 \1. Organi Kompetent në përputhje me autorizimet që i janë dhënë, kryen aktivitetet e mbikëqyrjes së prodhimit, riparimit, tregtisë, importit, eksportit, deponimit dhe vënies së shenjave të PQV-së sipas këtij ligji, dhe mban një bazë të integruar të të dhënave për artikujt e importuar dhe eksportuar siç parashihet në këtë ligj.
 
@@ -173,109 +189,127 @@ Përgjegjësitë
 
 \4. Në pajtim me listën e autorizuar shtetërore të pajisjeve të nënshkruar nga Kryeministri, Organi Kompetent është autoriteti qendror për aprovimin e të gjitha transfereve dhe prokurimin e PQV-së, në pajtim me këtë ligj dhe ligjeve të tjera që ndërlidhen me fushën e sigurisë përveç për pajisjet për Forcën e Sigurisë të Kosovës.
 
-\5. Të dhënat që rezultojnë nga zbatimi i këtij ligji do të ruhen së paku njëzet (20) vjet.
+\5. Të dhënat që rezultojnë nga zbatimi i këtij ligji do të ruhen së paku tridhjetë (30) vjet.
 
 \6. Organi Kompetent do të harton raportin vjetor për eksport të armëve sipas Ligjit për tregtinë e mallrave strategjike
 
 #### Neni 5
 
-Kategoritë e armëve
+Kategoritë e armëve (riformulohet me Ligjin Nr. 05/L -017 i dates 19 gusht 2015)
 
 \1. Kategoritë e mëposhtme të armëve mund të përdoren nga Policia e Kosovës, sipas Ligjit për Armët:
 
-1.1. Kategoria A1, 37 mm ose platforma të ngjashme të lansimit, të përcaktuara më lartë;
+1.1. Kategoria A1, e kufizuar në 37 mm ose platforma të ngjashme për lansim;
 
 1.2. Kategoria A2, armë zjarri automatike;
 
-1.3. Kategoria A6, armët e zjarrit me shurdhues të montuar;
+1.3. Kategoria A4, por e kufizuar në municion me predha gome për menaxhim të turmave;
 
-1.4. Kategoria A7, armë zjarri me tytë të vjaskuar me kalibër mbi 12,7 milimetra;
+1.4. Kategoria A6, armë e zjarrit me zhurmëmbytës të montuar;
 
-1.5. Kategoria A8, armë zjarri e gjatë gjysmë-automatike për dedikim civil që duken si armë zjarri automatike;
+1.5. Kategoria A7, armë zjarri me tytë të vjaskuar me kalibër mbi 12,7 milimetra;
 
-1.6. Kategoria A9, lëndët plasëse dhe pjesët e tyre;
+1.6. Kategoria A8, mjetet plasëse dhe pjesët e tyre;
 
-1.7. Kategoria A10, armë me gaz (agjenteve kimik) dhe municioni i saj;
+1.7. Kategoria A9, armë për përdorim të agjenteve kimik dhe municioni i saj;
 
-1.8. Kategoria A1, pajisja e veçantë për armë zjarri;
+1.8. Kategoria A10, pajisja e veçantë për armë zjarri, e cila mundëson ndryshimin e armës së zjarrit në kategori tjetër nga origjinalja;
 
-1.9. Kategoria A12, paralizues elektrikë (armë me elektroshok);
+1.9. Kategoria A11, armë me elektroshok (paralizues elektrikë);
 
-1.10. Kategoria A13, municioni gjurmëlënës;
+1.10. Kategoria A12, municioni gjurmëlënës;
 
-1.11. Kategoria A17, armët e zjarrit me tyta poligonale;
+1.11. Kategoria A16, armët e zjarrit me tyta poligonale;
 
 1.12. Kategoria B1, armët e shkurta të zjarrit gjysmë-automatike apo përsëritëse;
 
-1.13. Kategoria B2, armë zjarri të shkurtra për një qitje, me ndezje qëndrore;
+1.13. Kategoria B2, armë zjarri të shkurtra për një qitje, me ndezje qendrore;
 
-1.14. Kategoria B3, armë me ndezje anësore të shkurtra për një qitje, me gjatësi të përgjithshme më të vogël se 28 cm;
+1.14. Kategoria B3, armë me ndezje anësore, të shkurtra për një qitje, me gjatësi të përgjithshme më të vogël se 28 cm;
 
-1.15. Kategoria B4, armë zjarri të gjata gjysmë-automatike, me arkëz dhe fole për fishekë që së bashku mund të mbajnë më tepër se tre fishekë;
+1.15. Kategoria B4, armë zjarri të gjata gjysmë-automatike, me arkëz dhe fole për fishekë, që së bashku mund të mbajnë më tepër se tre fishekë;
 
-1.16. Kategoria B5, armë zjarri të gjata gjysmë-automatike, me arkëz dhe fole për fishekë së bashku, që mund të pranojnë deri në tre fishekë dhe mbushësi i të cilave ndërrohet, përkatësisht kjo armë mund të konvertohet, me ndihmën e veglës së rëndomtë, me ç’rast arkëzat e fishekëve mund të pranojnë më tepër se tre fishekë;
+1.16. Kategoria B5, armë zjarri të gjata gjysmë-automatike, me arkëz dhe fole për fishekë së bashku që mund të pranojnë deri në tre fishekë dhe mbushësi i të cilave ndërrohet, përkatësisht kjo armë mund të konvertohet, me ndihmën e veglës së rëndomtë, me ç’rast arkëzat e fishekëve mund të pranojnë më tepër se tre fishekë;
 
-1.17. Kategoria B6, armë zjarri e gjatë gjysmë-automatike ose me përsëritje (repetim), me tytë të pavjaskuar të gjatë deri në 60 cm;
+1.17. Kategoria B6, armë zjarri e gjatë gjysmë-automatike ose me përsëritje me tytë të pavjaskuar, të gjatë deri në 60 cm;
 
-1.18. Kategori C1, armë zjarri e gjatë me përsëritje (repetim), që nuk është përfshirë në pikën 6 të kategorisë B;
+1.18. Kategori C1, armë zjarri e gjatë me përsëritje, që nuk është përfshirë në kategorinë B6;
 
 1.19. Kategoria C2, armë zjarri e gjatë me një gjuajtje me tytë të vjaskuar;
 
-1.20. Kategoria C3, armë zjarri e gjatë gjysmë-automatike, që nuk është përfshirë në pikat 4,5,6,7 të kategorisë B;
+1.20. Kategoria C3, armë zjarri e gjatë gjysmë-automatike, që nuk është përfshirë në kategorinë B4, B5, B6;
 
 1.21. Kategoria C4, armë e shkurtër zjarri me një qitje, me goditje anësore, gjatësia e përgjithshme e së cilës nuk është më e vogël se 28 cm;
 
 1.22. Kategoria C5, armë zjarri me një qitje, e gjatë me tytë të pavjaskuar;
 
-1.23. Kategoria C6, armë për sinjalizim me dritë dhe me zë;
+1.23. Kategoria C7, armë për sinjalizim me dritë dhe akustikë;
 
-1.24. Kategoria C7, adaptues;
+1.24. Kategoria C8, armë dhe municion për pasivizim të përkohëshëm të kafshëve;
 
-1.25. Kategoria D4, armët e ftohta.
+1.25. Kategoria C9, adaptues;
+
+1.26. Kategoria D4, armët e ftohta
 
 \2. Kategoritë e mëposhtme të armëve mund të përdoren nga Agjencia e Kosovës për Inteligjencë:
 
-2.1. Kategoria B1, armët e shkurta të zjarrit gjysmë-automatike apo përsëritëse dhe të kufizuara në pistoleta;
+2.1. Kategoria A2, armë zjarri automatike; 2.2. Kategoria A11, armë me elektroshok (paralizues elektrikë)
 
-2.2. Kategoria A17 , armët e zjarrit me tyta poligonale dhe të kufizuara në pistoleta;
+2.3. Kategoria A16, armët e zjarrit me tyta poligonale dhe të kufizuara në pistoleta;
+
+2.4. Kategoria B1, armët e shkurta të zjarrit gjysmë-automatike apo përsëritëse dhe të kufizuara në pistoleta;
+
+2.5. Kategoria B6, armë zjarri e gjatë gjysmë-automatike ose me përsëritje me tytë të pavjaskuar të gjatë deri në 60 cm;
+
+2.6. Kategori C1, armë zjarri e gjatë me përsëritje që nuk është përfshirë në pikën 6 të kategorisë B.
 
 \3. Kategoritë e mëposhtme të armëve mund të përdoren nga Shërbimi Korrektues:
 
-3.1. Kategoria B1, armët e shkurta të zjarrit gjysmë-automatike apo përsëritëse dhe të kufizuara në pistoleta;
+3.1. Kategoria A1, të kufizuara 37 mm ose platforma të ngjashme për lansim;
 
-3.2. Kategoria B6, armë zjarri e gjatë gjysmë-automatike ose me përsëritje (repetim), me tytë të pavjaskuar të gjatë deri në 60 cm;
+3.2. Kategoria A2, armë zjarri automatike;
 
-3.3. Kategoria C1, armë zjarri e gjatë gjysmë-automatike ose me përsëritje (repetim) me tytë të pavjaskuar të gjatë mbi 60 cm në gjatësi;
+3.3. Kategoria A10, pajisja e veçantë për armë zjarri, e cila mundëson ndryshimin e armës së zjarrit në kategori tjetër nga origjinalja;
 
-3.4. Kategoria A1, 37 mm ose platforma të ngjashme të lansimit, të kufizuara sipas përkufizimeve;
+3.4. Kategoria A11, armë me elektroshok (paralizues elektrikë);
 
-3.5. Kategoria A17, armë zjarri me tyta poligonale dhe të kufizuara në pistoleta;
+3.5. Kategoria A16, armë zjarri me tyta poligonale dhe të kufizuara në pistoleta;
 
-3.6. Kategoria A2, armë zjarri automatike.
+3.6. Kategoria B1, armët e shkurta të zjarrit, gjysmë-automatike apo përsëritëse dhe të kufizuara në pistoleta;
+
+3.7. Kategoria B6, armë zjarri e gjatë gjysmë-automatike ose me përsëritje me tytë të pavjaskuar, të gjatë deri në 60 cm;
+
+3.8. Kategoria C1, armë zjarri e gjatë gjysmë-automatike ose me përsëritje me tytë të pavjaskuar të gjatë mbi 60 cm.
 
 \4. Kategoritë e mëposhtme të armëve mund të përdoren nga Dogana e Kosovës:
 
-4.1. Kategoria B1, armët e shkurta të zjarrit gjysmë-automatike apo përsëritëse dhe të kufizuara në pistoleta;
+4.1. Kategoria A16, armët e zjarrit me tyta poligonale dhe të kufizuara në pistoleta.
 
-4.2. Kategoria A17, armët e zjarrit me tyta poligonale dhe të kufizuara në pistoleta.
+4.2. Kategoria B1, armët e shkurta të zjarrit, gjysmë-automatike apo përsëritëse dhe të kufizuara në pistoleta.
 
 \5. Kategoritë e mëposhtme të armëve mund të përdoren nga Agjencioni Pyjor i Kosovës:
 
-5.1. Kategoria B6, armët e zjarrit të gjata përsëritëse dhe gjysmë-automatike me tyta të pavjaskuara që nuk janë më të gjata se 60 cm; dhe
+5.1. Kategoria B6, armët e zjarrit të gjata, përsëritëse dhe gjysmë-automatike me tyta të pavjaskuara që nuk janë më të gjata se 60 cm, dhe;
 
-5.2. Kategoria C1, armët e zjarrit, të gjata përsëritëse dhe gjysmë automatike me tyta të pavjaskuara që nuk janë më të gjata se 60 cm (pushkët e gjuetisë).
+5.2. Kategoria C1, armë zjarri e gjatë, me përsëritje, që nuk është përfshirë në kategorinë B6.
 
 \6. Kategoritë e mëposhtme të armëve mund të përdoren nga Inspektorati Policor i Kosovës:
 
-6.1. Kategoria B1, armët e shkurta të zjarrit gjysmë-automatike apo përsëritëse dhe të kufizuara në pistoleta;
+6.1. Kategoria A16, armët e zjarrit me tyta poligonale dhe të kufizuara në pistoleta.
 
-6.2. Kategoria A17, armët e zjarrit me tyta poligonale dhe të kufizuara në pistoleta.
+6.2. Kategoria B1, armët e shkurta të zjarrit, gjysmë-automatike apo përsëritëse dhe të kufizuara në pistoleta;
+
+\7. Kategoritë e armëve të përcaktuara nga paragrafi 1 deri në paragrafin 6 të këtij neni mund të përdoren nga Akademia e Kosovës për Siguri Publike për qëllime trajnimi dhe arsimimi përpjesëtarët e institucioneve shtetërore të autorizuara për siguri.
+
+\8. Agjencia e Kosovës për Forenzikë mund:
+
+8.1. të posedojë armë për qëllim koleksionimi referues, të cilat janë të konfiskuara me vendim të plotfuqishëm të gjykatës, apo të blihen përmes procedurave të rregullta të prokurimit sipas ligjeve në fuqi;
+
+8.2. të posedojë municion për qëllim të testimit balistik të armëve. Municioni për armë të zjarrit mund të merret nga municioni i konfiskuar me vendim të plotfuqishëm të gjykatës apo të blihet përmes procedurave të rregullta të prokurimit sipas ligjeve në fuqi.
 
 #### Neni 6
 
-Municioni
-
-Institucionet shtetërore të sigurisë mund të blejnë municion për armët e cekura në nenin 5 sipas kërkesave të tyre.
+Municioni Institucionet shtetërore të sigurisë mund të blejnë municion për armët e cekura në nenin 5 sipas kërkesave të tyre.
 
 #### Neni 7
 
@@ -339,7 +373,7 @@ Prodhimi dhe riparimi - Informacion i përgjithshëm
 
 \4. Personat përgjegjës të përcaktuar në paragrafin 3. të këtij neni lejohen të ushtrojnë përgjegjësitë e lartpërmendura pasi të jenë çertifikuar si armëtarë lidhur me armën/armën e zjarrit përkatëse, sipas këtij ligj dhe Ligjit për Armët dhe për të siguruar përputhje me Qeverinë e Republikës së Kosovës, Organin Kompetent në lidhje me rregullat dhe rregulloret që kanë të bëjnë me specifikimet e armëve.
 
-\5. Institucioneve të autorizuara të sigurisë u lejohet t’ia kontraktojnë riparimin ndonjë organi tjetër të jashtëm që paguhet me buxhetin e institucioneve të tyre përkatëse.
+\5. Institucioneve të autorizuara të sigurisë u lejohet t’ia kontraktojnë riparimin ndonjë organi tjetër të jashtëm që paguhet me buxhetin e institucioneve të tyre përkatëse.
 
 #### Neni 9
 
@@ -429,13 +463,13 @@ Detyra e poseduesit të licencës për riparim
 
 \4. Poseduesit e licencës sigurojnë mbrojtje të përhershme fizike dhe teknike të objekteve ku deponohen PQV-të.
 
-\5. Arma nuk largohet nga objektet e poseduesit të licencës derisa ajo është duke u riparuar. Qitja provuese, nëse është e nevojshme, bëhet në lokacionin për të cilin është arritur pajtimi dhe nën mbikëqyrjen e organit kompetent.
+\5. Arma nuk largohet nga objektet e poseduesit të licencës derisa ajo është duke u riparuar.
+
+Qitja provuese, nëse është e nevojshme, bëhet në lokacionin për të cilin është arritur pajtimi dhe nën mbikëqyrjen e organit kompetent.
 
 \6. Poseduesi i licencës nga neni 10 i këtij ligji, përdorë municionin e deponuar nga Organi Kompetent për qitje provuese të armës gjatë riparimit.
 
-\7. Gjatë riparimit të armëve llojit PQV nga poseduesi i licencës mbahen këto shënime (por nuk kufizohen
-
-në):
+\7. Gjatë riparimit të armëve llojit PQV nga poseduesi i licencës mbahen këto shënime (por nuk kufizohen në):
 
 7.1. numrin dhe datën e riparimit;
 
@@ -457,9 +491,7 @@ në):
 
 #### Neni 15
 
-Evidencat
-
-Evidencat për objektet dhe kapacitetet prodhuese për PQV-të mbahen nga Organi Kompetent.
+Evidencat Evidencat për objektet dhe kapacitetet prodhuese për PQV-të mbahen nga Organi Kompetent.
 
 #### Neni 16
 
@@ -477,15 +509,13 @@ TREGTIA E PQV-së
 
 Përshkrim i përgjithshëm i tregtisë me PQV
 
-\1. Tregtia e PQV-së përfshinë të gjitha aktivitetet tregtare dhe shërbimet e ofruara në lidhje me PQV-të.
-
-Aktivitetet e tregtisë janë të kufizuara në prokurimin e PQV-së, aktivitetet e ofrimit të shërbimeve kufizohen në transportimin, deponimin dhe mirëmbajtjen e PQV-së.
+\1. Tregtia e PQV-së përfshinë të gjitha aktivitetet tregtare dhe shërbimet e ofruara në lidhje me PQV-të. Aktivitetet e tregtisë janë të kufizuara në prokurimin e PQV-së, aktivitetet e ofrimit të shërbimeve kufizohen në transportimin, deponimin dhe mirëmbajtjen e PQV-së.
 
 \2. Organi Kompetent lëshon licencën për tregtinë e armëve, municionit dhe pajisjeve të tjera për qëllime të veçanta me pëlqimin paraprak të Ministrisë së Forcës së Sigurisë dhe Ministrisë së Punëve të Jashtme.
 
 #### Neni 18
 
-Licenca për tregti me PQV
+Licenca për tregti me PQV (paragrafi 3 riformulohet me Ligjin Nr. 05/L -017 i dates 19 gusht 2015)
 
 \1. Poseduesi i licencës i regjistruar për tregtimin e PQV-së, duhet të shënohet dhe mbahet në listën e kompanive tregtare për PQV-të të licencuara nga Organi Kompetent.
 
@@ -501,7 +531,9 @@ Licenca për tregti me PQV
 
 2.5. licencën për tregti të armëve dhe municionit sipas Ligjit për Armë.
 
-\3. Kërkesa për këtë lloj të lejes shqyrtohet nga komisionet sipas Ligjit për Armë dhe do të përfshijë verifikimin e së kaluarës financiare dhe ligjore si dhe kontrollin e sigurisë së personit përgjegjës.
+\3. Kërkesa për këtë lloj të lejes shqyrtohet dhe vendoset nga komisioni shqyrtues, sipas Ligjit për armë dhe kërkesa do të përfshijë verifikimin e të kaluarës financiare dhe ligjore, si dhe kontrollin e sigurisë së personit përgjegjës. Vendimi i komisionit shqyrtues është i formës
+
+përfundimtare. Pala e pakënaqur kundër këtij vendimi mund t’i drejtohet gjykatës themelore kompetente.
 
 \4. Poseduesi i licencës informon Organin Kompetent brenda pesëmbëdhjetë (15) ditësh nga fillimi i tregtisë së PQV-së.
 
@@ -533,17 +565,17 @@ Kufizimet në tregtinë me PQV
 
 4.7. lejet për eksportim të përkohshëm të PQV-së duhet të mbahen nga organi kompetent në bazën qendrore të të dhënave.
 
-\5. Lejet për importimin e PQV-ve, të destinuara për t'u përdorur nga institucionet e autorizuara shtetërore të sigurisë, lëshohen nga Organi Kompetent pas vendimit nga Komisionet e themeluara sipas Ligjit për armë.
-
-\6. Leja për importimin e PQV-së duhet të mbahet nga Organi Kompetent në bazën qendrore të të dhënave.
+\5. Lejet për importimin e PQV-ve, të destinuara për t'u përdorur nga institucionet e autorizuara shtetërore të sigurisë, lëshohen nga Organi Kompetent pas vendimit nga Komisionet e themeluara sipas Ligjit për armë. 6. Leja për importimin e PQV-së duhet të mbahet nga Organi Kompetent në bazën qendrore të të dhënave.
 
 #### Neni 20
 
 Vënia e shenjave identifikuese të PQV-ve
 
-\1. PQV-të importohen vetëm pasi armët, municioni dhe pajisjet tjera të jenë shënuar me shenjat e duhura identifikuese në përputhje me marrëveshjet përkatëse ndërkombëtare dhe ligjet relevante të Republikës së Kosovës. Përveç kësaj armët do të shënjohen edhe me shenja identifikuese të cilësisë sipas Komisionit të Përhershëm Ndërkombëtar për Testimin e Armëve të Zjarrit (CIP) ose standardeve të Institutit të Prodhuesve të Armëve dhe Municionit Sportiv (SAAMI).
+\1. PQV-të importohen vetëm pasi armët, municioni dhe pajisjet tjera të jenë shënuar me shenjat e duhura identifikuese në përputhje me marrëveshjet përkatëse ndërkombëtare dhe ligjet relevante të Republikës së Kosovës. Përveç kësaj armët do të shënjohen edhe me shenja identifikuese të cilësisë sipas Komisionit të Përhershëm Ndërkombëtar për Testimin e Armëve të Zjarrit (CIP) ose standardeve të Institutit të Prodhuesve të Armëve dhe Municionit Sportiv
 
-\2. PQV-të shënjohen me shenjën e dukshme “PQV” dhe nuk do të jenë të destinuara për tregun civil.
+### (SAAMI).
+
+\2. PQV-të shënjohen me shenjën e dukshme “PQV” dhe nuk do të jenë të destinuara për tregun civil.
 
 #### Neni 21
 
@@ -587,7 +619,7 @@ Licenca për transport të PQV-së
 
 \1. PQV-ja mund të transportohet nga poseduesit e licencës me seli biznesi apo dege e regjistruar të biznesit në territorin e Republikës së Kosovës, dhe që posedojnë licencë për këto lloje aktivitetesh.
 
-\2. Aplikuesi për transport të PQV-së parashtron kërkesën për licencë për transportimin e PQV-së tek Organi Kompetent, e cila duhet të përmbajë:
+\2. Aplikuesi për transport të PQV-së parashtron kërkesën për licencë për transportimin e PQVsë tek Organi Kompetent, e cila duhet të përmbajë:
 
 2.1. emrin e personit juridik që aplikon dhe emrin e personit përgjegjës;
 
@@ -609,7 +641,7 @@ Leja për transport të PQV-së
 
 \1. Leja nevojitet për çdo transport të PQV-së.
 
-\2. Aplikuesi parashtron kërkesë për leje për çdo transport të PQV-së, e cila duhet të përmbajë :
+\2. Aplikuesi parashtron kërkesë për leje për çdo transport të PQV-së, e cila duhet të përmbajë:
 
 2.1. emrin e kompanisë, vendin kryesor të biznesit të kompanisë dhe degën e regjistruar të biznesit, emrin personal, adresën e dërguesit, transportuesit dhe pranuesit;
 
@@ -627,7 +659,7 @@ Leja për transport të PQV-së
 
 2.8. licencën për transport të PQV-së.
 
-\3. Poseduesit e lejes që transportojnë armë, municion dhe pajisje tjera duhet të posedojnë lejen që lejon aktivitetin e transportimit të armëve dhe municionit nga Ministria e Transportit dhe Postë- Telekomunikacionit sipas Marrëveshjes Evropiane që ka të bëjë me Rregulloret për Transportin Rrugor Ndërkombëtar të Mallrave të Rrezikshme (ADR).
+\3. Poseduesit e lejes që transportojnë armë, municion dhe pajisje tjera duhet të posedojnë lejen që lejon aktivitetin e transportimit të armëve dhe municionit nga Ministria e Transportit dhe Postë Telekomunikacionit sipas Marrëveshjes Evropiane që ka të bëjë me Rregulloret për Transportin Rrugor Ndërkombëtar të Mallrave të Rrezikshme (ADR).
 
 \4. Leja mund të lëshohet për afat të vlefshmërisë deri në tre (3) muaj.
 
@@ -647,9 +679,7 @@ Siguria e përgjithshme e PQV-së
 
 #### Neni 26
 
-Menaxhimi dhe deponimi i PQV-së
-
-Organet shtetërore që lejohen me ligj që të posedojnë dhe mbajnë armë, municion dhe pajisje të tjera caktojnë një person përgjegjës për deponimin dhe menaxhimin e PQV-së.
+Menaxhimi dhe deponimi i PQV-së Organet shtetërore që lejohen me ligj që të posedojnë dhe mbajnë armë, municion dhe pajisje të tjera caktojnë një person përgjegjës për deponimin dhe menaxhimin e PQV-së.
 
 #### Neni 27
 
@@ -663,9 +693,9 @@ Vendet për deponim
 
 #### Neni 28
 
-Zhdukja, Humbja ose vjedhja e PQV
+Zhdukja, Humbja ose vjedhja e PQV Në rast të zhdukjes, humbjes ose vjedhjes së PQV-së, pronari, shfrytëzuesi ose personi juridik informon Organin Kompetent dhe Policinë e Kosovës menjëherë por jo më vonë se njëzetekatër
 
-Në rast të zhdukjes, humbjes ose vjedhjes së PQV-së, pronari, shfrytëzuesi ose personi juridik informon Organin Kompetent dhe Policinë e Kosovës menjëherë por jo më vonë se njëzetekatër (24) orë nga momenti kur ai/ajo e ka vërejtur këtë gjë.
+(24) orë nga momenti kur ai/ajo e ka vërejtur këtë gjë.
 
 ### KREU V
 
@@ -677,9 +707,11 @@ Kontrolli i cilësisë – Informacione të përgjithshme
 
 \1. Konfirmimi i respektimit të kushteve të përcaktuara për PQV, gjatë procesit të prodhimit dhe riparimit dhe para se të vihen PQV-të në qarkullim, bëhet nga Komisioni për Kontrollin e Cilësisë që përbëhet nga përfaqësuesit e Organit Kompetent, Ministrisë së Drejtësisë, Doganave dhe institucioneve të akredituara që janë të autorizuar nga Organi Kompetent.
 
-\2. Gjatë procesit të prodhimit dhe riparimit, për qëllim të konfirmimit të përputhjes me kushtet e përcaktuara për PQV-të, Organi Kompetent ka autoritet që t’ua caktojë prodhuesve edhe një person tjetër përveç atyre të punësuar nga Ministria e Punëve të Brendshme, Ministria e Drejtësisë dhe Dogana e Kosovës pas rekomandimit me shkrim të Komisionit për Kontrollin e Cilësisë.
+\2. Gjatë procesit të prodhimit dhe riparimit, për qëllim të konfirmimit të përputhjes me kushtet e përcaktuara për PQV-të, Organi Kompetent ka autoritet që t’ua caktojë prodhuesve edhe një person tjetër përveç atyre të punësuar nga Ministria e Punëve të Brendshme, Ministria e Drejtësisë dhe Dogana e Kosovës pas rekomandimit me shkrim të Komisionit për Kontrollin e Cilësisë.
 
-\3. Prodhuesit e PQV-së janë të obliguar që t’i sigurojnë personit të cekur në paragrafët 1. dhe 2. të këtij neni kushtet e punës që kërkohen për vlerësimin e respektimit të kushteve të përcaktuara për PQV.
+\3. Prodhuesit e PQV-së janë të obliguar që t’i sigurojnë personit të cekur në paragrafët 1. dhe 2.
+
+të këtij neni kushtet e punës që kërkohen për vlerësimin e respektimit të kushteve të përcaktuara për PQV.
 
 #### Neni 30
 
@@ -697,7 +729,7 @@ Dokumentacioni i Standardizuar për Kontrollin e Kualitetit
 
 1.5. metodat për testimin dhe konfirmimin e karakteristikave të përcaktuara të cilësisë;
 
-1.6. kriteret për llogaritjen dhe vlerësimin e cilësisë së mjeteve dhe sistemeve të PQV-së.
+1.6. kriteret për llogaritjen dhe vlerësimin e cilësisë së mjeteve dhe sistemeve të PQVsë.
 
 ### KREU VI
 
@@ -731,7 +763,9 @@ Dokumentacioni i Standardizuar për Kontrollin e Kualitetit
 
 #### Neni 33
 
-\1. Personi juridik dënohet për kundërvajtje me gjobë prej njëmijë (1.000) deri ne dhjetëmijë (10.000) Euro nëse:
+\1. Personi juridik dënohet për kundërvajtje me gjobë prej njëmijë (1.000) deri ne dhjetëmijë
+
+(10.000) Euro nëse:
 
 1.1. vepron në kundërshtim me nenin 9. të këtij ligji;
 
@@ -743,15 +777,13 @@ Dokumentacioni i Standardizuar për Kontrollin e Kualitetit
 
 1.5. vepron në kundërshtim me nenin 20 paragrafët 2. dhe 3. të këtij ligji;
 
-1.6. vepron në kundërshtim me nenin 26 paragrafi 1. të këtij ligji;
-
-1.7. vepron në kundërshtim me nenin 27 paragrafi 3. të këtij ligji;
+1.6. vepron në kundërshtim me nenin 26 paragrafi 1. të këtij ligji; 1.7. vepron në kundërshtim me nenin 27 paragrafi 3. të këtij ligji;
 
 #### Neni 34
 
-\1. Personi Juridik dënohet për kundërvajtje me gjobë prej pesëmijë (5.000) deri në pesëdhjetëmijë
+\1. Personi Juridik dënohet për kundërvajtje me gjobë prej pesëmijë (5.000) deri në pesëdhjetëmijë (50.000) Euro, ndërsa personi përgjegjës prej dyqind (200) deri njëmijë (1.000)
 
-(50.000) Euro, ndërsa personi përgjegjës prej dyqind (200) deri njëmijë (1.000) Euro nëse:
+Euro nëse:
 
 1.1. vepron në kundërshtim me nenin 6 paragrafi 2. të këtij ligji;
 
@@ -763,9 +795,9 @@ Dokumentacioni i Standardizuar për Kontrollin e Kualitetit
 
 #### Neni 35
 
-\1. Personi Juridik dënohet për kundërvajtje me gjobë prej dhjetëmijë (10.000) deri në pesëdhjetëmijë
+\1. Personi Juridik dënohet për kundërvajtje me gjobë prej dhjetëmijë (10.000) deri në pesëdhjetëmijë (50.000) Euro, ndërsa personi përgjegjës prej njëmijë (1.000) deri dhjetëmijë
 
-(50.000) Euro, ndërsa personi përgjegjës prej njëmijë (1.000) deri dhjetëmijë (10.000) Euro nëse:
+(10.000) Euro nëse:
 
 1.1. vepron në kundërshtim me nenin 6 paragrafi 1. të këtij ligji;
 
@@ -791,7 +823,9 @@ Aktet nënligjore të Organit Kompetent
 
 1.1. listën e autorizuar të pajisjeve të institucioneve shtetërore të sigurisë në bazë të kërkesave nga agjencionet ekzekutive e cila më tutje trajtohet si informacion i klasifikuar;
 
-1.2. kushtet minimale për aftësim, të cilat zbatohen nga të gjitha subjektet që posedojnë PQV;
+1.2. kushtet minimale për aftësim, të cilat zbatohen nga të gjitha subjektet që posedojnë
+
+### PQV;
 
 1.3. përcaktimin e standardeve minimale teknike dhe të sigurisë për objektet;
 
@@ -805,7 +839,9 @@ Aktet nënligjore të Organit Kompetent
 
 1.8. kushtet minimale për evidentimin e PQV-së dhe lëshimin e kartelave të autorizimit të cilat duhet të zbatohen nga të gjitha subjektet që posedojnë PQV;
 
-1.9. poligonet e qitjes të aprovuara të cilat përdoren nga të gjitha subjektet që posedojnë PQV;
+1.9. poligonet e qitjes të aprovuara të cilat përdoren nga të gjitha subjektet që posedojnë
+
+### PQV;
 
 1.10. nivelin e dytë për riparim të organizuar në mënyrë të centralizuar;
 
@@ -825,9 +861,7 @@ Aktet nënligjore të Organit Kompetent
 
 #### Neni 37
 
-Aktet nënligjore të Qeverisë
-
-Qeveria brenda një periudhe prej gjashtë (6) muajsh nga dita e hyrjes në fuqi të këtij ligji do të nxjerrë aktet nënligjore për kushtet minimale teknike dhe të sigurisë të cilat duhet të plotësojnë objektet ku zhvillohet prodhimi, riparimi ose tregtia dhe ku deponohen armët, municioni dhe pajisjet tjera.
+Aktet nënligjore të Qeverisë Qeveria brenda një periudhe prej gjashtë (6) muajsh nga dita e hyrjes në fuqi të këtij ligji do të nxjerrë aktet nënligjore për kushtet minimale teknike dhe të sigurisë të cilat duhet të plotësojnë objektet ku zhvillohet prodhimi, riparimi ose tregtia dhe ku deponohen armët, municioni dhe pajisjet tjera.
 
 ### KREU IX
 
@@ -835,22 +869,14 @@ Qeveria brenda një periudhe prej gjashtë (6) muajsh nga dita e hyrjes në fuqi
 
 #### Neni 38
 
-Të hyrat nga ligji
-
-Mjetet e grumbulluara në bazë të këtij ligji derdhen në buxhetin e Republikës së Kosovës.
+Të hyrat nga ligji Mjetet e grumbulluara në bazë të këtij ligji derdhen në buxhetin e Republikës së Kosovës.
 
 #### Neni 39
 
-Shfuqizimi
-
-Me hyrjen ne fuqi të këtij ligji shfuqizohen të gjitha dispozitat ligjore që nuk janë në përputhje me këtë ligj.
+Shfuqizimi Me hyrjen ne fuqi të këtij ligji shfuqizohen të gjitha dispozitat ligjore që nuk janë në përputhje me këtë ligj.
 
 #### Neni 40
 
-Hyrja në fuqi
+Hyrja në fuqi Ky ligj hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare të Republikës së Kosovës.
 
-Ky ligj hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare të Republikës së Kosovës.
-
-Ligji Nr. 03/ L-246 28 tetor 2010
-
-Shpallur me dekretin Nr. DL-073-2010, datë 09.11.2010 nga u.d. Presidenti i Republikës së Kosovës, Dr. Jakup Krasniqi
+Ligji Nr. 03/ L-246 28 tetor 2010 Shpallur me dekretin Nr. DL-073-2010, datë 09.11.2010 nga u.d. Presidenti i Republikës së Kosovës, Dr. Jakup Krasniqi

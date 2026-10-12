@@ -112,7 +112,13 @@ Pored toga, vlada Velikog vojvodstva Luksemburg je takode doprineo sa 584 000 EU
 
 Pored toga, vlada Velikog vojvodstva Luksemburg obavezuje se da ce staviti na raspola ganje 2.916.000 EUR (dva miiiona i devetsto i sestnaest hiljada evra) kako bi osigurala kon tinuiranu implementaciju planiranih projektnih aktivnosti do 31. decembra 2022. godine, podizuci tako ukupan budzet projekta na nivo od 9.700.000 EUR (devet miiiona sedamsto hiljada evra).
 
-Clan IV Doprinosi i obaveze Republike Kosovo Clan III Doprinosi Velikog Vojvodstva Luksemburga Tehnicki i financijski detlji projekata su navedeni u dokumentu u prilogu projekta koji je sastavni deo ovog sporazuma.
+#### Clan IV
+
+Doprinosi i obaveze Republike Kosovo
+
+#### Clan III
+
+Doprinosi Velikog Vojvodstva Luksemburga Tehnicki i financijski detlji projekata su navedeni u dokumentu u prilogu projekta koji je sastavni deo ovog sporazuma.
 
 Rezultati koji se ocekuju su sledeci:
 
@@ -144,7 +150,9 @@ Status ovih doprfnosa redovno ce se izvestavati povodom saslanaka Upravnog odbor
 
 p.5/5 Mr Franz Fayot Ministar za Saradnju i Razvoj i Humanitarne poslove Za Vladu Republike Kosova Za Vladu Velikog Vojvodstva Luksemburg Luxembourg i Pristina, Potvrdujuci navedeno, dole potpisani, koji deluju u ime svojih vlada, potpisali su ovaj spora zum u dva originala na engleskom jeziku.
 
-Clan VI Stupanje na snagu - Raskid - Sporovi
+#### Clan VI
+
+Stupanje na snagu - Raskid - Sporovi
 
 1.Ovaj sporazum stupa na snagu dana kada ce Republika Kosovo zvanicno obavestiti Vladu Velikom Vojvodstvu Luksemburg i potvrdice da je Republika Kosovo zavrsila sve interne procedure koje ce stupid na snagu i ostaje na snazi do 31. decembra 2022.
 

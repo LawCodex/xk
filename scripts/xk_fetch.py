@@ -169,6 +169,31 @@ def main():
             for n, _ in enumerate(ex.map(one, enumerate(ids))):
                 if n % 100 == 0:
                     print(lang, n, file=sys.stderr, flush=True)
+
+        def pdf(args):
+            # newer acts and consolidated texts have no HTML text: use the page's own PDF button
+            n, aid = args
+            tf = os.path.join(d, '%d.text.html' % aid)
+            pf = os.path.join(d, '%d.pdf' % aid)
+            if os.path.exists(pf) or os.path.exists(pf + '.none') or not os.path.exists(tf):
+                return
+            if len(BeautifulSoup(open(tf).read(), 'lxml').get_text(strip=True)) > 300:
+                return
+            ss = sessions[n % 2]
+            url = BASE + 'ActDocumentDetail.aspx?ActID=%d' % aid
+            r = get(ss, url)
+            data = {i['name']: i.get('value', '') for i in BeautifulSoup(r.text, 'lxml').find_all('input')
+                    if i.get('name', '').startswith('__')}
+            data['ctl00$MainContent$imgPDF.x'] = '10'; data['ctl00$MainContent$imgPDF.y'] = '10'
+            r = post(ss, url, data)
+            if r.content[:5] == b'%PDF-':
+                open(pf, 'wb').write(r.content)
+            else:
+                open(pf + '.none', 'w').write('no pdf')
+        with ThreadPoolExecutor(2) as ex:
+            for n, _ in enumerate(ex.map(pdf, enumerate(ids))):
+                if n % 200 == 0:
+                    print(lang, 'pdf', n, file=sys.stderr, flush=True)
     print('done', file=sys.stderr)
 
 

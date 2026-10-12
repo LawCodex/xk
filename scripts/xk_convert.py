@@ -6,7 +6,7 @@ Usage: xk_convert.py RAW_DIR OUT_DIR
 import datetime, json, os, re, sys, unicodedata
 from bs4 import BeautifulSoup
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from xk_textmd import structure
+from xk_textmd import structure, pdftotext
 
 RAW, OUT = sys.argv[1], sys.argv[2]
 TODAY = datetime.date.today().isoformat()
@@ -17,7 +17,8 @@ DIRS = {  # lang: (constitution, codes, laws)
 }
 MAIN = re.compile(r'^(LIGJI|LIGJ|KODI|KODIN|KUSHTETUTA)\b', re.I)
 CONSTITUTION_ID = 3702
-HEADER = re.compile(r'^(GAZETA ZYRTARE|SLUŽBENI LIST|SLUZBENI LIST|OFFICIAL GAZETTE|СЛУЖБЕНИ ЛИСТ|RESMİ GAZETE)', re.I)
+HEADER = re.compile(r'^(GAZETA ZYRTARE|SLUŽBENI LIST|SLUZBENI LIST|OFFICIAL GAZETTE|СЛУЖБЕНИ ЛИСТ|RESMİ GAZETE|'
+                    r'TEKSTI I SPASTRUAR|PREČIŠĆENI TEKST|PRECISCENI TEKST|THE CONSOLIDATED TEXT|CONSOLIDATED TEXT)', re.I)
 SR_CYR = dict(zip('абвгдђежзијклљмнњопрстћуфхцчџш',
                   ['a', 'b', 'v', 'g', 'd', 'dj', 'e', 'z', 'z', 'i', 'j', 'k', 'l', 'lj', 'm', 'n', 'nj', 'o', 'p',
                    'r', 's', 't', 'c', 'u', 'f', 'h', 'c', 'c', 'dz', 's']))
@@ -43,13 +44,17 @@ def dmy(s):
 
 
 def text_of(fn):
-    h = open(fn, encoding='utf-8', errors='replace').read()
+    pf = fn.replace('.text.html', '.pdf')
+    if os.path.exists(pf):
+        h = pdftotext(pf).replace('&', '&amp;').replace('<', '&lt;')
+        h = '<html><body>' + h.replace('\n', '<br/>') + '</body></html>'
+    else:
+        h = open(fn, encoding='utf-8', errors='replace').read()
+    h = re.sub(r'(?i)<br\s*/?>', '\n', h)
     s = BeautifulSoup(h, 'lxml')
     sp = s.body
     if not sp:
         return ''
-    for br in sp.find_all('br'):
-        br.replace_with('\n')
     lines = [l.strip() for l in sp.get_text().split('\n')]
     out = []
     for l in lines:
@@ -150,12 +155,13 @@ def main():
                 if cp:
                     fm.append('last_amended: ' + cp)
             fm += ['status: in_force', 'text_version: ' + text_version,
-                   'gazette: ' + yq('Gazeta Zyrtare ' + meta.get('gazette', '')),
+                   ] + (['gazette: ' + yq('Gazeta Zyrtare ' + meta['gazette'])] if meta.get('gazette') else []) + [
                    'source: ' + yq('https://gzk.rks-gov.net/ActDetail.aspx?ActID=%d' % src_id),
                    'retrieved: ' + TODAY]
             if text_version == 'original' and meta.get('amended_by'):
                 fm.append('note: ' + yq('Original text as published; amended by %d later act(s) listed on the source page.' % meta['amended_by']))
             if text_version == 'consolidated':
+                fm.append('note: ' + yq('Consolidated text published by the Official Gazette as non-official ("Teksti i spastruar i ligjit nuk paraqet version zyrtar").'))
                 fm.append('base_act: ' + yq('https://gzk.rks-gov.net/ActDetail.aspx?ActID=%d' % aid))
             fm.append('---')
             open(path, 'w').write('\n'.join(fm) + '\n\n# ' + title + '\n\n' + md + '\n')

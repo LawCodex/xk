@@ -610,7 +610,9 @@ P€rmbajtja
 
 Pjesa Nj6: Dispozitat e P€rgiilhshme ..-.-..-.--..-.
 
-Neni I - Periudha e zbatimit, periudha e zbatimit operativ dhe afati kontraltues
+#### Neni I
+
+\- Periudha e zbatimit, periudha e zbatimit operativ dhe afati kontraltues
 
 #### Neni 2
 
@@ -648,9 +650,15 @@ PjesaDy:DispozilatezbatueshmeperMenaxhiminlndirektngaP€rfrtuesiteIPAIl.....
 
 #### Neni 9
 
-\- Kontroll et Ex-ante mbi grantet dhe procedurat e prokurimit dhe kontrollet er PoJ, mbi J J kontratat dhe grantet q€ do te kryhen nga Komisioni Neni I 0 - Llogarit€ bankare, sistemet e kontabilitetit dhe shpenzimet e pranueshme """""
+\- Kontroll et Ex-ante mbi grantet dhe procedurat e prokurimit dhe kontrollet er PoJ, mbi J J kontratat dhe grantet q€ do te kryhen nga Komisioni
 
-Neni II -Dispozitat per pagesat e b€ra nga Komisioni per perfituesin e IPA II, ic ieshte Autoriteti Kontraktues .....
+#### Neni I 0
+
+\- Llogarit€ bankare, sistemet e kontabilitetit dhe shpenzimet e pranueshme """""
+
+#### Neni II
+
+-Dispozitat per pagesat e b€ra nga Komisioni per perfituesin e IPA II, ic ieshte Autoriteti Kontraktues .....
 
 #### Neni 12
 

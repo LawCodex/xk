@@ -146,57 +146,7 @@ znadi fiskalna godina Zajrnoprirnca koja poiinje l. januara svake godine.
 
 Zadnji dan dostupnosti znaci zadrrji dan dostupnosti kao sto nalaze Sekcija 2.02.(g ,,Ugovor o javnim sluibama"
 
-znaii. kao i kada se izvrSava, ugovor o javnim uslugama ianedu Subjekra projekta i opitine, u obliku i sazadovoljavaju6i za Banku.,'
-
-Sporazum o dodatnom gmntu" zna6i Sporazum o grantu koji ce sklopiti od stmne Subjekta projekta i Zajmoprimca u skladu sa odeljkorn
-
-3.01 (a), jer. rakav Sporazum o grinhr moZe biti povr emeno izmenien.
-
-### IZVRSNA VERZIJA
-
-OdeljakI.03. Tumaienja .
-
-U ovonr Sporazurnrr, pozivanje na neki odredeni dlan, odeljak ili dodatak, osinr ako se dmgatije ne odredi u ovom Sporazur,u tumadi kao pozivanje na taj dlan, odeljak ili dodatak ovog Sporazuma.
-
-Odeljak 2.01. Iznos i Valuta
-
-(a) Banka.ie saglasna da pozajmi zajnoprinrcu, na osnovu uslova utvrtlenirn ili pomenutim u ovom Sporazumu, iznos do 10.000.000 evra, pod uslovom da iznos glavnice zajrna i iznos glavnicc sporazuma o sutinansiranju ci svaki biti unranien za iznos.iednak 507o od obavezanog iznosa za zajmopinca pod bilo kojirn Sporazumo* o grantu WBlF-a(lnvesticioni okvir za Zapadni Balkan) .
-
-ilax rr - GLAVNT usLovrLAJry,A Odeljah 2.02. Ostali finansijski uslovi zajma
-
-(a) Minimalan iznos povlaeenja bi6e 250,000.cvra.
-
-(b) Minimalan iznos pr.etplate biie 2,000,000.evra.
-
-(c) Minimalan iznos orkazivarja bide 100,000. evra.
-
-(d) l)atum isplate kamate biie 30. mam i 30. septembar svake godine.
-
-(e) ( l) Zajrnoprimac 6e otplatiti zajam u 24 jednake (ili koliko je rnogude)jednake polugodiinje rate na datum 30.maj i 30.septembar svake godini, .u p.uo,, otplatom zajna3D. marta 2022 i poslednji datum otplate zajma na datum j0. mart 2033.god.
-
-(2) Bez obzira na gore pomenuto. u sludaju da (i) Zajmoprimac ne povude ceo iznos zajrna pre datuma prve otplate ;:ajrna , odredenog u odeljku 2.02. (e), i (ii)
-
-Banka ptoduZi poslednji raspoloZivi datum odredeno u odeljku 2,02. (f) dole u nastavku, na neki datum ko-iije nakon datuma prve otplate zajma; onda ie se iznos svakog povlaienja na ili nakon datuma prvog povlaienja zajma podeliti za orplatu na isti iznos za nekoliko datuma otplate zajma ko.ji 6e biti nakon daiuma povladenja (priiagotlavanje podeljenih iznosa sa Bankom, onoliko koliko .icpotrebno da se postignu svi brojevi za svaki sludaj). Banka, tokom vrcrnena, treia obavestiti Zajmoprirnca o takvim podelarna.
-
-(f)
-
-.
-
-Poslcdnji daturr raspoloZivosti bi6e 30. septembar 2024, ili kasniji datum koji Banka moZe odrediti u njenoj diskreciji i da obavesti Zajmoprimca.
-
-(g) Stopa isplate angaZovanja biie 0.5 % godiSnje.
-
-J
-
-### IZVRSNA VERZIJA
-
-(h) Zajam je prcdnret pr.rnrenljive kantatnc stope. IJez obzim na gorc pornenuto, Zajrnoprimac moze. kao alternativa za pla{anie ka:late na prornenljivJ karnatne stope na celokupan ili bilo koji deo nepladenog zajrn4 odludi da plati karnate na fiksnu kamatnu stopu na taj deo zajrna u skladu sa odeljkom 3.04 (c) Standardnih uslova.
-
-(D Stopa procenta tarife u pocetku transkacije (FronrEnd) biee p/o od maksimalnog iznosa glavnice zajma (100.000 cvra) i plativa od daturna ovog Spomzuma, u skladu si ode ljkom 3.05 Standardnih uslova.
-
-U) 'farifa za pretplatu te biti 0.l25Yo od iznosa glavnice zajma koji je pr.etplaien u skladu sa odeljkorn 3.07 Standardnih uslova.
-
-(k) 1-arifa za otkazivanje tc biti 0.1?5o/o koja se treba obratunati i u skladu sa odeljkom 3.08 Standardnih uslova, pod uslovom da nijedna tar.ifh za otkazivanje ne primenjuje na trilo koje otkazivanje zajma kao rezultat doZa-inroprimca.
+znaii. kao i kada se izvrSava, ugovor o javnim uslugama ianedu Subjekra projekta i opitine, u obliku i saZa-inroprimca.
 
 (l) Stopa zatezne kamate ie l;iti 2% godi5,je plus i rnargine i medubankarske stope iz odel-ika 3.09 (a), (iii) srandard,ih uslova koji treba da se obradunavalLr i pla6aju u skladu sa odeljkonr 3.09 u standardninr uslovima_
 
@@ -378,33 +328,7 @@ Irne: Bedri Flarnza Pozicija: M inistar Financije
 
 od:
 
-Imel Suma Chakrabarti I'ozicija: Presendnik ti l. Cilj projekta je da pomogne Zajrnoprimcu u izgradnju novog posrrojenja za tretman otpadnih voda i rehabilitacije i prolirenje kanalizacione mreZe . opstini Gn-iilane. Kosovo, i povczivanje okolne zajednice. Trcnutno, opStina izliva otpadne vode bcz prethodnog (rermana u reci Morava ko.ia se uliva u srbiji. projekat ie piu2ati uslugc za preoiidavanje otpadnih voda za oko 76.000 stanovnika u opstini i otzona itakode ie ublaziti stetu lokalnirn ekosisternirna spreiavanjem zagaclenja lokalnih vodenih resursa od ispu3tanja nept.ei:isdene otpadne vode.
-
-\2. Projekar se sasroji od slededih delova, poStt{u6i njihove moditikacije. Banka i Za.irnoprirnac se mogrr rlogovoril.i s vrernena na vrcrne:
-
-[)eo r\: Izgrzdnja postroicnia za preiiiiavanje orpadnih voda i proiirenje i obnovu kanalizacione rnrc2c.
-
-### IZVRSNA VERZIJA
-
-PRILOG I . OPIS I'It().'|jK1i\ Deo il: Eksproriacija nepokretne inrovine koja se kor.isti za zavrietak projekta od strane opstine i srodne naknade.
-
-l)eo C: Uslugc in2cnjerske sluZbe.
-
-\3. l,rojekat treba da bude zavr5en do 31. decernbra 2024.
-
-sr-t I't{tlo(; 2 - KA'r'tiG0Rl.tri I poyLAttrNJA l. Tabcla u nastavku navodi kategorije, iznos zajma koji je raspotleljen za svaku kategoriju. kao i procenat troskova koji de se finansirati za svaku kategoriju.
-
-\2. Izuzeto odrcdbi stavke I gore, ncie biti nikakvog povladenja u pogledu troskova koji su nastali pre darurna Sporazuma o zajrnu.
-
-ltutegolija Iznos krcdita (lo.lcljen u v.luli zajnra t. 150-000 e\ r.r
-
-750.001) c\ |ir(2) Konsullantskc usluge zx nadzor t?dova
-
-(3) taril-c rr pocetku transkacijc (l"roEt-erd) procerat t il(nprro
-
-(l) Robr ! ndo\'a l'rikrzi Priloga 2 Pror:enat tro3kova koji ae s.
-
-finansir.iai 5oolo od yrednosti ugotom bcz bilo kakvih fnrcza silo/o od |rcdnotrilo kakvih porezr
+Imel Suma Chakrabarti I'ozicija: Presendnik ti l. Cilj projekta je da pomogne Zajrnoprimcu u izgradnju novog posrrojenja za tretman otpadnih voda i rehabilitacije i prolirenje kanalizacione mreZe . opstini Gn-iilane. Kosovo, i povczivanje okolne zajednice. Trcnutno, opStina izliva otpadne vode bcz prethodnog (rermana u reci Morava ko.ia se uliva u srbiji. projekat ie piu2ati uslugc za preoiidavanje otpadnih voda za oko 76.000 stanovnika u opstini i ottrilo kakvih porezr
 
 100.000 evra
 

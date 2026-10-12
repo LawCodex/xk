@@ -1,21 +1,39 @@
 ---
-title: "LIGJI NR. 08/L-013 PËR TË DREJTAT PRONËSORE TË SHTETASVE TË HUAJ NË REPUBLIKËN E KOSOVËS"
+title: "LIGJI Nr. 08/L-013 PËR TË DREJTAT PRONËSORE TË SHTETASVE TË HUAJ NË REPUBLIKËN E KOSOVËS (KONSOLIDUAR)"
 identifier: "08/L-013"
 type: act
 jurisdiction: xk
 language: sq
 date: 2022-02-09
+last_amended: 2025-05-26
 status: in_force
-text_version: original
+text_version: consolidated
 gazette: "Gazeta Zyrtare 6/2022"
-source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53715"
+source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=106138"
 retrieved: 2026-10-12
-note: "Original text as published; amended by 1 later act(s) listed on the source page."
+note: "Consolidated text published by the Official Gazette as non-official (\"Teksti i spastruar i ligjit nuk paraqet version zyrtar\")."
+base_act: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=53715"
 ---
 
-# LIGJI NR. 08/L-013 PËR TË DREJTAT PRONËSORE TË SHTETASVE TË HUAJ NË REPUBLIKËN E KOSOVËS
+# LIGJI Nr. 08/L-013 PËR TË DREJTAT PRONËSORE TË SHTETASVE TË HUAJ NË REPUBLIKËN E KOSOVËS (KONSOLIDUAR)
 
-### LIGJI NR. 08/L-013 PËR TË DREJTAT PRONËSORE TË SHTETASVE TË HUAJ NË REPUBLIKËN E KOSOVËS
+LIGJI Nr. 08/L-013 PËR TË DREJTAT PRONËSORE TË SHTETASVE TË HUAJ NË
+
+### REPUBLIKËN E KOSOVËS1
+
+(Data e Publikimit: 9 shkurt 2022)
+
+Teksti i integruar me ndryshimet dhe plotësimet e bëra në bazë të:
+
+### LIGJI NR. 08/L-290 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJIT NR. 08/L-013
+
+### PËR TË DREJTAT PRONËSORE TË SHTETASVE TË HUAJ NË REPUBLIKËN E
+
+### KOSOVËS
+
+(data e publikimit: 20 nëntor 2024)
+
+1 Teksti i spastruar i ligjit nuk paraqet version zyrtar.
 
 ### LIGJI NR. 08/L-013
 
@@ -53,13 +71,13 @@ Përkufizimet
 
 1.5. Prona e njësive të administrimit të pushtetit lokal - nënkupton pronën e regjistruar në emër të komunës përkatësisht kryeqytetit apo institucioneve ose ndërmarrjeve publike komunale të cilat ushtrojnë autorizime publike të përcaktuara me ligj, në të cilën komuna/kryeqyteti ka të drejtën e posedimit dhe administrimit.
 
-### LIGJI NR. 08/L-013 PËR TË DREJTAT PRONËSORE TË SHTETASVE TË HUAJ NË REPUBLIKËN E KOSOVËS
-
 #### Neni 4
 
-Fitimi i të drejtave pronësore nga personat e huaj
+Fitimi i të drejtave pronësore nga personat e huaj (shtohet paragraf i ri 1a me Ligjin Nr. 08/L-013, datë 9 shkurt.2022)
 
 \1. Personat e huaj fizikë dhe juridikë kanë të drejtë të jenë titullar i të drejtave pronësore në territorin e Republikës së Kosovës, sipas parimit të reciprocitetit dhe kushteve të përcaktuara me këtë ligj apo me Marrëveshje Ndërkombëtare.
+
+1.a. Përjashtimisht nga paragrafi 1 i nenit 4 të Ligjit bazik, personat e huaj fizikë dhe juridikë të komunitetit shqiptarë nga Komuna e Preshevës, Medvegjës dhe Bujanovcit në Republikën e Serbisë, kanë të drejtë të jenë titullar i të drejtave pronësore në territorin e Republikës së Kosovës, sipas kushteve të përcaktuara me Ligjin bazik duke e përjashtuar parimin e reciprocitetit
 
 \2. Personat e huaj, sipas paragrafit 1 të këtij neni, mund të fitojnë të drejta pronësore mbi pronën e paluajtshme në bazë të transaksionit të vlefshëm juridik, trashëgimisë, vendimit të një organi shtetëror apo mënyrave të tjera të vlefshme të fitimit të pronësisë siç përcaktohet me ligj.
 
@@ -93,8 +111,6 @@ Kufizimi i të drejtave pronësore në pronën e paluajtshme për personin e hua
 
 \1. Personi i huaj nuk do të ketë të drejtën e pronës në pronat publike të përcaktuara me Ligjin përkatës për prona publike dhe atë:
 
-### LIGJI NR. 08/L-013 PËR TË DREJTAT PRONËSORE TË SHTETASVE TË HUAJ NË REPUBLIKËN E KOSOVËS
-
 1.1. Pasuritë natyrore;
 
 1.2. Të mirat publike në përdorim të përgjithshëm;
@@ -123,7 +139,7 @@ Procedura e Regjistrimit Procedura për regjistrimin e të drejtave pronësore n
 
 Të drejta pronësore të personave shtetas të shteteve anëtare të Bashkimit Evropian
 
-\1. Persona të shteteve anëtare të Bashkimit Evropian (në tekstin e mëtejmë: BE) janë personat fizikë shtetas të një shteti anëtarë të BE-së dhe personat juridikë të themeluar sipas ligjit të një shteti anëtarë të BE-së, të cilët kanë përfaqësi apo degë në Republikën e Kosovës.
+\1. Persona të shteteve anëtare të Bashkimit Evropian (në tekstin e mëtejmë: BE) janë personat f izikë shtetas të një shteti anëtarë të BE-së dhe personat juridikë të themeluar sipas ligjit të një shteti anëtarë të BE-së, të cilët kanë përfaqësi apo degë në Republikën e Kosovës.
 
 \2. Personat e shteteve të BE-së mund të jenë bartës të të drejtës së pronësisë mbi sendet e paluajtshme nën kushte të njëjta me shtetasit e Kosovës, përkatësisht, në rastin e personave juridikë, me kushte të njëjta si personat juridikë të Kosovës, në bazë të parimit të mos diskriminimit.
 
@@ -134,8 +150,6 @@ Të drejta pronësore të personave shtetas të shteteve anëtare të Bashkimit 
 3.2. Personi juridik është themeluar në bazë të ligjit të një shteti anëtarë të BE-së, dhe
 
 3.3. E drejta për të qenë bartës i të drejtës së pronësisë është e ndërlidhur me ushtrimin e të drejtave fundamentale të garantuara me legjislacionin e BE-së.
-
-### LIGJI NR. 08/L-013 PËR TË DREJTAT PRONËSORE TË SHTETASVE TË HUAJ NË REPUBLIKËN E KOSOVËS
 
 \4. E drejta në paluajtshmëri e personave, shtetas të shteteve anëtare të BE-së apo personave juridikë të një shteti anëtarë të BE-së, që kanë përfaqësi apo degë në Republikën e Kosovës, kufizohet në pajtim me dispozitat e Ligjit përkatës për pronën publike njësoj si kufizimet e të drejtave në paluajtshmëri të shtetasve apo personave juridikë të Republikës së Kosovës.
 

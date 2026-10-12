@@ -72,7 +72,9 @@ Originalnog sporazuma za Projekat progratna ruralni vodovod 1 kanalizacija Progr
 
 Strane su se o prethodnim izmenama sloZil; da se iznrene sledeee odredbe na slede6i na6in:
 
-Clan I Podstav a) stava 3 clana ll - ciljevi i namere originalnog sporazurna ovim se menlaju i zamenjuju u celosti kako sledi::
+#### Clan I
+
+Podstav a) stava 3 clana ll - ciljevi i namere originalnog sporazurna ovim se menlaju i zamenjuju u celosti kako sledi::
 
 \3. a. Ljudi u podrzanim oblastima imaju koristi od univerzalnog pristupa bezbednom snabdevanju vodom i sanitarnim uslugama koje pruZaiu komunalna preduze6a. SDC 6e kroz PPRVK fazu Vl i VK zajednidki ulagati u izgradnju novih i nadograileni ruralnih sistema vode u kosovskim cpstinama (osim u severnim op6tinama), koji ce bili integrisani u upravljanje odgovarajrrcim
 

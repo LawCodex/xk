@@ -326,79 +326,7 @@ Tarifa za udeSie iz dlana 3 (7) ovog sporazuma se deli u slede6e faze:
 
 -2021,0,5% -2022, r% -2023,1,5% -2024,2% -2025,2,5% -2026,3% -2027, 40/o
 
-3.Uskladusadlanom3(5)ovogsporazum4podetnioperativnidoprinoskojieeKosovo platiti za svoje u6e56e u progurmu Horizon Europe izra6unade se za odgovaraju6e fi nansijske godine primenom prilagoilavanja glavnog t2 4Prilagotlavanje glavnog doprinosa 6e biti:
-
-Prilagoden glavni doprinos = glavni doprinos x koeficilent Koeficijent koji se koristi za gomji obraf,un za prilagodavanje glavnog doprinosa bi6e 0,09.
-
-U skladu sa dlanom 3 (8) ovog sporazuma, prvo prilagotlavanje koje se odnosi na izvrsenje budzeta za godinu N izvrsi ce se u godini N + I kada 6e se podetni opcioni doprinos godine N 6e biti gore ili dole regulisan za razliku merlu:
-
-a) regulisanog doprinosa obradunatog plimenom glavnog doprinosa regulisanog godine N u iznosu:
-
-i.IznosbudZetskiholravezapreuzetihzaraspodeluovla56enihobavezazagodinu N u skladu sa budZetom kojije izglasala Ewopska unija i za raspodelu obaveza koje odgovaraju opozivu i porovi stav[ena na raspolaganju;
-
-ii. Uiio m;! izOva.lan;i nu,r"ni ,^noruno na odre'lenim spoljnim prihodima koje ne proistidu iifinansijskih doprinosa za progtam Horizon Europe od drugih donatora dostupnitr na traju godine Nll' Za odre'tene vanjske prihode koji-se Horizonu Europi dodeljuju prema dlanu 3' stav l' Uredbe Saveta (EU)
-
-2020n094 kojom se usiostavlja lnstrument Evropske unije za podrSku oporavka nako-n krize covlD-1912, godiSnji indikativni iznosi u programiranju MFF-a Ce se koristiti u svrhu obraduna regulisanog doprinosa'
-
-b) i podetnog operativni doprinos godine N.
-
-podevsi od N + 2, i nakon svake naredne godine, sve dok se sve budietski angazman koje se finansiraju iz budZetskih izdvajanja obaveza koje potidu iz godine N poveCavaju se u skladu sa dlanom 3 (4) ovog sporazuma' su pladene ili opozvani, iz angaiman' ne kasnije od 3 godine nakon zavrSetka pmgrama Horizon Europe, Unija Ce izradunati regulisanje operativnog doprinosa za N godinu, smanjujuei operativni doprinos Kosova za iznos pri*"norn kljula regulisanog doprinosa zaN godinu za izvrSeni opoziv za svaku godinu o angaZovanju N gode koje se finansiraju iz budZeta Unije ili iz opoziva ponovno stavlienim na raspolaganju.
-
-Ako iznosi koji proizilaze iz odredenih vanjskih prihoda za N godinu (ukljudujuCi namenu obavezai,zaiznosepremaUredbiSaveta(EU)2o2ol2og4,indikativnegodisnjeiznoseu programiranju MFF-a) koji ne proizlaze iz finansijskih doprinosa u programu Horizon Europe iz drugih donatori se otkazuju, dok se operativni doprinos Kosova smanjuje za iznos primljen primenom glavnog doprinosa regulisanog za N godinu na namenjeni iznos'
-
-lrovo uk5udule narocilo sredstva iz Insaumenra za opomvak EvroPske unle us?ostsYljenog Uredbom saveta (EU) z02oa0!rq od 14- deccmbra 2020. o usposravljanju Instrumenta za oporavak Evropske uriie za po&*u oporavku nakon krize COVI D-19 (OJL 4331,22.12.2O2O' su'2'l ')'
-
-t?ol L433t,22.12.2o20., str.23.
-
-II. Automatsha korekciiit operativnou dolrinosa l{osova l. Za izra tnavanje automatske korekcije iz dlana 4. ovog sporazuma, primenjivade se slede6i modalitet:
-
-a) .,Konkurentni g!-antovi., znali grantovi dodeljeni putem poziva za podno5enje predloga gde se krajnji korisnici mogu identifikovati u vreme automatskog obraduna korekcije.
-
-ninansijska podrska trecim licima kako je detinisano u dlanu 204. Finansijske uredbe je isklju0ena;
-
-b; kadaje pravna obaveza potpisana sa konzorcijumom, iznosi koji se koriste za utvrdivanje pooetnih iznosa zakonskih obavqza bi6e kumulativni iznosi dodeljeni korisnicima koji su subjekat sa Kosova u skladu sa indikativnom budzetskom raspodelom ugovora o grantu;
-
-c) svi iznosi pravnih obaveza koji odgovaraju konkurentnim grantovima bi6e generisani korii6enjem elektronskog sistema ecorda Evropskc komisije i bi6e izdati druge srede februara N + 2;
-
-d) ,,Troskovi neintervenisanja" podrazumeva troSkove Programa pored konkurentnih grantova, 'ut6rerlueitro5kovepodi5kqposebnogadministriranjaprograma,drugeradnjer3;
-
-e) ,loieljenl iznos medunarodnim organizacijama kao pravnim ticima, koji su krajnji korisnici, smatradela se troSkovima neintervenisanju.
-
-\2. Mehanizam 6e se primeniti na slededi nadin:
-
-a) Automatska korigovanja za godinu N u pogledu izvrSenja alokacija obaveza za godinu N, uve6ana u skladu sa dlanom 3 (4) ovog sporazuma, primenjiva6e se na osnovu podalaka za godinu N i godinu N * 1 iz e-Corde prikazanao u tadku c) stava (l) tadke (I) ovog Aneksa u godini N + 2, obzirom da su sva prilagotlavanja u skladu sa dlanom 3 (8) ovog sporinuma primenjena su za doprinos Kosova programu Horizon Europe. Razmatrani iznos 6e biti iznos konkurentskih grantova za koje su dostupni podaci, u vreme preradunavanje korekcije'
-
-b) podevsi odN+2 pa do 2029. godinq iznos automatske korekcije 6e se radunati za godinu N uzimajudi u obzir razliku izmedu:
-
-i.ukupaniznoskonkurentnihgrantovadodeljenihKosovuilipravnimlicima sa Kosova kao ob aveze pretzele za budZetske podele godine N ; i ii. iznos korigovanog operativnog doprinosa Kosova za godinu N pomnoZen sa odnosom izmedu:
-
-A. iznos konkurentnih grantova dodeljenih za raspodelu obaveza iz godine N, poveCan u skladu sa dlanom 3 (4) ovog sporazuma; i B. ukupan iznos odobrenih budZetskih izdvajanja za godinu N'
-
-ukljudujuti ro5kove neintervenisanja.
-
-rr< Ostala radnje ruktjuluje narodito nabavke, ccne, finansijske instrumente, direktne radnje Zajednitkog istrazivadkog centra, pretplare (OECD, Eureka, IPEEC, tEA,)' strudnjake (ocenjivadi, monitoring projekata) itd.
-
-tiMedunarodne oryanizacije bi smatrale neinterventne trolkove ako su kajnji korisnici. Ovo se neae primenjivati kada je medunarodna otganizacija koordinator kooldinatorima).
-
-l4 projckta (raspodelom sredstava drugim ')
-
-III.Pla6anie kosovskog finai'.siiskos doprinosa. nladanie resulisanie izvriena u o0erativnom doprinosu Kosova i nlafanie automatske korekciie nrimeniive na kosovski onerativni donrinos Komisija 6e obavestiti Kosovo, Sto je pre mogufe' a najkasnije prilikom raspisivanja prvog poziva-za finansijska sredstva za finansijsku godinu, sledece informacije:
-
-a. iznosi za podelu budZetskih namena Unije koja su konadno odobrena za godinu o kojo je red za budZetske stavke koje pokrivaju ude56e na Kosovu u programu Horizon Evropa bice povedano, ako je bitno, u skladu sa dlanom 3 (4) ovog sporazuma;
-
-b, iznos naknade za ude56e potnenuto u dlan 3 (7) ovog sporazuma:
-
-c. iz godinc N + I impllmentacija programa Horizon Europe' implementacija .urplo,l.l" obaveza koje odgovaraju budZetskoj godini N' pove6ana su u skladu sa dlanom 3 (4) ovog sporazuma i nivoom povladenje angaZmana;
-
-d. za deo programa Horizon Europe, gde je takva informacija potrebna za izradunavanjeautomatskekorekcije,nivopreuzetihobavezaukoristpravnihlicasa Kosova razvrstan prema odgovarajudoj godini budZetskih izdvajanja i odgovarajuii ukupni nivo angaZovanja.
-
-NaosnovusvogNacrtabudzeta,Komisijaiedostavitiprocenuinformacijazanatednu grOi* po.l *e["tna (a) i (b) Stole pre mogude, a najkasnije do l' septembra finansijske godine.
-
-Komisija 6e obaviti, najkasnije aprila ijunu svake finansijske godine' poziv za sredstva za Kosovo koji odgovaraju njegovont doprinosu po ovom spomzumu'
-
-Svakipozivzasredstvaosigura6euplatuSestogoddvanaestdoprinosaKosovanajkasnije 30 dana nakon objavljivanja poziva za sredstva'
-
-Za prvu godinu primene ovog sporazuma, Komisija 6e raspisati jedini poziv za sredstva u rotSvake godine, polev od 2023. goding poziv za sredstva -Ce takode odraZavati iznos automaiske koretije primenljive na operativni doprinos upla6en za godinu N-2'
+3.Uskladusadlanom3(5)ovogsporazum4podetnioperativnidoprinoskojieeKosovo platiti za svoje u6e56e u progurmu Horizon Europe izra6unade se za odgovaraju6e fi nansijske godine primenom prilagoilavanja glavnog Svake godine, polev od 2023. goding poziv za sredstva -Ce takode odraZavati iznos automaiske koretije primenljive na operativni doprinos upla6en za godinu N-2'
 
 Poziv za sredstva objavljen najkasnije u aprilu mo7e takode ukljudivati regulisanje n.r".i.;tf,o! aop.inosa toji Kosovo plafu za sprovodenje, menadZiranje i funkcionisanje F.og.r*udpr"irrodni porgam za istraZivanje i inovacije u kojem je Kosovo udeswovalo'
 
@@ -470,8 +398,4 @@ elan 3 Oporavak i Primena L Odlulre koje je usvojila Evropska komisija koje name
 
 \2. Presude i nalozi Su& pravde Ewopske unije doneti na osnovu arbitraZne klauzule sadr2ane u ugovoru ili sporazumu u vezi sa progratnitna, aktivnostinra' delovanja ili projektima unije bice primenjivi na Kosovu na isti na[in kao u odluke Evropske komisije iz stav (l).
 
-\3. Sud pravde Evropske unije ima nadleznost da preispita zakonitost odluke Komisije pomenutoustavl.idaobustavinjenuprimenu'MenadleZmost o Zalbama da sc Pimena limplementacija sprovodi nepravilno'
-
-ehn 4 Komunikacija i razmena infornracija Institucije i organi Evropske unije ukljudeni u sprovodcnje programa Horizon Europe ili u kontrolu nad tim programom, imaju pravo da komuniciraju direktno' uklj uduju0i i putem sistema elektronskerazmene'sabilokojimfizidkimlicemkojeZivinaKosovuiprimasredstvafondove izEvropskeunije,kaoibilokojetre6eliceukljudenouimplementacijutbndovaUnijesa prebivalistemilisedi5temnaKosovu.Takvalica,subjektiistrankemogudirektnodostaviti institucijamaiorganimaEwopskeunijesverelevantneinformacdeidokumentacijukojemoraju dostaviti u skladu sa zakonima Evropske unije koji se primenjuju za program unije kao i ugovori ili sporazumi sklopljenim radi implementacije tog programa'
-
-!t
+\3. Sud pravde Evropske unije ima nadleznost da preispita zakonitost odluke Komisije pomenutoustavl.idaobustavinjenuprimenu'Me

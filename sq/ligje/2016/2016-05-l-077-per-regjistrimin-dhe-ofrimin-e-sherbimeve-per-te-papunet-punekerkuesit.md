@@ -1,33 +1,57 @@
 ---
-title: "LIGJI NR. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT"
+title: "LIGJI NR. 05/L-077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT (KONSOLIDUAR)"
 identifier: "05/L-077"
 type: act
 jurisdiction: xk
 language: sq
 date: 2016-07-21
+last_amended: 2026-05-20
 status: in_force
-text_version: original
+text_version: consolidated
 gazette: "Gazeta Zyrtare 26/2016"
-source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12743"
+source: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=120104"
 retrieved: 2026-10-12
-note: "Original text as published; amended by 1 later act(s) listed on the source page."
+note: "Consolidated text published by the Official Gazette as non-official (\"Teksti i spastruar i ligjit nuk paraqet version zyrtar\")."
+base_act: "https://gzk.rks-gov.net/ActDetail.aspx?ActID=12743"
 ---
 
-# LIGJI NR. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT
+# LIGJI NR. 05/L-077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT (KONSOLIDUAR)
 
-LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE oFRIMIN E SHËRBIMEVE PËR TË PAPUNËT,
+### LIGJI NR. 05/L-077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË
+
+### PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT 1
+
+(data e publikimit 21.07.2016)
+
+Teksti i integruar me ndryshimet dhe plotësimet e bëra në bazë të:
+
+### LIGJI NR. 08/L-176 PËR NDRYSHIMIN DHE PLOTËSIMIN E LIGJEVE QË PËRMBAJNË
+
+### PROCEDURA TË VEÇANTA ADMINISTRATIVE DHE HARMONIZIMIN E TYRE ME LIGJIN
+
+### NR. 05/L-031 PËR PROCEDURËN E PËRGJITHSHME ADMINISTRATIVE
+
+(data e publikimit 06.07.2023)
+
+LIGJI Nr. 05/L-077
+
+### PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT,
 
 ### PUNËKËRKUESIT DHE PUNËDHËNËSIT
 
 Kuvendi i Republikës së Kosovës;
 
-Në mbështetje të nenit 65 (1) të Kushtetutës së Republikës se Kosovës, Miraton LIGJ PËR REGJISTRIMIN DHE oFRIMIN E SHËRBIMEVE PËR TË PAPUNËT,
+Në bazë të nenit 65 (1) të Kushtetutës së Republikës së Kosovës, Miraton:
+
+### LIGJ PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT,
 
 ### PUNËKËRKUESIT DHE PUNËDHËNËSIT
 
 #### Neni 1
 
-Qëllimi Qëllimi i këtij ligji është që të rregullohen kushtet dhe procedurat e regjistrimit të të papunësuarve, punëkërkuesve dhe punëdhënësve, ofrimin e shërbimeve dhe masave për punësim nga Agjencia e Punësimit e Republikës së Kosovës në tekstin e mëtejmë (APRK) dhe detyrimet e tyre ndaj APRK, për të marrë këto shërbime që kanë synim rritjen e punësimit dhe parandalimin e papunësisë afatgjate në Republikën e Kosovës.
+Qëllimi Qëllimi i këtij ligji është që të rregullohen kushtet dhe procedurat e regjistrimit të të papunësuarve, punëkërkuesve dhe punëdhënësve, ofrimin e shërbimeve dhe masave për punësim nga Agjencia e Punësimit e Republikës së Kosovës në tekstin e mëtejmë (APRK)
+
+dhe detyrimet e tyre ndaj APRK, për të marrë këto shërbime që kanë synim rritjen e punësimit dhe parandalimin e papunësisë afatgjate në Republikën e Kosovës.
 
 #### Neni 2
 
@@ -46,8 +70,6 @@ Përkufizimet
 1.3. Punëdhënësi i regjistruar - personi fizik ose juridik i cili i siguron punë punëmarrësit dhe i paguan pagën për punën ose për shërbimet e kryera, dhe i cili regjistrohet në Zyrën e Punësimit personalisht ose në sistemin e shërbimeve online të APRK;
 
 1.4. Deklarata e Papunësisë - dokument zyrtar i Zyrës së Punësimit, përmes së cilës vërtetohet se personi është i papunë dhe në mënyrë aktive ka kërkuar punë;
-
-LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT
 
 1.5. Aftësimi dhe riaftësimi profesional - aktivitetet që kanë për qëllim të ofrojnë njohuri dhe shkathtësi praktike për realizim efikas të aktiviteteve në kuadër të një profesioni apo një grupi profesionesh;
 
@@ -71,15 +93,15 @@ LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNË
 
 1.15. Plani individual i punësimit (PIP) - plan që përgatitet për personin i cili është pjesë e grupit të cenueshëm, për të rritur mundësinë e tij për të gjetur punë;
 
-1.16. Klubi i punës - është një program specifik i Shërbimeve Publike të Punësimit- SHPP, i cili i bashkon një grup individësh të papunësuar në baza të rregullta në mënyrë që të ofrohet mbështetja për të zhvilluar aftësitë e të papunësuarve për të kërkuar dhe gjetur punë. Klubi ju mundëson anëtarëve që të zgjerojnë rrjetin e tyre të kontakteve, ofron mbështetje gjatë kërkimit të punës në grup dhe krijon vetëbesimin dhe optimizmin e pjesëmarrësve;
+1.16. Klubi i punës - është një program specifik i Shërbimeve Publike të PunësimitSHPP, i cili i bashkon një grup individësh të papunësuar në baza të rregullta në mënyrë që të ofrohet mbështetja për të zhvilluar aftësitë e të papunësuarve për të kërkuar dhe gjetur punë. Klubi ju mundëson anëtarëve që të zgjerojnë rrjetin e tyre të kontakteve, ofron mbështetje gjatë kërkimit të punës në grup dhe krijon vetëbesimin dhe optimizmin e pjesëmarrësve;
 
-1.17. Panairet e punës - është një ngjarje që zhvillohet në zonë të caktuar disa herë në vit, ku një numër i punëdhënësve dhe punëkërkuesve vijnë së bashku për qëllime të aplikimit dhe intervistimit për punë;
+1.17.Panairet e punës - është një ngjarje që zhvillohet në zonë të caktuar disa herë në vit, ku një numër i punëdhënësve dhe punëkërkuesve vijnë së bashku për qëllime të aplikimit dhe intervistimit për punë;
 
 #### Neni 4
 
 Kushtet e ofrimit të shërbimeve të punësimit nga APRK
 
-\1. Shërbimet e punësimit lehtësojnë punësimin e personave që kërkojnë punë dhe punëdhënësit LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT në gjetjen e fuqisë së përshtatshme punëtore.
+\1. Shërbimet e punësimit lehtësojnë punësimin e personave që kërkojnë punë dhe punëdhënësit në gjetjen e fuqisë së përshtatshme punëtore.
 
 \2. Zyrat e Punësimit gjatë ndërmjetësimit në punësim trajtojnë palët pa diskriminim në bazë të prejardhjes etnike, gjinisë, moshës, fesë, mendimit politik, ngjyrës, apo ndonjë formë tjetër të diskriminimit që rregullohet sipas dispozitave ligjore në fuqi.
 
@@ -89,7 +111,7 @@ Kushtet e ofrimit të shërbimeve të punësimit nga APRK
 
 #### Neni 5
 
-Regjistrimi i të papunëve
+Regjistrimi i të papunëve (fshihet nën-paragrafi 3.1 i nenit 5 i Ligjit bazik, me Ligjin Nr. 08/L-176 dt. 06.07.2023)
 
 \1. Çdo i papunë ka të drejtë të regjistrohet në Zyrat e Punësimit, për të marrë shërbimet e punësimit, nëse i plotëson kushtet si vijon:
 
@@ -111,15 +133,13 @@ Regjistrimi i të papunëve
 
 \3. Për regjistrim të papunët duhet të lajmërohen personalisht në Zyrat e Punësimit sipas vendbanimit të tyre dhe me vete të sjellin:
 
-3.1. letërnjoftimin valid;
+3.1. (Fshihet);
 
 3.2. dëshmitë për përgatitjen shkollore;
 
 3.3. dëshmitë për trajnimet eventuale të kryera.
 
 \4. Zyrat e Punësimit kryejnë regjistrimin e personave të papunë në bazë të deklarimit të personit të papunë.
-
-LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT
 
 \5. Regjistri i të papunëve përfshin:
 
@@ -156,8 +176,6 @@ Regjistrimi i punëkërkuesve
 Regjistrimi i punëdhënësve
 
 \1. Çdo punëdhënës i cili i plotëson kushtet ligjore ka të drejtë të regjistrohet në Zyrën e Punësimit për të marrë shërbimet për ndërmjetësim në punësim.
-
-LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT
 
 \2. Punëdhënësit regjistrohen në Zyrat e Punësimit apo përmes sistemit online të shërbimeve.
 
@@ -205,8 +223,6 @@ Ofrimi i shërbimeve për të papunët e regjistruar
 
 1.11. panairet e punës;
 
-LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT
-
 1.12. masa tjera që kanë të bëjnë me shërbimet e punësimit.
 
 \2. Ndërmjetësimi jashtë vendit, lejohet vetëm me ato shtete me të cilat Kosova ka marrëdhënie diplomatike. Për të ndërmjetësuar punësimin e të papunësuarave të regjistruar jashtë vendit, APRK-ja, është e detyruar të lidhë një kornizë kontratë me punëdhënësin e huaj. Kontrata e nënshkruar me punëdhënësin duhet të përfshijë së paku, këto aspekte të mëposhtme:
@@ -242,8 +258,6 @@ Kontrata e nënshkruar me të papunësuarin duhet së paku të përshijë paragr
 \5. APRK është përgjegjëse për personat të cilët janë të punësuar jashtë vendit për ligjshmërinë e punës së tyre dhe të gjitha obligimet që dalin nga kornizë kontrata.
 
 \6. APRK mban një regjistër të dhënash për të gjithë personat të ndërmjetësuar për punë jashtë vendit, me kusht që informacioni i marrë është i kufizuar në çështjet që lidhen drejtpërdrejt me rekrutimin.
-
-LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT
 
 #### Neni 9
 
@@ -287,7 +301,7 @@ Shërbimet për punëdhënësit e regjistruar
 
 1.4. shpalljen e ofrimit të trajnimit;
 
-1.5. përcjelljen e aplikimeve për vendet e lira të punës; dhe LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT
+1.5. përcjelljen e aplikimeve për vendet e lira të punës; dhe
 
 1.6. kërkimin e kandidatëve të përshtatshëm në relacion me vendet e lira të punës.
 
@@ -331,7 +345,7 @@ Detyrimet e të papunëve të regjistruar
 
 1.5. të kërkoj punë në mënyrë aktive, dhe
 
-1.6. të lajmëroj çdo ndryshim që ndikon në realizmin apo humbjen e së drejtës së LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT statusit të papunësuarit të regjistruar, më se voni në afatin prej pesëmbëdhjetë (15)
+1.6. të lajmëroj çdo ndryshim që ndikon në realizmin apo humbjen e së drejtës së statusit të papunësuarit të regjistruar, më se voni në afatin prej pesëmbëdhjetë (15)
 
 ditësh nga dita kur ka pasur ndryshim.
 
@@ -375,8 +389,6 @@ Mbajtja e evidencës nga APRK
 
 \3. Për punëkërkuesit dhe punëdhënësit e regjistruar mbahet evidenca në bazën e të dhënave në mënyrë elektronike.
 
-LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT
-
 #### Neni 17
 
 Ndërprerja e mbajtjes se evidencës së të papunëve të regjistruar
@@ -405,7 +417,7 @@ Ndërprerja e mbajtjes se evidencës së të papunëve të regjistruar
 
 #### Neni 18
 
-Ç ‘regjistrimi nga evidenca e të papunëve të regjistruar
+Ç ‘regjistrimi nga evidenca e të papunëve të regjistruar
 
 \1. Te papunët e regjistruar ç‘regjistrohen nga evidenca në Zyrat e Punësimit, nëse:
 
@@ -423,8 +435,6 @@ Ndërprerja e mbajtjes në evidencë të punëkërkuesve të regjistruar
 
 1.1. ndonjë informatë që futet në profilin e punëkërkuesit nuk është e vërtetë;
 
-LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT
-
 1.2. punëkërkuesi nuk e përdor profilin online apo llogarinë e tij/saj së paku një herë në vit.
 
 #### Neni 20
@@ -441,13 +451,21 @@ Ndërprerja e mbajtjes në evidencë të punëdhënësve të regjistruar
 
 #### Neni 21
 
-Ri-evidentimi
+Ri-evidentimi (Pas nenit 21 të Ligjit bazik shtohet një nen i ri 21A, me Ligjin Nr. 08/L-176 dt. 06.07.2023)
 
 \1. Të papunët e regjistruar të cilët janë larguar nga baza e të dhënave të përcaktuar nenin 17, paragrafëve 1.5, 1.6 dhe 1.7 të këtij ligji, kanë të drejtë të ri-evidentohen përsëri në Zyrat e Punësimit si të papunë të regjistruar, pas kalimit të afatit prej gjashtë (6) muajsh. Të papunët e tjerë të regjistruar kanë të drejtë të ri-evidentohen pa ndonjë afat të caktuar.
 
 \2. Punëkërkuesit e regjistruar të cilët janë ndërprerë nga evidenca të përcaktuar ne nenin 19, paragrafi 1.2 të këtij ligji, kanë të drejtë të ri-evidentohen përsëri në sistemin e shërbimeve online me kërkesë të drejtuar tek APRK, ndërsa punëkërkuesit e regjistruar të cilët janë ndërprerë nga evidenca të përcaktuar ne nenin 19, paragrafit 1.1. të këtij ligji, mund të kthehen pas një periudhe së paku gjashtë (6) mujore.
 
 \3. Punëdhënësit e regjistruar të cilët janë larguar nga baza e të dhënave të përcaktuar në nenin 20, paragrafi 1.1 të këtij ligji, kanë të drejtë të ri evidentohen përsëri në evidence pas një periudhe së paku gjashtë (6) mujore, ndërsa punëdhënësit e regjistruar të cilët janë larguar nga baza e të dhënave për të përcaktuara në nenin 20, paragrafi 1.3., mund të kthehen pas një periudhe së paku një (1) vjeçare.
+
+#### Neni 21A
+
+E drejta e ankesës
+
+\1. Kundër vendimeve përfundimtare të APRK lejohet ankesa në pajtim me Ligjin përkatës për Procedurën e Përgjithshme Administrative.
+
+\2. Organ epror që shqyrton ankesat sipas paragrafit 1 të këtij neni është Komisioni i ankesave i themeluar me vendim të Ministrit në Ministrinë përgjegjëse për punë. Ministri përkatës me Akt nënligjor përcakton përbërjen e komisionit dhe mandatin e anëtarëve të komisionit, i cili nxjerrët tre (3) muaj pas hyrjes në fuqi të këtij Ligji. Puna dhe procedura e komisionit të ankesave bazohet në rregullat e përcaktuara për organet kolegjiale në Ligjin përkatës për Procedurën e Përgjithshme Administrative.
 
 #### Neni 22
 
@@ -459,10 +477,10 @@ Shfuqizimi i akteve
 
 \1. Me hyrjen në fuqi të këtij ligji shfuqizohet Ligji Nr. 04/L–83, për regjistrimin dhe evidencën e të papunësuarave dhe punëkërkuesve.
 
-\2. Deri në nxjerrjen e akteve nënligjore, brenda afatit të paraparë me këtë ligj, mbetet në fuqi LIGJI Nr. 05/L -077 PËR REGJISTRIMIN DHE OFRIMIN E SHËRBIMEVE PËR TË PAPUNËT, PUNËKËRKUESIT DHE PUNËDHËNËSIT Rregullorja Nr. 01/2012, për Programet aktive të tregut të punës, dhe të gjitha aktet nënligjore që nuk janë në kundërshtim me këtë ligj.
+\2. Deri në nxjerrjen e akteve nënligjore, brenda afatit të paraparë me këtë ligj, mbetet në fuqi Rregullorja Nr. 01/2012, për Programet aktive të tregut të punës, dhe të gjitha aktet nënligjore që nuk janë në kundërshtim me këtë ligj.
 
 #### Neni 24
 
-Hyrja në fuqi Ky ligj hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit në Gazetën Zyrtare të Republikës së Kosovës.
+Hyrja në fuqi Ky ligj hyn në fuqi pesëmbëdhjetë (15) ditë pas publikimit të tij në Gazetën Zyrtare të Republikës së Kosovës.
 
 Ligji Nr. 05/L-077 16 qershor 2016 Shpallur me dekretin Nr. DL-022-2016, datë 01.07.2016 nga Presidenti i Republikës së Kosovës Hashim Thaçi

@@ -82,7 +82,7 @@ MtNIsrRrsE sii ARslivrr, sIrKENCts, TErnor,oclrsB nHE INovACToNI't''rE nmuslxts 
 
 Duke v€nd n0 dukje bashkdpunimin e sukscssh€m nd fush6n e shkEmbimit arsimor, perlshirE bashkEpunimin nE pdrputhje me Memorandumin e Mirdkuptimit ne mes te Ambasades sd Shteteve te Bashkuara tE Anrerikds, PrishtinEs, KosovEs dhe Ivlinistrisd se Arsinrit, ShkencEs dhe Teknologjis€ t€ RepublikOs se Kosoves mbi Fakultetin Akademik Programi i ShkEmbimit i n€nshkruar nE Prishtin€ mE 8 kor;ik 2016 ("Memorandumi 201 6"); dhe Duke k€rkuar me tej zhvillimin e bashkOpunintit midis institucioneve arsimore, shkencore dhe k0rkirnore tC Shtcteve t0 Bashkuara te Amerikes dhe Republikes sE Kosov€s, p€rveg promovimit te mirekuptimit dhe miqdsis€ reciproke midis dy kombeve tona, Kan€ arritur mir€kuptimin e meposhtem:
 
-### NENI I
+#### NENI I
 
 Ky Memorandum Mir€kuptimi (n€ tekstin e metejme 'MOU) ka pdr q€llim t€ forcojE dhe zhvilloje me tej lidhjet midis Pjes6marrdsve n€ procesin e zbatimit te Programit td ShkEmbimit Akademik Fulbright (ne tekstin e m€tejme "Programi Fulbright) ne arsim, kultur€, shkencd, dhe kerkime td bazuara nd rethana qE konsiderohen reciprokisht td dobishme. Ky Memorandurn Mir€kuptimi eshte krijuar giithashtu per te njohur mEshtetjen e parashikuar financiare nga Pjesemantsi i Kosoves, nE vler€ prej s€ paku giasht€qind mije euro (600,000 €) ne vit, per pese (5) vjet, drejt Prograrnit Fulbright tE Shteteve te Bashkuara te Kosoves.
 
@@ -124,7 +124,7 @@ Pjesijmarresi amerikan synon t€ koordinojO financimin dhe zbatimin e Programit
 
 NE zbatimin e kEtij Ir,lemorandumi Mit€kuptirni, Pjesdmarr0si i KosovEs synon te inkurajojE institucionet qeveritarc, arsimore, kulturore, shkencore dhe k€rkimore per te siguruar kushtet me te t'avorshnre p€r zbatiurin e Programit Fulbright nti Republikdn c Kosoves.
 
-### NENI II
+#### NENI II
 
 Pjes€rnar€si i Kosovds synon te koordinojd miratimin dhe l€shimin nd koh€ td lejeve tE q6ndrimit dhe dokumentacionit ilet€r ligior te nevojshEm pcr studentct, profcsionistet, ligiCruesit, studiuesit (dhe bashkeshortdt dhe vartesit e tyre shoqerues) per te rnarre pjese ne Programin Fulbright ne Republik€n e Kosoves.
 

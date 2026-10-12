@@ -9,7 +9,7 @@ import re
 import subprocess
 
 ART = re.compile(r'^(Neni|NENI|Član|ČLAN|Članak|ČLANAK|Члан|ЧЛАН|Член|ЧЛЕН|Article|ARTICLE|Clan|Neneni)\s*\.?\s*'
-                 r'(\d+[\s./-]*[a-zA-Zа-яА-Я]?\d*)\s*\.?\s*(\*+|\d{1,2})?$')
+                 r'(\d+[\s./-]*[a-zA-Zа-яА-Я]?\d*|[IVXLC]{1,7}(?:\s*[a-z])?)\s*\.?\s*(\*+|\d{1,2})?$')
 DIVISION = re.compile(r'^(PJESA|KREU|TITULLI|SEKSIONI|NËNKREU|KAPITULLI|DIO|DIJELOVI|GLAVA|POGLAVLJE|ODJELJAK|ODELJAK|'
                       r'ДЕЛ|ГЛАВА|ПОГЛАВЈЕ|ОДДЕЛ|ДИО|ГЛАВА|ОДЈЕЉАК|PART|CHAPTER|SECTION|TITLE|KAPITULL|POGLAVLJE)\b')
 LOWER = re.compile(r'[a-zа-яëçčćšžđѓќљњџѕј]')
